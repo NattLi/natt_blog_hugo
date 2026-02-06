@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>时间一枪打在了我身上 on My New Hugo Site</title>
+    <link>https://example.org/tags/%E6%97%B6%E9%97%B4%E4%B8%80%E6%9E%AA%E6%89%93%E5%9C%A8%E4%BA%86%E6%88%91%E8%BA%AB%E4%B8%8A/</link>
+    <description>Recent content in 时间一枪打在了我身上 on My New Hugo Site</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/tags/%E6%97%B6%E9%97%B4%E4%B8%80%E6%9E%AA%E6%89%93%E5%9C%A8%E4%BA%86%E6%88%91%E8%BA%AB%E4%B8%8A/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Aug 2015 16:27:23 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>https://example.org/posts/</link>
+      <pubDate>Wed, 12 Aug 2015 16:27:23 +0000</pubDate>
+      <guid>https://example.org/posts/</guid>
+      <description>&lt;p&gt;[vc_row css=”.vc_custom_1440504390142{padding-top: 49px !important;}”][vc_column width=”1/2″ offset=”vc_col-xs-12″][vc_column_text]&lt;/p&gt;
+&lt;h4 id=&#34;posts-vc_column_textvc_empty_space-height822115px8221vc_columnvc_column-width8221128243-offset8221vc_col-xs-128243vc_column_textdisplay-a-list-or-slider-with-the-latest-posts-from-the-blogvc_column_textvc_empty_space-height822118px8221vc_column_textnext-element&#34;&gt;Posts [/vc_column_text][vc_empty_space height=”15px”][/vc_column][vc_column width=”1/2″ offset=”vc_col-xs-12″][vc_column_text]Display a list or slider with the latest posts from the Blog.[/vc_column_text][vc_empty_space height=”18px”][vc_column_text]Next element:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Products&lt;/a&gt;[/vc_column_text][/vc_column][/vc_row][vc_row css=”.vc_custom_1440504398074{padding-bottom: 55px !important;}”][vc_column width=”1/2″ offset=”vc_col-xs-12″][vc_empty_space height=”38px”][vc_separator border_width=”2″ accent_color=”#e0e0e0″][/vc_column][vc_column width=”1/2″ offset=”vc_hidden-xs”][vc_empty_space height=”38px”][vc_separator border_width=”2″ accent_color=”#e0e0e0″][/vc_column][/vc_row][vc_row css=”.vc_custom_1436709037589{padding-bottom: 55px !important;}”][vc_column][vc_column_text]&lt;/p&gt;
+&lt;h4 id=&#34;list-vc_column_textvc_empty_space-height822128px8221nm_posts-num_posts822138243-columns822138243-image_type8221background8221-post_excerpt822118243vc_empty_space-height822167px8221vc_column_text&#34;&gt;List [/vc_column_text][vc_empty_space height=”28px”][nm_posts num_posts=”3″ columns=”3″ image_type=”background” post_excerpt=”1″][vc_empty_space height=”67px”][vc_column_text]&lt;/h4&gt;
+&lt;h4 id=&#34;slider-vc_column_textvc_empty_space-height822128px8221nm_post_slider-image_type8221background8221-bg_image_height82213848243vc_columnvc_row&#34;&gt;Slider [/vc_column_text][vc_empty_space height=”28px”][nm_post_slider image_type=”background” bg_image_height=”384″][/vc_column][/vc_row]&lt;/h4&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>既当婊子又立牌坊 on My New Hugo Site</title>
+    <link>https://example.org/tags/%E6%97%A2%E5%BD%93%E5%A9%8A%E5%AD%90%E5%8F%88%E7%AB%8B%E7%89%8C%E5%9D%8A/</link>
+    <description>Recent content in 既当婊子又立牌坊 on My New Hugo Site</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/tags/%E6%97%A2%E5%BD%93%E5%A9%8A%E5%AD%90%E5%8F%88%E7%AB%8B%E7%89%8C%E5%9D%8A/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

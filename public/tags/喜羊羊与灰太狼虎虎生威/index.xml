@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>喜羊羊与灰太狼虎虎生威， on My New Hugo Site</title>
+    <link>https://example.org/tags/%E5%96%9C%E7%BE%8A%E7%BE%8A%E4%B8%8E%E7%81%B0%E5%A4%AA%E7%8B%BC%E8%99%8E%E8%99%8E%E7%94%9F%E5%A8%81/</link>
+    <description>Recent content in 喜羊羊与灰太狼虎虎生威， on My New Hugo Site</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/tags/%E5%96%9C%E7%BE%8A%E7%BE%8A%E4%B8%8E%E7%81%B0%E5%A4%AA%E7%8B%BC%E8%99%8E%E8%99%8E%E7%94%9F%E5%A8%81/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

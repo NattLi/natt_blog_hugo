@@ -1,0 +1,2 @@
+2020-11-25T09:46:18+00:00 CRITICAL Cannot declare class Vc_Manager, because the name is already in use in /www/wwwroot/www.natt.cc/wp-content/plugins/js_composer/include/classes/core/class-vc-manager.php on line 14
+

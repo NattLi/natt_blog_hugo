@@ -1,0 +1,45 @@
+baseURL = 'https://blognew.natt.cc/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  env = "production"
+  title = "My New Hugo Site"
+  description = "ExampleSite description"
+  keywords = ["Blog", "Portfolio", "PaperMod"]
+  author = "Me"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 20
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
