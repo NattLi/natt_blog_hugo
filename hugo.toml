@@ -21,12 +21,6 @@ buildExpired = false
   defaultTheme = "auto"
   disableThemeToggle = false
 
-  [params.homeInfoParams]
-    Title = "Hi there 👋"
-    Content = "Welcome to my blog"
-
-  [params.socialIcons]
-    github = "https://github.com/xxxx"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -35,6 +29,14 @@ buildExpired = false
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
+
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my blog"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/xxxx"
 
 [menu]
   [[menu.main]]
