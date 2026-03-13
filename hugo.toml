@@ -5,6 +5,9 @@ languageCode = "en-us"
 preserveTaxonomyNames = true
 hasCJKLanguage = true
 
+[permalinks]
+  post = "/posts/:contentbasename/"
+
 [outputs]
 home = ["HTML", "RSS"]
 

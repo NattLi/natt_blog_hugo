@@ -1,131 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>北漂 on Natt Blog</title>
-    <link>https://blognew.natt.cc/categories/%E5%8C%97%E6%BC%82/</link>
-    <description>Recent content in 北漂 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jul 2018 13:44:36 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/categories/%E5%8C%97%E6%BC%82/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>周一办了一件大事</title>
-      <link>https://blognew.natt.cc/posts/2018-07-25-%E5%91%A8%E4%B8%80%E5%8A%9E%E4%BA%86%E4%B8%80%E4%BB%B6%E5%A4%A7%E4%BA%8B/</link>
-      <pubDate>Wed, 25 Jul 2018 13:44:36 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2018-07-25-%E5%91%A8%E4%B8%80%E5%8A%9E%E4%BA%86%E4%B8%80%E4%BB%B6%E5%A4%A7%E4%BA%8B/</guid>
-      <description>&lt;p&gt;果然屁股决定脑袋，1年半之前，我进入某个房间，内心的变化已经非常剧烈。而周一晚上，当我拿着初步的材料，和小王同学坐在车里，我异常平淡。但内心真的有别样的感受。另外说一句，果然纠结来纠结去，做决定都是很快的，周日看了3分钟，周一早上一通电话基本上内心就定了，晚上简单聊了聊象征性讨价还价后完成成交。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>时间戳·2017总结与2018期许</title>
-      <link>https://blognew.natt.cc/posts/2018-01-11-%E6%97%B6%E9%97%B4%E6%88%B32017%E6%80%BB%E7%BB%93%E4%B8%8E2018%E6%9C%9F%E8%AE%B8/</link>
-      <pubDate>Thu, 11 Jan 2018 09:23:53 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2018-01-11-%E6%97%B6%E9%97%B4%E6%88%B32017%E6%80%BB%E7%BB%93%E4%B8%8E2018%E6%9C%9F%E8%AE%B8/</guid>
-      <description>&lt;p class=&#34;ql-long-4782703&#34;&gt;&#xA;  回想起我的第一个像模像样的年终总结，应该算是2010年吧，那时我一方面苦补大学成绩、另一方面静心学习英语，切切实实体会到了学习的快乐，也认为有必要整理总结一下，记录下自己内心的感悟。从2010到2017这7年间，虽然没有几篇像样的年终，但其中各种我也用一篇篇稚嫩小文做以记录。时间行至2017年底，这一年似乎格外的丰富和饱满，一篇小文似乎不足以记录下这一年的变化，于是，不如就做一个不短不长的总结和展望吧。&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>三个片段 一点感悟</title>
-      <link>https://blognew.natt.cc/posts/2017-11-27-%E4%B8%89%E4%B8%AA%E7%89%87%E6%AE%B5-%E4%B8%80%E7%82%B9%E6%84%9F%E6%82%9F/</link>
-      <pubDate>Mon, 27 Nov 2017 03:53:17 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-11-27-%E4%B8%89%E4%B8%AA%E7%89%87%E6%AE%B5-%E4%B8%80%E7%82%B9%E6%84%9F%E6%82%9F/</guid>
-      <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;&#xA;  片段1·地铁&#xA;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;早晚高峰的地铁，无非两种人，已上车的和未上车的：已上车的人喘一口气感叹虽然经历千辛万苦但终究是上车了，未上车的人想尽办法希望挤上车，其中不乏插队加塞之流。道理很简单，就这么大空间，更多人要上车，车上人就更挤。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>几个有关孩子的片段</title>
-      <link>https://blognew.natt.cc/posts/2017-08-04-%E5%87%A0%E4%B8%AA%E6%9C%89%E5%85%B3%E5%AD%A9%E5%AD%90%E7%9A%84%E7%89%87%E6%AE%B5/</link>
-      <pubDate>Fri, 04 Aug 2017 07:32:27 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-08-04-%E5%87%A0%E4%B8%AA%E6%9C%89%E5%85%B3%E5%AD%A9%E5%AD%90%E7%9A%84%E7%89%87%E6%AE%B5/</guid>
-      <description>&lt;h4 id=&#34;广播里的孩子&#34;&gt;广播里的孩子&lt;/h4&gt;&#xA;&lt;p&gt;约3天前，堵在四惠桥的我例行收听北京文艺广播早间直播互动节目。当日话题为“您给孩子报班了吗”。不得不说北京的父母消费能力确实过人，听过的没听过的才艺与特长一大堆，少则三五万一年多则十几万几十万一暑假。而且，远远不限于什么唱歌跳舞画画了，马术、击剑等也似乎大有普及之势。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>路怒</title>
-      <link>https://blognew.natt.cc/posts/2017-07-20-%E8%B7%AF%E6%80%92/</link>
-      <pubDate>Thu, 20 Jul 2017 07:29:59 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-07-20-%E8%B7%AF%E6%80%92/</guid>
-      <description>&lt;p&gt;也许是天气炎热的原因，也许是工作内容突然增多之后带来了一定的压力，这两周早上在早高峰的容忍度变得特别多低。通俗点说，容易路怒。&lt;/p&gt;&#xA;&lt;p&gt;四惠桥上四环到京通快速的匝道上是一个巅峰，每天早高峰在这里都会有大量车辆走在应急车道，而转过弯后迫于摄像头的淫威又不得不挤回正常车道。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用理性的眼睛看，你可能扛不住这个期望时间</title>
-      <link>https://blognew.natt.cc/posts/2017-04-27-%E7%94%A8%E7%90%86%E6%80%A7%E7%9A%84%E7%9C%BC%E7%9D%9B%E7%9C%8B%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E8%BF%99%E4%B8%AA%E6%9C%9F%E6%9C%9B%E6%97%B6%E9%97%B4/</link>
-      <pubDate>Thu, 27 Apr 2017 03:36:31 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-04-27-%E7%94%A8%E7%90%86%E6%80%A7%E7%9A%84%E7%9C%BC%E7%9D%9B%E7%9C%8B%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E8%BF%99%E4%B8%AA%E6%9C%9F%E6%9C%9B%E6%97%B6%E9%97%B4/</guid>
-      <description>&lt;p&gt;今天，我来聊一聊 0.00122399020807833537331701346389 这个数。&lt;/p&gt;&#xA;&lt;p&gt;1÷817=0.00122399020807833537331701346389&lt;br&gt;&#xA;即：0.122399% 的中签率&lt;/p&gt;&#xA;&lt;p&gt;今天中午被北京摇号又刷屏了，我觉得我也算一个历史的见证者了，从几年前到北京时候的200人中一个号，到现在817人中一个号，慢慢的我觉得分母破千指日可待。这将是一个社会发展新的里程碑，我有幸见证。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>两颗鹌鹑蛋的故事</title>
-      <link>https://blognew.natt.cc/posts/2016-03-24-%E4%B8%A4%E9%A2%97%E9%B9%8C%E9%B9%91%E8%9B%8B%E7%9A%84%E6%95%85%E4%BA%8B/</link>
-      <pubDate>Thu, 24 Mar 2016 20:27:43 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2016-03-24-%E4%B8%A4%E9%A2%97%E9%B9%8C%E9%B9%91%E8%9B%8B%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
-      <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;傍晚6点，一个步履徐徐面无表情的小伙子走进了小吃城，一天的改稿加晚上即将到来的在线课程让他疲惫不堪。小吃城里没什么顾客，倒是各种O2O外卖平台的机器喊个不停，订单从空中飞来。老板和伙计坐在角落抽烟，其他几个伙计在不怎么忙碌地照顾各个外卖平台来的订单，几乎无人堂食。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>十万大山</title>
-      <link>https://blognew.natt.cc/posts/2015-11-14-%E5%8D%81%E4%B8%87%E5%A4%A7%E5%B1%B1/</link>
-      <pubDate>Sat, 14 Nov 2015 13:38:56 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2015-11-14-%E5%8D%81%E4%B8%87%E5%A4%A7%E5%B1%B1/</guid>
-      <description>&lt;p lang=&#34;zh-CN&#34; style=&#34;margin: 0in; font-family: &#39;Microsoft YaHei&#39;; font-size: 11.0pt;&#34;&gt;&#xA;  &lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-1275&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_.jpg&#34; alt=&#34;7.pic&#34; width=&#34;800&#34; height=&#34;800&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_.jpg 800w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-350x350.jpg 350w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-150x150.jpg 150w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-680x680.jpg 680w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-70x70.jpg 70w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-300x300.jpg 300w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-768x768.jpg 768w&#34; sizes=&#34;auto, (max-width: 800px) 100vw, 800px&#34; /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p lang=&#34;zh-CN&#34; style=&#34;margin: 0in; font-family: &#39;Microsoft YaHei&#39;; font-size: 11.0pt;&#34;&gt;&#xA;  在我很小的时候，大概那时候爸爸也比现在的我大不了多少的时候，爸爸经常带我回爷爷的老院子。那个时候爸爸和爷爷总会聊很多事情，小孩子是没有多少耐心仔细倾听的，就满院子乱跑。午饭后自然就会犯困，爸爸和爷爷都会喝奶奶煮的茶，虽然当时我还对茶没什么直观的印象，但那差不多是我对茶的第一印象了。爸爸让我喝一口，苦。&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>大千世界的一柄放大镜</title>
-      <link>https://blognew.natt.cc/posts/2015-10-06-%E5%A4%A7%E5%8D%83%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%80%E6%9F%84%E6%94%BE%E5%A4%A7%E9%95%9C/</link>
-      <pubDate>Tue, 06 Oct 2015 03:50:36 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2015-10-06-%E5%A4%A7%E5%8D%83%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%80%E6%9F%84%E6%94%BE%E5%A4%A7%E9%95%9C/</guid>
-      <description>&lt;p&gt;近期我趁着假期开展了一个实验性的个人小项目，事情是这样的：&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;我是一个苦逼的北漂，为了一个单纯的赚大钱的梦想在帝都苦苦支撑，日复一日的耕耘着。生活渐渐失去激情，目光渐渐只看脚下。每日加班临近下午饭点时候的一句“今天点什么外卖”成了每天最舒服最放松的时刻。于是，我决定用一个微信公众号记录自己的晚餐，以一柄放大镜的形式仅仅通过每日晚餐记录自己的生活轨迹。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>压力</title>
-      <link>https://blognew.natt.cc/posts/2015-07-14-%E5%8E%8B%E5%8A%9B/</link>
-      <pubDate>Tue, 14 Jul 2015 15:03:49 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2015-07-14-%E5%8E%8B%E5%8A%9B/</guid>
-      <description>&lt;p&gt;这事儿，永远不存在人与人之间的感同身受。&lt;/p&gt;&#xA;&lt;p&gt;所以，就不写了。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Year TWO</title>
-      <link>https://blognew.natt.cc/posts/2015-05-22-year-two/</link>
-      <pubDate>Fri, 22 May 2015 17:18:34 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2015-05-22-year-two/</guid>
-      <description>&lt;p&gt;今晚失眠，爬起来举着iPad写一点东西吧。&lt;br&gt;&#xA;21号我们正式签了新的办公室，年成本又多出很多，在资金储备和发展形势都尚不太明朗的时候这样的做法是有些大胆，但我想的是Go big or home，今年争取更多榨取市场。也希望能够挣抢到higher market share.&lt;br&gt;&#xA;租房的业主是一位40年生人的老太太，骑着电动车就过来了。真是佩服这些老年人，他们用凭借自己一生得努力换来的一些积累获的资产性回报，但又维持着早年那样简朴的作风，甚至在给我打收条的时候都问一张A4纸是否可以撕成两半用。别忘了您的房子价值400万。&lt;br&gt;&#xA;ps 北京的地产中介真是如疯狗一般，找个房子下来我的手机第一次开始使用黑名单功能，并且里面已经有大约10个左右的号码了。 这里我想劝他们，看到别人赚钱同行赚钱的时候，想想为什么自己赚不到，而不是一味骚扰你的客户（作为人生经历的又一笔财富这件事我会单独些一篇）。&lt;br&gt;&#xA;还有6天交房钥匙，我还是很期待的，人生第一次在写字楼办公室上班，竟然是自己的公司呵呵呵呵你敢信？嗯，还是在国贸。&lt;br&gt;&#xA;明天大学校友足球队又有活动了，在鸟巢边上的足球场搞内部小训练赛，其实经过一年的努力拼搏我的生活除了没办法买车以外其他都还是很不错的我挺知足了。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>一年</title>
-      <link>https://blognew.natt.cc/posts/2015-04-15-%E4%B8%80%E5%B9%B4/</link>
-      <pubDate>Wed, 15 Apr 2015 15:01:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2015-04-15-%E4%B8%80%E5%B9%B4/</guid>
-      <description>&lt;p&gt;从去年开始，每年的4月16日就成了一个新的纪念日。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;去年的4月16日早8点，我怀着忐忑而期待的心情坐上了入京的火车。7个小时的路程中我心情迫不安然。而火车开车时给妈妈电话中听到妈妈哽咽的声音也觉得这似乎是一个残忍的决定。入京后享受了近一个月享受寂寞的生活，每天一个人一点一点走看似漫长的长征路。直到一个月之后的5月16日，F哥入京与我回合。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>26</title>
-      <link>https://blognew.natt.cc/posts/2015-04-15-26/</link>
-      <pubDate>Wed, 15 Apr 2015 14:46:07 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2015-04-15-26/</guid>
-      <description>&lt;p&gt;这是一篇补发的日志，补发于生日两个月后。&lt;/p&gt;&#xA;&lt;p&gt;今年26了，已经不能再像过去一样那么的无忧无虑了。&lt;/p&gt;&#xA;&lt;p&gt;我为我25岁这一年付出的努力而骄傲，也为26岁这一年的时光而期待。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>咸淡</title>
-      <link>https://blognew.natt.cc/posts/2014-08-04-%E5%92%B8%E6%B7%A1/</link>
-      <pubDate>Mon, 04 Aug 2014 06:03:10 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2014-08-04-%E5%92%B8%E6%B7%A1/</guid>
-      <description>&lt;p&gt;今天来扯个咸淡，3月进京聊项目，4月正式入京开始干活，5月（新）公司注册下来，6月新项目网站上线，7月开始来客户咨询并且有成单，8月咨询量飙升。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Today</title>
-      <link>https://blognew.natt.cc/posts/2014-06-09-today/</link>
-      <pubDate>Mon, 09 Jun 2014 15:28:12 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2014-06-09-today/</guid>
-      <description>&lt;p&gt;今天用googleapis to useso 解决了网站后台谷歌字体问题，又用WP-Mail-SMTP解决了服务器发邮件问题，还用ninja-contact-form 配合 contact form 7 实现了提交表单功能。 &lt;a title=&#34;马克笔设计留学&#34; href=&#34;http://www.makebi.net&#34; target=&#34;_blank&#34;&gt;马克笔设计留学&lt;/a&gt;的网站一天比一天强大了。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>吃肉饼时候涨的姿势</title>
-      <link>https://blognew.natt.cc/posts/2014-04-23-%E5%90%83%E8%82%89%E9%A5%BC%E6%97%B6%E5%80%99%E6%B6%A8%E7%9A%84%E5%A7%BF%E5%8A%BF/</link>
-      <pubDate>Wed, 23 Apr 2014 16:55:07 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2014-04-23-%E5%90%83%E8%82%89%E9%A5%BC%E6%97%B6%E5%80%99%E6%B6%A8%E7%9A%84%E5%A7%BF%E5%8A%BF/</guid>
-      <description>&lt;p&gt;今天中午累如狗给即将上线的新网站域名B/A回来之后，已然一点多饥肠辘辘不知道吃什么之际到门口那家肉饼店吃肉饼。 猪肉大葱两瓣蒜再佐一瓶燕京啤酒还是非常解困解乏的。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>向坚持的人致敬</title>
-      <link>https://blognew.natt.cc/posts/2014-04-22-%E5%90%91%E5%9D%9A%E6%8C%81%E7%9A%84%E4%BA%BA%E8%87%B4%E6%95%AC/</link>
-      <pubDate>Tue, 22 Apr 2014 17:23:31 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2014-04-22-%E5%90%91%E5%9D%9A%E6%8C%81%E7%9A%84%E4%BA%BA%E8%87%B4%E6%95%AC/</guid>
-      <description>&lt;p&gt;上周三入京，到今天也算一周。这一周经历的和学习的事情都很多，但现在却想写一个叫“芳芳”的人的故事。&lt;/p&gt;&#xA;&lt;p&gt;第一次见到她是上周四我工作一天后出门走路吹风，在某商场门口，她是一个平凡的不起眼的传单妹，言语稚嫩技巧不深，发的是一家游泳健身房的宣传单，which is 我需要的东西。 于是我就跟她聊了聊，约定某日去参观一下。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>北漂 on Natt Blog</title><link>https://blognew.natt.cc/categories/%E5%8C%97%E6%BC%82/</link><description>Recent content in 北漂 on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 25 Jul 2018 13:44:36 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/categories/%E5%8C%97%E6%BC%82/index.xml" rel="self" type="application/rss+xml"/><item><title>周一办了一件大事</title><link>https://blognew.natt.cc/posts/2018-07-25-%E5%91%A8%E4%B8%80%E5%8A%9E%E4%BA%86%E4%B8%80%E4%BB%B6%E5%A4%A7%E4%BA%8B/</link><pubDate>Wed, 25 Jul 2018 13:44:36 +0000</pubDate><guid>https://blognew.natt.cc/posts/2018-07-25-%E5%91%A8%E4%B8%80%E5%8A%9E%E4%BA%86%E4%B8%80%E4%BB%B6%E5%A4%A7%E4%BA%8B/</guid><description>&lt;p&gt;果然屁股决定脑袋，1年半之前，我进入某个房间，内心的变化已经非常剧烈。而周一晚上，当我拿着初步的材料，和小王同学坐在车里，我异常平淡。但内心真的有别样的感受。另外说一句，果然纠结来纠结去，做决定都是很快的，周日看了3分钟，周一早上一通电话基本上内心就定了，晚上简单聊了聊象征性讨价还价后完成成交。&lt;/p&gt;</description></item><item><title>时间戳·2017总结与2018期许</title><link>https://blognew.natt.cc/posts/2018-01-11-%E6%97%B6%E9%97%B4%E6%88%B32017%E6%80%BB%E7%BB%93%E4%B8%8E2018%E6%9C%9F%E8%AE%B8/</link><pubDate>Thu, 11 Jan 2018 09:23:53 +0000</pubDate><guid>https://blognew.natt.cc/posts/2018-01-11-%E6%97%B6%E9%97%B4%E6%88%B32017%E6%80%BB%E7%BB%93%E4%B8%8E2018%E6%9C%9F%E8%AE%B8/</guid><description>&lt;p class="ql-long-4782703"&gt;
+ 回想起我的第一个像模像样的年终总结，应该算是2010年吧，那时我一方面苦补大学成绩、另一方面静心学习英语，切切实实体会到了学习的快乐，也认为有必要整理总结一下，记录下自己内心的感悟。从2010到2017这7年间，虽然没有几篇像样的年终，但其中各种我也用一篇篇稚嫩小文做以记录。时间行至2017年底，这一年似乎格外的丰富和饱满，一篇小文似乎不足以记录下这一年的变化，于是，不如就做一个不短不长的总结和展望吧。
+&lt;/p&gt;</description></item><item><title>三个片段 一点感悟</title><link>https://blognew.natt.cc/posts/2017-11-27-%E4%B8%89%E4%B8%AA%E7%89%87%E6%AE%B5-%E4%B8%80%E7%82%B9%E6%84%9F%E6%82%9F/</link><pubDate>Mon, 27 Nov 2017 03:53:17 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-11-27-%E4%B8%89%E4%B8%AA%E7%89%87%E6%AE%B5-%E4%B8%80%E7%82%B9%E6%84%9F%E6%82%9F/</guid><description>&lt;p&gt; &lt;/p&gt;
+&lt;p style="text-align: center;"&gt;
+ 片段1·地铁
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;早晚高峰的地铁，无非两种人，已上车的和未上车的：已上车的人喘一口气感叹虽然经历千辛万苦但终究是上车了，未上车的人想尽办法希望挤上车，其中不乏插队加塞之流。道理很简单，就这么大空间，更多人要上车，车上人就更挤。&lt;/p&gt;</description></item><item><title>几个有关孩子的片段</title><link>https://blognew.natt.cc/posts/2017-08-04-%E5%87%A0%E4%B8%AA%E6%9C%89%E5%85%B3%E5%AD%A9%E5%AD%90%E7%9A%84%E7%89%87%E6%AE%B5/</link><pubDate>Fri, 04 Aug 2017 07:32:27 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-08-04-%E5%87%A0%E4%B8%AA%E6%9C%89%E5%85%B3%E5%AD%A9%E5%AD%90%E7%9A%84%E7%89%87%E6%AE%B5/</guid><description>&lt;h4 id="广播里的孩子"&gt;广播里的孩子&lt;/h4&gt;
+&lt;p&gt;约3天前，堵在四惠桥的我例行收听北京文艺广播早间直播互动节目。当日话题为“您给孩子报班了吗”。不得不说北京的父母消费能力确实过人，听过的没听过的才艺与特长一大堆，少则三五万一年多则十几万几十万一暑假。而且，远远不限于什么唱歌跳舞画画了，马术、击剑等也似乎大有普及之势。&lt;/p&gt;</description></item><item><title>路怒</title><link>https://blognew.natt.cc/posts/2017-07-20-%E8%B7%AF%E6%80%92/</link><pubDate>Thu, 20 Jul 2017 07:29:59 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-07-20-%E8%B7%AF%E6%80%92/</guid><description>&lt;p&gt;也许是天气炎热的原因，也许是工作内容突然增多之后带来了一定的压力，这两周早上在早高峰的容忍度变得特别多低。通俗点说，容易路怒。&lt;/p&gt;
+&lt;p&gt;四惠桥上四环到京通快速的匝道上是一个巅峰，每天早高峰在这里都会有大量车辆走在应急车道，而转过弯后迫于摄像头的淫威又不得不挤回正常车道。&lt;/p&gt;</description></item><item><title>用理性的眼睛看，你可能扛不住这个期望时间</title><link>https://blognew.natt.cc/posts/2017-04-27-%E7%94%A8%E7%90%86%E6%80%A7%E7%9A%84%E7%9C%BC%E7%9D%9B%E7%9C%8B%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E8%BF%99%E4%B8%AA%E6%9C%9F%E6%9C%9B%E6%97%B6%E9%97%B4/</link><pubDate>Thu, 27 Apr 2017 03:36:31 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-04-27-%E7%94%A8%E7%90%86%E6%80%A7%E7%9A%84%E7%9C%BC%E7%9D%9B%E7%9C%8B%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E8%BF%99%E4%B8%AA%E6%9C%9F%E6%9C%9B%E6%97%B6%E9%97%B4/</guid><description>&lt;p&gt;今天，我来聊一聊 0.00122399020807833537331701346389 这个数。&lt;/p&gt;
+&lt;p&gt;1÷817=0.00122399020807833537331701346389&lt;br&gt;
+即：0.122399% 的中签率&lt;/p&gt;
+&lt;p&gt;今天中午被北京摇号又刷屏了，我觉得我也算一个历史的见证者了，从几年前到北京时候的200人中一个号，到现在817人中一个号，慢慢的我觉得分母破千指日可待。这将是一个社会发展新的里程碑，我有幸见证。&lt;/p&gt;</description></item><item><title>两颗鹌鹑蛋的故事</title><link>https://blognew.natt.cc/posts/2016-03-24-%E4%B8%A4%E9%A2%97%E9%B9%8C%E9%B9%91%E8%9B%8B%E7%9A%84%E6%95%85%E4%BA%8B/</link><pubDate>Thu, 24 Mar 2016 20:27:43 +0000</pubDate><guid>https://blognew.natt.cc/posts/2016-03-24-%E4%B8%A4%E9%A2%97%E9%B9%8C%E9%B9%91%E8%9B%8B%E7%9A%84%E6%95%85%E4%BA%8B/</guid><description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;傍晚6点，一个步履徐徐面无表情的小伙子走进了小吃城，一天的改稿加晚上即将到来的在线课程让他疲惫不堪。小吃城里没什么顾客，倒是各种O2O外卖平台的机器喊个不停，订单从空中飞来。老板和伙计坐在角落抽烟，其他几个伙计在不怎么忙碌地照顾各个外卖平台来的订单，几乎无人堂食。&lt;/p&gt;</description></item><item><title>十万大山</title><link>https://blognew.natt.cc/posts/2015-11-14-%E5%8D%81%E4%B8%87%E5%A4%A7%E5%B1%B1/</link><pubDate>Sat, 14 Nov 2015 13:38:56 +0000</pubDate><guid>https://blognew.natt.cc/posts/2015-11-14-%E5%8D%81%E4%B8%87%E5%A4%A7%E5%B1%B1/</guid><description>&lt;p lang="zh-CN" style="margin: 0in; font-family: 'Microsoft YaHei'; font-size: 11.0pt;"&gt;
+ &lt;img loading="lazy" decoding="async" class="alignnone size-full wp-image-1275" src="https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_.jpg" alt="7.pic" width="800" height="800" srcset="https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_.jpg 800w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-350x350.jpg 350w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-150x150.jpg 150w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-680x680.jpg 680w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-70x70.jpg 70w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-300x300.jpg 300w, https://blog.natt.cc/wp-content/uploads/2015/11/7.pic_-768x768.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /&gt;
+&lt;/p&gt;
+&lt;p lang="zh-CN" style="margin: 0in; font-family: 'Microsoft YaHei'; font-size: 11.0pt;"&gt;
+ 在我很小的时候，大概那时候爸爸也比现在的我大不了多少的时候，爸爸经常带我回爷爷的老院子。那个时候爸爸和爷爷总会聊很多事情，小孩子是没有多少耐心仔细倾听的，就满院子乱跑。午饭后自然就会犯困，爸爸和爷爷都会喝奶奶煮的茶，虽然当时我还对茶没什么直观的印象，但那差不多是我对茶的第一印象了。爸爸让我喝一口，苦。
+&lt;/p&gt;</description></item><item><title>大千世界的一柄放大镜</title><link>https://blognew.natt.cc/posts/2015-10-06-%E5%A4%A7%E5%8D%83%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%80%E6%9F%84%E6%94%BE%E5%A4%A7%E9%95%9C/</link><pubDate>Tue, 06 Oct 2015 03:50:36 +0000</pubDate><guid>https://blognew.natt.cc/posts/2015-10-06-%E5%A4%A7%E5%8D%83%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%80%E6%9F%84%E6%94%BE%E5%A4%A7%E9%95%9C/</guid><description>&lt;p&gt;近期我趁着假期开展了一个实验性的个人小项目，事情是这样的：&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;我是一个苦逼的北漂，为了一个单纯的赚大钱的梦想在帝都苦苦支撑，日复一日的耕耘着。生活渐渐失去激情，目光渐渐只看脚下。每日加班临近下午饭点时候的一句“今天点什么外卖”成了每天最舒服最放松的时刻。于是，我决定用一个微信公众号记录自己的晚餐，以一柄放大镜的形式仅仅通过每日晚餐记录自己的生活轨迹。&lt;/p&gt;</description></item><item><title>压力</title><link>https://blognew.natt.cc/posts/2015-07-14-%E5%8E%8B%E5%8A%9B/</link><pubDate>Tue, 14 Jul 2015 15:03:49 +0000</pubDate><guid>https://blognew.natt.cc/posts/2015-07-14-%E5%8E%8B%E5%8A%9B/</guid><description>&lt;p&gt;这事儿，永远不存在人与人之间的感同身受。&lt;/p&gt;
+&lt;p&gt;所以，就不写了。&lt;/p&gt;</description></item><item><title>Year TWO</title><link>https://blognew.natt.cc/posts/2015-05-22-year-two/</link><pubDate>Fri, 22 May 2015 17:18:34 +0000</pubDate><guid>https://blognew.natt.cc/posts/2015-05-22-year-two/</guid><description>&lt;p&gt;今晚失眠，爬起来举着iPad写一点东西吧。&lt;br&gt;
+21号我们正式签了新的办公室，年成本又多出很多，在资金储备和发展形势都尚不太明朗的时候这样的做法是有些大胆，但我想的是Go big or home，今年争取更多榨取市场。也希望能够挣抢到higher market share.&lt;br&gt;
+租房的业主是一位40年生人的老太太，骑着电动车就过来了。真是佩服这些老年人，他们用凭借自己一生得努力换来的一些积累获的资产性回报，但又维持着早年那样简朴的作风，甚至在给我打收条的时候都问一张A4纸是否可以撕成两半用。别忘了您的房子价值400万。&lt;br&gt;
+ps 北京的地产中介真是如疯狗一般，找个房子下来我的手机第一次开始使用黑名单功能，并且里面已经有大约10个左右的号码了。 这里我想劝他们，看到别人赚钱同行赚钱的时候，想想为什么自己赚不到，而不是一味骚扰你的客户（作为人生经历的又一笔财富这件事我会单独些一篇）。&lt;br&gt;
+还有6天交房钥匙，我还是很期待的，人生第一次在写字楼办公室上班，竟然是自己的公司呵呵呵呵你敢信？嗯，还是在国贸。&lt;br&gt;
+明天大学校友足球队又有活动了，在鸟巢边上的足球场搞内部小训练赛，其实经过一年的努力拼搏我的生活除了没办法买车以外其他都还是很不错的我挺知足了。&lt;/p&gt;</description></item><item><title>一年</title><link>https://blognew.natt.cc/posts/2015-04-15-%E4%B8%80%E5%B9%B4/</link><pubDate>Wed, 15 Apr 2015 15:01:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2015-04-15-%E4%B8%80%E5%B9%B4/</guid><description>&lt;p&gt;从去年开始，每年的4月16日就成了一个新的纪念日。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;去年的4月16日早8点，我怀着忐忑而期待的心情坐上了入京的火车。7个小时的路程中我心情迫不安然。而火车开车时给妈妈电话中听到妈妈哽咽的声音也觉得这似乎是一个残忍的决定。入京后享受了近一个月享受寂寞的生活，每天一个人一点一点走看似漫长的长征路。直到一个月之后的5月16日，F哥入京与我回合。&lt;/p&gt;</description></item><item><title>26</title><link>https://blognew.natt.cc/posts/2015-04-15-26/</link><pubDate>Wed, 15 Apr 2015 14:46:07 +0000</pubDate><guid>https://blognew.natt.cc/posts/2015-04-15-26/</guid><description>&lt;p&gt;这是一篇补发的日志，补发于生日两个月后。&lt;/p&gt;
+&lt;p&gt;今年26了，已经不能再像过去一样那么的无忧无虑了。&lt;/p&gt;
+&lt;p&gt;我为我25岁这一年付出的努力而骄傲，也为26岁这一年的时光而期待。&lt;/p&gt;</description></item><item><title>咸淡</title><link>https://blognew.natt.cc/posts/2014-08-04-%E5%92%B8%E6%B7%A1/</link><pubDate>Mon, 04 Aug 2014 06:03:10 +0000</pubDate><guid>https://blognew.natt.cc/posts/2014-08-04-%E5%92%B8%E6%B7%A1/</guid><description>&lt;p&gt;今天来扯个咸淡，3月进京聊项目，4月正式入京开始干活，5月（新）公司注册下来，6月新项目网站上线，7月开始来客户咨询并且有成单，8月咨询量飙升。&lt;/p&gt;</description></item><item><title>Today</title><link>https://blognew.natt.cc/posts/2014-06-09-today/</link><pubDate>Mon, 09 Jun 2014 15:28:12 +0000</pubDate><guid>https://blognew.natt.cc/posts/2014-06-09-today/</guid><description>&lt;p&gt;今天用googleapis to useso 解决了网站后台谷歌字体问题，又用WP-Mail-SMTP解决了服务器发邮件问题，还用ninja-contact-form 配合 contact form 7 实现了提交表单功能。 &lt;a title="马克笔设计留学" href="http://www.makebi.net" target="_blank"&gt;马克笔设计留学&lt;/a&gt;的网站一天比一天强大了。&lt;/p&gt;</description></item><item><title>吃肉饼时候涨的姿势</title><link>https://blognew.natt.cc/posts/2014-04-23-%E5%90%83%E8%82%89%E9%A5%BC%E6%97%B6%E5%80%99%E6%B6%A8%E7%9A%84%E5%A7%BF%E5%8A%BF/</link><pubDate>Wed, 23 Apr 2014 16:55:07 +0000</pubDate><guid>https://blognew.natt.cc/posts/2014-04-23-%E5%90%83%E8%82%89%E9%A5%BC%E6%97%B6%E5%80%99%E6%B6%A8%E7%9A%84%E5%A7%BF%E5%8A%BF/</guid><description>&lt;p&gt;今天中午累如狗给即将上线的新网站域名B/A回来之后，已然一点多饥肠辘辘不知道吃什么之际到门口那家肉饼店吃肉饼。 猪肉大葱两瓣蒜再佐一瓶燕京啤酒还是非常解困解乏的。&lt;/p&gt;</description></item><item><title>向坚持的人致敬</title><link>https://blognew.natt.cc/posts/2014-04-22-%E5%90%91%E5%9D%9A%E6%8C%81%E7%9A%84%E4%BA%BA%E8%87%B4%E6%95%AC/</link><pubDate>Tue, 22 Apr 2014 17:23:31 +0000</pubDate><guid>https://blognew.natt.cc/posts/2014-04-22-%E5%90%91%E5%9D%9A%E6%8C%81%E7%9A%84%E4%BA%BA%E8%87%B4%E6%95%AC/</guid><description>&lt;p&gt;上周三入京，到今天也算一周。这一周经历的和学习的事情都很多，但现在却想写一个叫“芳芳”的人的故事。&lt;/p&gt;
+&lt;p&gt;第一次见到她是上周四我工作一天后出门走路吹风，在某商场门口，她是一个平凡的不起眼的传单妹，言语稚嫩技巧不深，发的是一家游泳健身房的宣传单，which is 我需要的东西。 于是我就跟她聊了聊，约定某日去参观一下。&lt;/p&gt;</description></item></channel></rss>

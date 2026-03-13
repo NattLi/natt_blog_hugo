@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Scotland on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/scotland/</link>
-    <description>Recent content in Scotland on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jan 2012 23:31:00 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/scotland/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>苏格兰游记</title>
-      <link>https://blognew.natt.cc/posts/2012-01-04-%E8%8B%8F%E6%A0%BC%E5%85%B0%E6%B8%B8%E8%AE%B0/</link>
-      <pubDate>Wed, 04 Jan 2012 23:31:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2012-01-04-%E8%8B%8F%E6%A0%BC%E5%85%B0%E6%B8%B8%E8%AE%B0/</guid>
-      <description>&lt;p&gt;苏格兰4日游，from 30,DEC,2011 to 2nd,JAN,2012.&lt;/p&gt;&#xA;&lt;p&gt;留学英国，每一天都是唯一的，仅仅一年时间，没有一天是可以在来年重复的。 元旦之前奔赴苏格兰，爱丁堡跨年夜迎接2012 。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Scotland on Natt Blog</title><link>https://blognew.natt.cc/tags/scotland/</link><description>Recent content in Scotland on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2012 23:31:00 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/scotland/index.xml" rel="self" type="application/rss+xml"/><item><title>苏格兰游记</title><link>https://blognew.natt.cc/posts/2012-01-04-%E8%8B%8F%E6%A0%BC%E5%85%B0%E6%B8%B8%E8%AE%B0/</link><pubDate>Wed, 04 Jan 2012 23:31:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2012-01-04-%E8%8B%8F%E6%A0%BC%E5%85%B0%E6%B8%B8%E8%AE%B0/</guid><description>&lt;p&gt;苏格兰4日游，from 30,DEC,2011 to 2nd,JAN,2012.&lt;/p&gt;
+&lt;p&gt;留学英国，每一天都是唯一的，仅仅一年时间，没有一天是可以在来年重复的。 元旦之前奔赴苏格兰，爱丁堡跨年夜迎接2012 。&lt;/p&gt;</description></item></channel></rss>

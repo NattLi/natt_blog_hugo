@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>改版 on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/%E6%94%B9%E7%89%88/</link>
-    <description>Recent content in 改版 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jan 2011 07:38:00 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/%E6%94%B9%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>你好，2011</title>
-      <link>https://blognew.natt.cc/posts/2011-01-06-%E4%BD%A0%E5%A5%BD2011/</link>
-      <pubDate>Thu, 06 Jan 2011 07:38:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2011-01-06-%E4%BD%A0%E5%A5%BD2011/</guid>
-      <description>&lt;p&gt;一直筹划着好好改版一下我的个人空间，之前做的引导页是一个一期探索工程。&lt;/p&gt;&#xA;&lt;p&gt;回家这几天恶补了一下绑定二级域名的知识和别的一些相关知识，终于更新了自己在网络上那一点点小小的坚持。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>改版 on Natt Blog</title><link>https://blognew.natt.cc/tags/%E6%94%B9%E7%89%88/</link><description>Recent content in 改版 on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2011 07:38:00 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/%E6%94%B9%E7%89%88/index.xml" rel="self" type="application/rss+xml"/><item><title>你好，2011</title><link>https://blognew.natt.cc/posts/2011-01-06-%E4%BD%A0%E5%A5%BD2011/</link><pubDate>Thu, 06 Jan 2011 07:38:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2011-01-06-%E4%BD%A0%E5%A5%BD2011/</guid><description>&lt;p&gt;一直筹划着好好改版一下我的个人空间，之前做的引导页是一个一期探索工程。&lt;/p&gt;
+&lt;p&gt;回家这几天恶补了一下绑定二级域名的知识和别的一些相关知识，终于更新了自己在网络上那一点点小小的坚持。&lt;/p&gt;</description></item></channel></rss>

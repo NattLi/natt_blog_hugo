@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>逻辑 on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/%E9%80%BB%E8%BE%91/</link>
-    <description>Recent content in 逻辑 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2017 08:23:13 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/%E9%80%BB%E8%BE%91/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>所谓“大神”</title>
-      <link>https://blognew.natt.cc/posts/2017-08-25-%E6%89%80%E8%B0%93%E5%A4%A7%E7%A5%9E/</link>
-      <pubDate>Fri, 25 Aug 2017 08:23:13 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-08-25-%E6%89%80%E8%B0%93%E5%A4%A7%E7%A5%9E/</guid>
-      <description>&lt;p&gt;前几天帮朋友解决科学上网的问题，就顺便众筹了一手，弄了个服务器来解决。 预想中几行代码的事，结果搞出了一些感悟。&lt;/p&gt;&#xA;&lt;p&gt;我自诩为一个学以致用的人，虽不很懂代码的事情但是GitHub上的好东西还是可以拿来跑一跑的。所以轻车熟路15分钟搞定了服务器，本以为把ip和密码 端口甩给他们就可以暗藏功与名了。万万没想到这才是噩梦的开始，首先是App store阉割了那些SS的工具，这使得之前没有上车的小伙伴无从下手，经过多次尝试终于用一种奇葩的姿势解锁了这个问题。其次是服务端配置问题，本以为按照我给的四个要点填进去就好了，但似乎普通用户真的有一种天生的谨慎与愚钝，就是要找我多次确认才肯放心。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>说说语境</title>
-      <link>https://blognew.natt.cc/posts/2017-08-16-%E8%AF%B4%E8%AF%B4%E8%AF%AD%E5%A2%83/</link>
-      <pubDate>Wed, 16 Aug 2017 09:48:05 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-08-16-%E8%AF%B4%E8%AF%B4%E8%AF%AD%E5%A2%83/</guid>
-      <description>&lt;p&gt;本专业是设计，在大概硕士阶段开头的时候深刻学到了“context”一次，姑且叫它语境吧。 这种一切事情带入语境的思维方式在一定程度上指导了我的思考。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>逻辑 on Natt Blog</title><link>https://blognew.natt.cc/tags/%E9%80%BB%E8%BE%91/</link><description>Recent content in 逻辑 on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 25 Aug 2017 08:23:13 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/%E9%80%BB%E8%BE%91/index.xml" rel="self" type="application/rss+xml"/><item><title>所谓“大神”</title><link>https://blognew.natt.cc/posts/2017-08-25-%E6%89%80%E8%B0%93%E5%A4%A7%E7%A5%9E/</link><pubDate>Fri, 25 Aug 2017 08:23:13 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-08-25-%E6%89%80%E8%B0%93%E5%A4%A7%E7%A5%9E/</guid><description>&lt;p&gt;前几天帮朋友解决科学上网的问题，就顺便众筹了一手，弄了个服务器来解决。 预想中几行代码的事，结果搞出了一些感悟。&lt;/p&gt;
+&lt;p&gt;我自诩为一个学以致用的人，虽不很懂代码的事情但是GitHub上的好东西还是可以拿来跑一跑的。所以轻车熟路15分钟搞定了服务器，本以为把ip和密码 端口甩给他们就可以暗藏功与名了。万万没想到这才是噩梦的开始，首先是App store阉割了那些SS的工具，这使得之前没有上车的小伙伴无从下手，经过多次尝试终于用一种奇葩的姿势解锁了这个问题。其次是服务端配置问题，本以为按照我给的四个要点填进去就好了，但似乎普通用户真的有一种天生的谨慎与愚钝，就是要找我多次确认才肯放心。&lt;/p&gt;</description></item><item><title>说说语境</title><link>https://blognew.natt.cc/posts/2017-08-16-%E8%AF%B4%E8%AF%B4%E8%AF%AD%E5%A2%83/</link><pubDate>Wed, 16 Aug 2017 09:48:05 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-08-16-%E8%AF%B4%E8%AF%B4%E8%AF%AD%E5%A2%83/</guid><description>&lt;p&gt;本专业是设计，在大概硕士阶段开头的时候深刻学到了“context”一次，姑且叫它语境吧。 这种一切事情带入语境的思维方式在一定程度上指导了我的思考。&lt;/p&gt;</description></item></channel></rss>

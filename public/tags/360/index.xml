@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>360 on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/360/</link>
-    <description>Recent content in 360 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2015 15:34:48 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/360/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>转载-用360CDN公共库扶起Google被阉割后的雄风</title>
-      <link>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</link>
-      <pubDate>Thu, 16 Apr 2015 15:34:48 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</guid>
-      <description>&lt;p&gt;前因后果就不详述了，简单说就是Google的互联网字体服务被凌迟阉割，而360终于干了一会好事，把Google的字体库CDN缓存到了国内。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;—-以下是引用部分，以备以后自己查阅—–&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>立了牌坊你依旧是婊子</title>
-      <link>https://blognew.natt.cc/posts/2010-10-28-%E7%AB%8B%E4%BA%86%E7%89%8C%E5%9D%8A%E4%BD%A0%E4%BE%9D%E6%97%A7%E6%98%AF%E5%A9%8A%E5%AD%90/</link>
-      <pubDate>Thu, 28 Oct 2010 15:53:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2010-10-28-%E7%AB%8B%E4%BA%86%E7%89%8C%E5%9D%8A%E4%BD%A0%E4%BE%9D%E6%97%A7%E6%98%AF%E5%A9%8A%E5%AD%90/</guid>
-      <description>&lt;p&gt;今天，看到网上掐起来了，几家联名 VS 360…  我没装360，他给我电脑打分总是≤5分…   看着不爽卸了.  看到网上360泼妇骂街似的声明截图，我又装上了，期待骂街直播。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>360 on Natt Blog</title><link>https://blognew.natt.cc/tags/360/</link><description>Recent content in 360 on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2015 15:34:48 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/360/index.xml" rel="self" type="application/rss+xml"/><item><title>转载-用360CDN公共库扶起Google被阉割后的雄风</title><link>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</link><pubDate>Thu, 16 Apr 2015 15:34:48 +0000</pubDate><guid>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</guid><description>&lt;p&gt;前因后果就不详述了，简单说就是Google的互联网字体服务被凌迟阉割，而360终于干了一会好事，把Google的字体库CDN缓存到了国内。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;—-以下是引用部分，以备以后自己查阅—–&lt;/p&gt;</description></item><item><title>立了牌坊你依旧是婊子</title><link>https://blognew.natt.cc/posts/2010-10-28-%E7%AB%8B%E4%BA%86%E7%89%8C%E5%9D%8A%E4%BD%A0%E4%BE%9D%E6%97%A7%E6%98%AF%E5%A9%8A%E5%AD%90/</link><pubDate>Thu, 28 Oct 2010 15:53:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2010-10-28-%E7%AB%8B%E4%BA%86%E7%89%8C%E5%9D%8A%E4%BD%A0%E4%BE%9D%E6%97%A7%E6%98%AF%E5%A9%8A%E5%AD%90/</guid><description>&lt;p&gt;今天，看到网上掐起来了，几家联名 VS 360…  我没装360，他给我电脑打分总是≤5分…   看着不爽卸了.  看到网上360泼妇骂街似的声明截图，我又装上了，期待骂街直播。&lt;/p&gt;</description></item></channel></rss>

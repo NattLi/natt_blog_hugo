@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nginx404 on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/nginx404/</link>
-    <description>Recent content in Nginx404 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 27 May 2017 03:26:53 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/nginx404/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>使用宝塔面板搭建wordpress环境附带问题解决</title>
-      <link>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</link>
-      <pubDate>Sat, 27 May 2017 03:26:53 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</guid>
-      <description>&lt;p&gt;之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。&lt;/p&gt;&#xA;&lt;p&gt;无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>百度BCC配置主机宝跑WordPress的终极方案</title>
-      <link>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</link>
-      <pubDate>Sat, 11 Feb 2017 13:32:30 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</guid>
-      <description>&lt;p&gt;这是一个一个菜逼的百度BCC折腾手记。&lt;/p&gt;&#xA;&lt;p&gt;公司之前的网站服务器到期了，想着把各个二级域名的小站整合在一起，就注册了一个百度BCC，1核2G1M的屌丝配置，但是差不多也够够的了。之前用过WDCP的面板，感觉还不错，包括这个小博客就是跑在WDCP面板的服务器上的，所以这次依旧没有任何犹豫在CentOS 6.5x 64 上一键WDCP搭建了Apache 和 Nginx可以互相切换的环境，想象中高枕无忧了。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nginx404 on Natt Blog</title><link>https://blognew.natt.cc/tags/nginx404/</link><description>Recent content in Nginx404 on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2017 03:26:53 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/nginx404/index.xml" rel="self" type="application/rss+xml"/><item><title>使用宝塔面板搭建wordpress环境附带问题解决</title><link>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</link><pubDate>Sat, 27 May 2017 03:26:53 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</guid><description>&lt;p&gt;之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。&lt;/p&gt;
+&lt;p&gt;无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。&lt;/p&gt;</description></item><item><title>百度BCC配置主机宝跑WordPress的终极方案</title><link>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</link><pubDate>Sat, 11 Feb 2017 13:32:30 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</guid><description>&lt;p&gt;这是一个一个菜逼的百度BCC折腾手记。&lt;/p&gt;
+&lt;p&gt;公司之前的网站服务器到期了，想着把各个二级域名的小站整合在一起，就注册了一个百度BCC，1核2G1M的屌丝配置，但是差不多也够够的了。之前用过WDCP的面板，感觉还不错，包括这个小博客就是跑在WDCP面板的服务器上的，所以这次依旧没有任何犹豫在CentOS 6.5x 64 上一键WDCP搭建了Apache 和 Nginx可以互相切换的环境，想象中高枕无忧了。&lt;/p&gt;</description></item></channel></rss>

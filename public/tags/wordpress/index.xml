@@ -1,47 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Wordpress on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/wordpress/</link>
-    <description>Recent content in Wordpress on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 27 May 2017 03:26:53 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>使用宝塔面板搭建wordpress环境附带问题解决</title>
-      <link>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</link>
-      <pubDate>Sat, 27 May 2017 03:26:53 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</guid>
-      <description>&lt;p&gt;之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。&lt;/p&gt;&#xA;&lt;p&gt;无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>苏ICP备09000331号</title>
-      <link>https://blognew.natt.cc/posts/2010-09-28-%E8%8B%8Ficp%E5%A4%8709000331%E5%8F%B7/</link>
-      <pubDate>Tue, 28 Sep 2010 05:01:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2010-09-28-%E8%8B%8Ficp%E5%A4%8709000331%E5%8F%B7/</guid>
-      <description>&lt;p&gt;从写信，写日记抒发情感，到博客诞生，用博客记录心情，再到微博出现，140个字完成记录。社会不知在进化还是退化。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;我最早注册在bokee.com的博客，在经历几次抽风之后更新就止步在了2007年。也试用过blogcn,blogbus出于不敢保证他们不会重蹈bokee的覆辙后来投靠blogspot，google出品，大牌保证，没出几个月被墙，投靠sina，sina唯唯诺诺不敢涉及任何思考，似乎是娱乐者的世界。其间也用过live space一段时间，高三冲刺时的心情就记录着live上，后来新注册的live也是我备份blog的地方。 回头看看，bokee早已处于半死不活，blogcn也稳定的活着，blogbus搞得似乎有些成为更多小文艺青年的聚集地，live算是活的最久的一个。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>本周最佳表情</title>
-      <link>https://blognew.natt.cc/posts/2009-03-29-%E6%9C%AC%E5%91%A8%E6%9C%80%E4%BD%B3%E8%A1%A8%E6%83%85/</link>
-      <pubDate>Sat, 28 Mar 2009 16:51:23 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-03-29-%E6%9C%AC%E5%91%A8%E6%9C%80%E4%BD%B3%E8%A1%A8%E6%83%85/</guid>
-      <description>&lt;p&gt;&lt;img decoding=&#34;async&#34; src=&#34;file:///Users/nanfleea/Library/Application%20Support/QQ/258464476/Image.db/44%258RN%60AFH898ZCOQ$4S@E4.gif&#34; alt=&#34;&#34; /&gt;&lt;a rel=&#34;attachment wp-att-401&#34; href=&#34;https://blog.natt.cc/400.html/448rnafh898zcoq4se4&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignleft size-full wp-image-401&#34; title=&#34;本周最佳表情&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/03/448rnafh898zcoq4se4.gif&#34; alt=&#34;本周最佳表情&#34; width=&#34;85&#34; height=&#34;88&#34; /&gt;&lt;/a&gt;这个可爱的小朋友荣登本人本周最佳表情。&lt;/p&gt;&#xA;&lt;p&gt;本周备考计算机二级考试，虽然可以说是“考前突击”，但是再怎么我也在宿舍别人游戏娱乐的时间去教学楼看书。－－不是宿舍哥们过了，而是他们都没报名。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>建站2天，搜索引擎开始收录我了</title>
-      <link>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</link>
-      <pubDate>Tue, 16 Dec 2008 17:02:54 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</guid>
-      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-98&#34; title=&#34;搜索引擎收录&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg&#34; alt=&#34;搜索引擎收录&#34; width=&#34;385&#34; height=&#34;55&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg 773w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-300x43.jpg 300w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-768x109.jpg 768w&#34; sizes=&#34;auto, (max-width: 385px) 100vw, 385px&#34; /&gt;&#xA;&lt;p&gt;虽然百度还没有收录进去，但是有一个反向链接已经收录，Google有一个收录，搜搜有一个收录。&lt;/p&gt;&#xA;&lt;p&gt;虽然搜索引擎还没有给我带来流量。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>出错了</title>
-      <link>https://blognew.natt.cc/posts/2008-12-15-%E5%87%BA%E9%94%99%E4%BA%86/</link>
-      <pubDate>Sun, 14 Dec 2008 16:08:58 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2008-12-15-%E5%87%BA%E9%94%99%E4%BA%86/</guid>
-      <description>&lt;p&gt;我发现我添加的 留言板 插件有错误，不能正常留言咯。&lt;/p&gt;&#xA;&lt;p&gt;我这两天再找找新的留言插件加入进来。&lt;/p&gt;&#xA;&lt;p&gt;暂时没法留言咯。&lt;/p&gt;&#xA;&lt;p&gt;对不住咯。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wordpress on Natt Blog</title><link>https://blognew.natt.cc/tags/wordpress/</link><description>Recent content in Wordpress on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2017 03:26:53 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/wordpress/index.xml" rel="self" type="application/rss+xml"/><item><title>使用宝塔面板搭建wordpress环境附带问题解决</title><link>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</link><pubDate>Sat, 27 May 2017 03:26:53 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</guid><description>&lt;p&gt;之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。&lt;/p&gt;
+&lt;p&gt;无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。&lt;/p&gt;</description></item><item><title>苏ICP备09000331号</title><link>https://blognew.natt.cc/posts/2010-09-28-%E8%8B%8Ficp%E5%A4%8709000331%E5%8F%B7/</link><pubDate>Tue, 28 Sep 2010 05:01:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2010-09-28-%E8%8B%8Ficp%E5%A4%8709000331%E5%8F%B7/</guid><description>&lt;p&gt;从写信，写日记抒发情感，到博客诞生，用博客记录心情，再到微博出现，140个字完成记录。社会不知在进化还是退化。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;我最早注册在bokee.com的博客，在经历几次抽风之后更新就止步在了2007年。也试用过blogcn,blogbus出于不敢保证他们不会重蹈bokee的覆辙后来投靠blogspot，google出品，大牌保证，没出几个月被墙，投靠sina，sina唯唯诺诺不敢涉及任何思考，似乎是娱乐者的世界。其间也用过live space一段时间，高三冲刺时的心情就记录着live上，后来新注册的live也是我备份blog的地方。 回头看看，bokee早已处于半死不活，blogcn也稳定的活着，blogbus搞得似乎有些成为更多小文艺青年的聚集地，live算是活的最久的一个。&lt;/p&gt;</description></item><item><title>本周最佳表情</title><link>https://blognew.natt.cc/posts/2009-03-29-%E6%9C%AC%E5%91%A8%E6%9C%80%E4%BD%B3%E8%A1%A8%E6%83%85/</link><pubDate>Sat, 28 Mar 2009 16:51:23 +0000</pubDate><guid>https://blognew.natt.cc/posts/2009-03-29-%E6%9C%AC%E5%91%A8%E6%9C%80%E4%BD%B3%E8%A1%A8%E6%83%85/</guid><description>&lt;p&gt;&lt;img decoding="async" src="file:///Users/nanfleea/Library/Application%20Support/QQ/258464476/Image.db/44%258RN%60AFH898ZCOQ$4S@E4.gif" alt="" /&gt;&lt;a rel="attachment wp-att-401" href="https://blog.natt.cc/400.html/448rnafh898zcoq4se4"&gt;&lt;img loading="lazy" decoding="async" class="alignleft size-full wp-image-401" title="本周最佳表情" src="https://blog.natt.cc/wp-content/uploads/2009/03/448rnafh898zcoq4se4.gif" alt="本周最佳表情" width="85" height="88" /&gt;&lt;/a&gt;这个可爱的小朋友荣登本人本周最佳表情。&lt;/p&gt;
+&lt;p&gt;本周备考计算机二级考试，虽然可以说是“考前突击”，但是再怎么我也在宿舍别人游戏娱乐的时间去教学楼看书。－－不是宿舍哥们过了，而是他们都没报名。&lt;/p&gt;</description></item><item><title>建站2天，搜索引擎开始收录我了</title><link>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</link><pubDate>Tue, 16 Dec 2008 17:02:54 +0000</pubDate><guid>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</guid><description>&lt;img loading="lazy" decoding="async" class="alignnone size-full wp-image-98" title="搜索引擎收录" src="https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg" alt="搜索引擎收录" width="385" height="55" srcset="https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg 773w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-300x43.jpg 300w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-768x109.jpg 768w" sizes="auto, (max-width: 385px) 100vw, 385px" /&gt;
+&lt;p&gt;虽然百度还没有收录进去，但是有一个反向链接已经收录，Google有一个收录，搜搜有一个收录。&lt;/p&gt;
+&lt;p&gt;虽然搜索引擎还没有给我带来流量。&lt;/p&gt;</description></item><item><title>出错了</title><link>https://blognew.natt.cc/posts/2008-12-15-%E5%87%BA%E9%94%99%E4%BA%86/</link><pubDate>Sun, 14 Dec 2008 16:08:58 +0000</pubDate><guid>https://blognew.natt.cc/posts/2008-12-15-%E5%87%BA%E9%94%99%E4%BA%86/</guid><description>&lt;p&gt;我发现我添加的 留言板 插件有错误，不能正常留言咯。&lt;/p&gt;
+&lt;p&gt;我这两天再找找新的留言插件加入进来。&lt;/p&gt;
+&lt;p&gt;暂时没法留言咯。&lt;/p&gt;
+&lt;p&gt;对不住咯。&lt;/p&gt;</description></item></channel></rss>

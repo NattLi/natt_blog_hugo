@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Wordpress环境 on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/wordpress%E7%8E%AF%E5%A2%83/</link>
-    <description>Recent content in Wordpress环境 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 27 May 2017 03:26:53 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/wordpress%E7%8E%AF%E5%A2%83/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>使用宝塔面板搭建wordpress环境附带问题解决</title>
-      <link>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</link>
-      <pubDate>Sat, 27 May 2017 03:26:53 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</guid>
-      <description>&lt;p&gt;之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。&lt;/p&gt;&#xA;&lt;p&gt;无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wordpress环境 on Natt Blog</title><link>https://blognew.natt.cc/tags/wordpress%E7%8E%AF%E5%A2%83/</link><description>Recent content in Wordpress环境 on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2017 03:26:53 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/wordpress%E7%8E%AF%E5%A2%83/index.xml" rel="self" type="application/rss+xml"/><item><title>使用宝塔面板搭建wordpress环境附带问题解决</title><link>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</link><pubDate>Sat, 27 May 2017 03:26:53 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</guid><description>&lt;p&gt;之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。&lt;/p&gt;
+&lt;p&gt;无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。&lt;/p&gt;</description></item></channel></rss>

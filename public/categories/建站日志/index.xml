@@ -1,152 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>建站日志 on Natt Blog</title>
-    <link>https://blognew.natt.cc/categories/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97/</link>
-    <description>Recent content in 建站日志 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 Nov 2017 06:07:24 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/categories/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>LNMP环境下利用SSH&#43;winSCP备份并下载MySQL数据库的简便方法</title>
-      <link>https://blognew.natt.cc/posts/2017-11-11-lnmp%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%88%A9%E7%94%A8sshwinscp%E5%A4%87%E4%BB%BD%E5%B9%B6%E4%B8%8B%E8%BD%BDmysql%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E7%AE%80%E4%BE%BF%E6%96%B9%E6%B3%95/</link>
-      <pubDate>Sat, 11 Nov 2017 06:07:24 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-11-11-lnmp%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%88%A9%E7%94%A8sshwinscp%E5%A4%87%E4%BB%BD%E5%B9%B6%E4%B8%8B%E8%BD%BDmysql%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E7%AE%80%E4%BE%BF%E6%96%B9%E6%B3%95/</guid>
-      <description>&lt;p&gt;趁着11·11，买了一台京东云的服务器给网站做更新，虽然对京东云的可信度不能保证，但基本上市场价2折左右的价格还是让人心动不已。但之前的服务器被自动备份撑炸了一次之后，安装的三方面板就进不去了，于是有了今天搬家的折腾旅程。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>被迫蛰伏一个月</title>
-      <link>https://blognew.natt.cc/posts/2017-11-03-%E8%A2%AB%E8%BF%AB%E8%9B%B0%E4%BC%8F%E4%B8%80%E4%B8%AA%E6%9C%88/</link>
-      <pubDate>Fri, 03 Nov 2017 04:12:44 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-11-03-%E8%A2%AB%E8%BF%AB%E8%9B%B0%E4%BC%8F%E4%B8%80%E4%B8%AA%E6%9C%88/</guid>
-      <description>&lt;p&gt;受限于19b1g 的影响，之前的网站服务器莫名其妙的就连接不稳，于是机智的我及时做了全盘备份，在七牛和电脑本地做了双重备份，果断下线网站等待严冬过去。 同时，凸墙的服务器也抽风到不行，本以为被GFVV 给定点干掉了，换机房换目的地整了半天，结果在19b1g结束后第二天中午瞬间就通畅了。估计是19b1g期间对外的出口都做了一些限制，限制之下你再怎么折腾徒劳，维度攻击。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>再见备案</title>
-      <link>https://blognew.natt.cc/posts/2017-09-21-%E5%86%8D%E8%A7%81%E5%A4%87%E6%A1%88/</link>
-      <pubDate>Thu, 21 Sep 2017 03:25:51 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-09-21-%E5%86%8D%E8%A7%81%E5%A4%87%E6%A1%88/</guid>
-      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-1451&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67.png&#34; alt=&#34;&#34; width=&#34;647&#34; height=&#34;237&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67.png 647w, https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67-350x128.png 350w, https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67-300x110.png 300w&#34; sizes=&#34;auto, (max-width: 647px) 100vw, 647px&#34; /&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;之前一不小心脑子一热麻蛋把自己手中的5个域名一口气备案在了腾讯云，出于Natt’s Five Domains 备案网站名叫 南特斯斐吾，曾以自己的小聪明沾沾自喜，结果现在启用blog.natt.cc的时候傻逼了，内裤都特么交上去了。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>你好 blog.natt.cc</title>
-      <link>https://blognew.natt.cc/posts/2017-09-18-%E4%BD%A0%E5%A5%BD-natt-cc/</link>
-      <pubDate>Mon, 18 Sep 2017 04:07:35 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-09-18-%E4%BD%A0%E5%A5%BD-natt-cc/</guid>
-      <description>&lt;p&gt;由于之前一不小心脑残北岸了 ifleea.com 域名，突然觉得底裤丢了。&lt;/p&gt;&#xA;&lt;p&gt;同时，这些年行走江湖已经摒弃了ifleea这个江湖称号转而用更加个人品牌化的标识 Natt，屯着备用的  blog.natt.cc 域名也多年未启用，是时候启用我的个人新网络形象了，于是，小博于2017年9月18日将主站域名更换到了 blog.natt.cc 这个域名，并且暂时废弃 ifleea.com 这个域名&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>使用宝塔面板搭建wordpress环境附带问题解决</title>
-      <link>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</link>
-      <pubDate>Sat, 27 May 2017 03:26:53 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</guid>
-      <description>&lt;p&gt;之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。&lt;/p&gt;&#xA;&lt;p&gt;无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>百度BCC配置主机宝跑WordPress的终极方案</title>
-      <link>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</link>
-      <pubDate>Sat, 11 Feb 2017 13:32:30 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</guid>
-      <description>&lt;p&gt;这是一个一个菜逼的百度BCC折腾手记。&lt;/p&gt;&#xA;&lt;p&gt;公司之前的网站服务器到期了，想着把各个二级域名的小站整合在一起，就注册了一个百度BCC，1核2G1M的屌丝配置，但是差不多也够够的了。之前用过WDCP的面板，感觉还不错，包括这个小博客就是跑在WDCP面板的服务器上的，所以这次依旧没有任何犹豫在CentOS 6.5x 64 上一键WDCP搭建了Apache 和 Nginx可以互相切换的环境，想象中高枕无忧了。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>给blog搬家到了一个别墅</title>
-      <link>https://blognew.natt.cc/posts/2017-01-10-%E7%BB%99blog%E6%90%AC%E5%AE%B6%E5%88%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E5%88%AB%E5%A2%85/</link>
-      <pubDate>Tue, 10 Jan 2017 10:11:31 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-01-10-%E7%BB%99blog%E6%90%AC%E5%AE%B6%E5%88%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E5%88%AB%E5%A2%85/</guid>
-      <description>&lt;p&gt;一段时间没管blog，最近打开竟然数据库连接失败了，原来的小茅屋实在是太不稳了，何况这么多年的积累（虽然没多少日志）应该算是数据比较值钱了吧，我在搬瓦工/Bandwagonhost给小博客在美国凤凰城买了一小块云计算能力（1核心、1024MB内存、20GB SSD硬盘、月2T流量），配合免费的wdcp面板搭建了php+mysql环境，对于这么小体量的网站来说，这差不多等于让一只小小的猫住在了一个500平的别墅这么奢侈。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>又一枚WordPress加速方法</title>
-      <link>https://blognew.natt.cc/posts/2015-04-21-%E5%8F%88%E4%B8%80%E6%9E%9Awordpress%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/</link>
-      <pubDate>Tue, 21 Apr 2015 15:22:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2015-04-21-%E5%8F%88%E4%B8%80%E6%9E%9Awordpress%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/</guid>
-      <description>&lt;p&gt;之前几天用了USESO 360网站卫士公共库替换Google库的方法确实能够为网站提速不少，而今天又领教了另一个WP加速的好方法。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;一句话说，就是WP Super Cache + 七牛云加速 的静态文件DNS服务。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>转载-用360CDN公共库扶起Google被阉割后的雄风</title>
-      <link>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</link>
-      <pubDate>Thu, 16 Apr 2015 15:34:48 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</guid>
-      <description>&lt;p&gt;前因后果就不详述了，简单说就是Google的互联网字体服务被凌迟阉割，而360终于干了一会好事，把Google的字体库CDN缓存到了国内。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;—-以下是引用部分，以备以后自己查阅—–&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>你好，第四年了</title>
-      <link>https://blognew.natt.cc/posts/2011-12-04-%E4%BD%A0%E5%A5%BD%E7%AC%AC%E5%9B%9B%E5%B9%B4%E4%BA%86/</link>
-      <pubDate>Sun, 04 Dec 2011 19:48:01 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2011-12-04-%E4%BD%A0%E5%A5%BD%E7%AC%AC%E5%9B%9B%E5%B9%B4%E4%BA%86/</guid>
-      <description>&lt;p&gt;刚才给域名又续费一年，自此，博客第四年开始了。&lt;/p&gt;&#xA;&lt;p&gt;微博盛行，博客开始每况愈下。&lt;/p&gt;&#xA;&lt;p&gt;但是我仍然相信每个人总需要一个地方来记录自己的历程，牛逼也好，傻逼也好。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>你好，2011</title>
-      <link>https://blognew.natt.cc/posts/2011-01-06-%E4%BD%A0%E5%A5%BD2011/</link>
-      <pubDate>Thu, 06 Jan 2011 07:38:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2011-01-06-%E4%BD%A0%E5%A5%BD2011/</guid>
-      <description>&lt;p&gt;一直筹划着好好改版一下我的个人空间，之前做的引导页是一个一期探索工程。&lt;/p&gt;&#xA;&lt;p&gt;回家这几天恶补了一下绑定二级域名的知识和别的一些相关知识，终于更新了自己在网络上那一点点小小的坚持。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Brand New Index</title>
-      <link>https://blognew.natt.cc/posts/2010-12-17-a-brand-new-index/</link>
-      <pubDate>Fri, 17 Dec 2010 14:38:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2010-12-17-a-brand-new-index/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.ifleea.com/963.html&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;brand_new_index&#34; border=&#34;0&#34; alt=&#34;brand_new_index&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2010/12/brand_new_index1.jpg&#34; width=&#34;604&#34; height=&#34;336&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;今天，&lt;a href=&#34;http://www.ifleea.com&#34;&gt;www.ifleea.com&lt;/a&gt; 已经换了一个全新的首页，当输入&lt;a href=&#34;http://www.ifleea.com&#34;&gt;www.ifleea.com&lt;/a&gt;之后，会出现以上页面。&lt;/p&gt;&#xA;&lt;p&gt;今天是2010年12月17日，就此记录一下。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>再见，ifleea.cn</title>
-      <link>https://blognew.natt.cc/posts/2010-12-13-%E5%86%8D%E8%A7%81ifleea-cn/</link>
-      <pubDate>Mon, 13 Dec 2010 08:51:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2010-12-13-%E5%86%8D%E8%A7%81ifleea-cn/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.ifleea.com/939.html&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; title=&#34;ifleea.cn&#34; style=&#34;border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px&#34; height=&#34;337&#34; alt=&#34;ifleea.cn&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2010/12/11.jpg&#34; width=&#34;524&#34; border=&#34;0&#34; /&gt;&lt;/a&gt; &lt;/p&gt;&#xA;&lt;p&gt;各种原因，ifleea.cn将在明天下线。完成它两年的使命。域名也不再续费，今后ifleea.cn将与我没有任何关系，而利用ifleea.cn域名产生的任何后果也与我无关。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>苏ICP备09000331号</title>
-      <link>https://blognew.natt.cc/posts/2010-09-28-%E8%8B%8Ficp%E5%A4%8709000331%E5%8F%B7/</link>
-      <pubDate>Tue, 28 Sep 2010 05:01:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2010-09-28-%E8%8B%8Ficp%E5%A4%8709000331%E5%8F%B7/</guid>
-      <description>&lt;p&gt;从写信，写日记抒发情感，到博客诞生，用博客记录心情，再到微博出现，140个字完成记录。社会不知在进化还是退化。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;我最早注册在bokee.com的博客，在经历几次抽风之后更新就止步在了2007年。也试用过blogcn,blogbus出于不敢保证他们不会重蹈bokee的覆辙后来投靠blogspot，google出品，大牌保证，没出几个月被墙，投靠sina，sina唯唯诺诺不敢涉及任何思考，似乎是娱乐者的世界。其间也用过live space一段时间，高三冲刺时的心情就记录着live上，后来新注册的live也是我备份blog的地方。 回头看看，bokee早已处于半死不活，blogcn也稳定的活着，blogbus搞得似乎有些成为更多小文艺青年的聚集地，live算是活的最久的一个。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>跳蚤网志 墙外等你</title>
-      <link>https://blognew.natt.cc/posts/2009-12-15-%E8%B7%B3%E8%9A%A4%E7%BD%91%E5%BF%97-%E5%A2%99%E5%A4%96%E7%AD%89%E4%BD%A0/</link>
-      <pubDate>Mon, 14 Dec 2009 16:04:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-12-15-%E8%B7%B3%E8%9A%A4%E7%BD%91%E5%BF%97-%E5%A2%99%E5%A4%96%E7%AD%89%E4%BD%A0/</guid>
-      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;overthewalls&#34; border=&#34;0&#34; alt=&#34;overthewalls&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/overthewalls.jpg&#34; width=&#34;630&#34; height=&#34;249&#34; /&gt; &#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;经过一年的发展&lt;a href=&#34;http://www.ifleea.com&#34; target=&#34;_blank&#34;&gt;,跳蚤网志&lt;/a&gt;升级啦.&lt;/p&gt;&#xA;&lt;p&gt;启用全新域名： &lt;a href=&#34;http://www.ifleea.com&#34;&gt;www.ifleea.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;并且服务器转移至USA&lt;/p&gt;&#xA;&lt;p&gt;订阅地址不变 &lt;a href=&#34;http://feed.feedsky.com/tzwangzhi&#34;&gt;http://feed.feedsky.com/tzwangzhi&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ESCAPE II</title>
-      <link>https://blognew.natt.cc/posts/2009-12-12-escape-ii/</link>
-      <pubDate>Sat, 12 Dec 2009 15:59:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-12-12-escape-ii/</guid>
-      <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/berlin.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px&#34; title=&#34;berlin&#34; border=&#34;0&#34; alt=&#34;berlin&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/berlin_thumb.jpg&#34; width=&#34;630&#34; height=&#34;250&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;昨日刚刚出了&lt;a href=&#34;http://www.ifleea.com/743.html&#34; target=&#34;_blank&#34;&gt;ESCAPE&lt;/a&gt;，今天就续写ESCAPE II. 不是我对这个ESCAPE有什么特殊感情，而真的是我这个跳蚤网志USA版本有太多出神入化的经历&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Escape</title>
-      <link>https://blognew.natt.cc/posts/2009-12-12-escape/</link>
-      <pubDate>Fri, 11 Dec 2009 18:18:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-12-12-escape/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/escape.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px&#34; title=&#34;escape&#34; border=&#34;0&#34; alt=&#34;escape&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/escape_thumb.jpg&#34; width=&#34;630&#34; height=&#34;250&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;BTCHINA关掉了，VeryCD莫名其妙关键节骨眼宕机，全国IDC机房关停上千个，我的wordpress群里面的朋友们失去自己的博客。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>百度带来的新年贺礼</title>
-      <link>https://blognew.natt.cc/posts/2008-12-31-%E7%99%BE%E5%BA%A6%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%A4%BC/</link>
-      <pubDate>Wed, 31 Dec 2008 11:45:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2008-12-31-%E7%99%BE%E5%BA%A6%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%A4%BC/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/23680b6ab310.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; title=&#34;搜索引擎&#34; style=&#34;border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px&#34; height=&#34;79&#34; alt=&#34;搜索引擎&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/thumb.jpg&#34; width=&#34;493&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;建站半个月左右，百度终于收录我的网站了。&lt;/p&gt;&#xA;&lt;p&gt;也算在新年之前给我带来的贺礼。&lt;/p&gt;&#xA;&lt;p&gt;Google很久就收录我了，并能够每天带来一些流量。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;这次百度收录，没有从无到1的过程，直接从0到28，但是总觉得这个收录来的晚了些..&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>建站2天，搜索引擎开始收录我了</title>
-      <link>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</link>
-      <pubDate>Tue, 16 Dec 2008 17:02:54 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</guid>
-      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-98&#34; title=&#34;搜索引擎收录&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg&#34; alt=&#34;搜索引擎收录&#34; width=&#34;385&#34; height=&#34;55&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg 773w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-300x43.jpg 300w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-768x109.jpg 768w&#34; sizes=&#34;auto, (max-width: 385px) 100vw, 385px&#34; /&gt;&#xA;&lt;p&gt;虽然百度还没有收录进去，但是有一个反向链接已经收录，Google有一个收录，搜搜有一个收录。&lt;/p&gt;&#xA;&lt;p&gt;虽然搜索引擎还没有给我带来流量。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>出错了</title>
-      <link>https://blognew.natt.cc/posts/2008-12-15-%E5%87%BA%E9%94%99%E4%BA%86/</link>
-      <pubDate>Sun, 14 Dec 2008 16:08:58 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2008-12-15-%E5%87%BA%E9%94%99%E4%BA%86/</guid>
-      <description>&lt;p&gt;我发现我添加的 留言板 插件有错误，不能正常留言咯。&lt;/p&gt;&#xA;&lt;p&gt;我这两天再找找新的留言插件加入进来。&lt;/p&gt;&#xA;&lt;p&gt;暂时没法留言咯。&lt;/p&gt;&#xA;&lt;p&gt;对不住咯。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>建站日志 on Natt Blog</title><link>https://blognew.natt.cc/categories/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97/</link><description>Recent content in 建站日志 on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2017 06:07:24 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/categories/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97/index.xml" rel="self" type="application/rss+xml"/><item><title>LNMP环境下利用SSH+winSCP备份并下载MySQL数据库的简便方法</title><link>https://blognew.natt.cc/posts/2017-11-11-lnmp%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%88%A9%E7%94%A8sshwinscp%E5%A4%87%E4%BB%BD%E5%B9%B6%E4%B8%8B%E8%BD%BDmysql%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E7%AE%80%E4%BE%BF%E6%96%B9%E6%B3%95/</link><pubDate>Sat, 11 Nov 2017 06:07:24 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-11-11-lnmp%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%88%A9%E7%94%A8sshwinscp%E5%A4%87%E4%BB%BD%E5%B9%B6%E4%B8%8B%E8%BD%BDmysql%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E7%AE%80%E4%BE%BF%E6%96%B9%E6%B3%95/</guid><description>&lt;p&gt;趁着11·11，买了一台京东云的服务器给网站做更新，虽然对京东云的可信度不能保证，但基本上市场价2折左右的价格还是让人心动不已。但之前的服务器被自动备份撑炸了一次之后，安装的三方面板就进不去了，于是有了今天搬家的折腾旅程。&lt;/p&gt;</description></item><item><title>被迫蛰伏一个月</title><link>https://blognew.natt.cc/posts/2017-11-03-%E8%A2%AB%E8%BF%AB%E8%9B%B0%E4%BC%8F%E4%B8%80%E4%B8%AA%E6%9C%88/</link><pubDate>Fri, 03 Nov 2017 04:12:44 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-11-03-%E8%A2%AB%E8%BF%AB%E8%9B%B0%E4%BC%8F%E4%B8%80%E4%B8%AA%E6%9C%88/</guid><description>&lt;p&gt;受限于19b1g 的影响，之前的网站服务器莫名其妙的就连接不稳，于是机智的我及时做了全盘备份，在七牛和电脑本地做了双重备份，果断下线网站等待严冬过去。 同时，凸墙的服务器也抽风到不行，本以为被GFVV 给定点干掉了，换机房换目的地整了半天，结果在19b1g结束后第二天中午瞬间就通畅了。估计是19b1g期间对外的出口都做了一些限制，限制之下你再怎么折腾徒劳，维度攻击。&lt;/p&gt;</description></item><item><title>再见备案</title><link>https://blognew.natt.cc/posts/2017-09-21-%E5%86%8D%E8%A7%81%E5%A4%87%E6%A1%88/</link><pubDate>Thu, 21 Sep 2017 03:25:51 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-09-21-%E5%86%8D%E8%A7%81%E5%A4%87%E6%A1%88/</guid><description>&lt;img loading="lazy" decoding="async" class="alignnone size-full wp-image-1451" src="https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67.png" alt="" width="647" height="237" srcset="https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67.png 647w, https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67-350x128.png 350w, https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67-300x110.png 300w" sizes="auto, (max-width: 647px) 100vw, 647px" /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;之前一不小心脑子一热麻蛋把自己手中的5个域名一口气备案在了腾讯云，出于Natt’s Five Domains 备案网站名叫 南特斯斐吾，曾以自己的小聪明沾沾自喜，结果现在启用blog.natt.cc的时候傻逼了，内裤都特么交上去了。&lt;/p&gt;</description></item><item><title>你好 blog.natt.cc</title><link>https://blognew.natt.cc/posts/2017-09-18-%E4%BD%A0%E5%A5%BD-natt-cc/</link><pubDate>Mon, 18 Sep 2017 04:07:35 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-09-18-%E4%BD%A0%E5%A5%BD-natt-cc/</guid><description>&lt;p&gt;由于之前一不小心脑残北岸了 ifleea.com 域名，突然觉得底裤丢了。&lt;/p&gt;
+&lt;p&gt;同时，这些年行走江湖已经摒弃了ifleea这个江湖称号转而用更加个人品牌化的标识 Natt，屯着备用的  blog.natt.cc 域名也多年未启用，是时候启用我的个人新网络形象了，于是，小博于2017年9月18日将主站域名更换到了 blog.natt.cc 这个域名，并且暂时废弃 ifleea.com 这个域名&lt;/p&gt;</description></item><item><title>使用宝塔面板搭建wordpress环境附带问题解决</title><link>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</link><pubDate>Sat, 27 May 2017 03:26:53 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</guid><description>&lt;p&gt;之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。&lt;/p&gt;
+&lt;p&gt;无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。&lt;/p&gt;</description></item><item><title>百度BCC配置主机宝跑WordPress的终极方案</title><link>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</link><pubDate>Sat, 11 Feb 2017 13:32:30 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</guid><description>&lt;p&gt;这是一个一个菜逼的百度BCC折腾手记。&lt;/p&gt;
+&lt;p&gt;公司之前的网站服务器到期了，想着把各个二级域名的小站整合在一起，就注册了一个百度BCC，1核2G1M的屌丝配置，但是差不多也够够的了。之前用过WDCP的面板，感觉还不错，包括这个小博客就是跑在WDCP面板的服务器上的，所以这次依旧没有任何犹豫在CentOS 6.5x 64 上一键WDCP搭建了Apache 和 Nginx可以互相切换的环境，想象中高枕无忧了。&lt;/p&gt;</description></item><item><title>给blog搬家到了一个别墅</title><link>https://blognew.natt.cc/posts/2017-01-10-%E7%BB%99blog%E6%90%AC%E5%AE%B6%E5%88%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E5%88%AB%E5%A2%85/</link><pubDate>Tue, 10 Jan 2017 10:11:31 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-01-10-%E7%BB%99blog%E6%90%AC%E5%AE%B6%E5%88%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E5%88%AB%E5%A2%85/</guid><description>&lt;p&gt;一段时间没管blog，最近打开竟然数据库连接失败了，原来的小茅屋实在是太不稳了，何况这么多年的积累（虽然没多少日志）应该算是数据比较值钱了吧，我在搬瓦工/Bandwagonhost给小博客在美国凤凰城买了一小块云计算能力（1核心、1024MB内存、20GB SSD硬盘、月2T流量），配合免费的wdcp面板搭建了php+mysql环境，对于这么小体量的网站来说，这差不多等于让一只小小的猫住在了一个500平的别墅这么奢侈。&lt;/p&gt;</description></item><item><title>又一枚WordPress加速方法</title><link>https://blognew.natt.cc/posts/2015-04-21-%E5%8F%88%E4%B8%80%E6%9E%9Awordpress%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/</link><pubDate>Tue, 21 Apr 2015 15:22:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2015-04-21-%E5%8F%88%E4%B8%80%E6%9E%9Awordpress%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/</guid><description>&lt;p&gt;之前几天用了USESO 360网站卫士公共库替换Google库的方法确实能够为网站提速不少，而今天又领教了另一个WP加速的好方法。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;一句话说，就是WP Super Cache + 七牛云加速 的静态文件DNS服务。&lt;/p&gt;</description></item><item><title>转载-用360CDN公共库扶起Google被阉割后的雄风</title><link>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</link><pubDate>Thu, 16 Apr 2015 15:34:48 +0000</pubDate><guid>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</guid><description>&lt;p&gt;前因后果就不详述了，简单说就是Google的互联网字体服务被凌迟阉割，而360终于干了一会好事，把Google的字体库CDN缓存到了国内。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;—-以下是引用部分，以备以后自己查阅—–&lt;/p&gt;</description></item><item><title>你好，第四年了</title><link>https://blognew.natt.cc/posts/2011-12-04-%E4%BD%A0%E5%A5%BD%E7%AC%AC%E5%9B%9B%E5%B9%B4%E4%BA%86/</link><pubDate>Sun, 04 Dec 2011 19:48:01 +0000</pubDate><guid>https://blognew.natt.cc/posts/2011-12-04-%E4%BD%A0%E5%A5%BD%E7%AC%AC%E5%9B%9B%E5%B9%B4%E4%BA%86/</guid><description>&lt;p&gt;刚才给域名又续费一年，自此，博客第四年开始了。&lt;/p&gt;
+&lt;p&gt;微博盛行，博客开始每况愈下。&lt;/p&gt;
+&lt;p&gt;但是我仍然相信每个人总需要一个地方来记录自己的历程，牛逼也好，傻逼也好。&lt;/p&gt;</description></item><item><title>你好，2011</title><link>https://blognew.natt.cc/posts/2011-01-06-%E4%BD%A0%E5%A5%BD2011/</link><pubDate>Thu, 06 Jan 2011 07:38:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2011-01-06-%E4%BD%A0%E5%A5%BD2011/</guid><description>&lt;p&gt;一直筹划着好好改版一下我的个人空间，之前做的引导页是一个一期探索工程。&lt;/p&gt;
+&lt;p&gt;回家这几天恶补了一下绑定二级域名的知识和别的一些相关知识，终于更新了自己在网络上那一点点小小的坚持。&lt;/p&gt;</description></item><item><title>A Brand New Index</title><link>https://blognew.natt.cc/posts/2010-12-17-a-brand-new-index/</link><pubDate>Fri, 17 Dec 2010 14:38:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2010-12-17-a-brand-new-index/</guid><description>&lt;p&gt;&lt;a href="http://www.ifleea.com/963.html"&gt;&lt;img loading="lazy" decoding="async" style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="brand_new_index" border="0" alt="brand_new_index" src="https://blog.natt.cc/wp-content/uploads/2010/12/brand_new_index1.jpg" width="604" height="336" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今天，&lt;a href="http://www.ifleea.com"&gt;www.ifleea.com&lt;/a&gt; 已经换了一个全新的首页，当输入&lt;a href="http://www.ifleea.com"&gt;www.ifleea.com&lt;/a&gt;之后，会出现以上页面。&lt;/p&gt;
+&lt;p&gt;今天是2010年12月17日，就此记录一下。&lt;/p&gt;</description></item><item><title>再见，ifleea.cn</title><link>https://blognew.natt.cc/posts/2010-12-13-%E5%86%8D%E8%A7%81ifleea-cn/</link><pubDate>Mon, 13 Dec 2010 08:51:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2010-12-13-%E5%86%8D%E8%A7%81ifleea-cn/</guid><description>&lt;p&gt;&lt;a href="http://www.ifleea.com/939.html"&gt;&lt;img loading="lazy" decoding="async" title="ifleea.cn" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="337" alt="ifleea.cn" src="https://blog.natt.cc/wp-content/uploads/2010/12/11.jpg" width="524" border="0" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;各种原因，ifleea.cn将在明天下线。完成它两年的使命。域名也不再续费，今后ifleea.cn将与我没有任何关系，而利用ifleea.cn域名产生的任何后果也与我无关。&lt;/p&gt;</description></item><item><title>苏ICP备09000331号</title><link>https://blognew.natt.cc/posts/2010-09-28-%E8%8B%8Ficp%E5%A4%8709000331%E5%8F%B7/</link><pubDate>Tue, 28 Sep 2010 05:01:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2010-09-28-%E8%8B%8Ficp%E5%A4%8709000331%E5%8F%B7/</guid><description>&lt;p&gt;从写信，写日记抒发情感，到博客诞生，用博客记录心情，再到微博出现，140个字完成记录。社会不知在进化还是退化。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;我最早注册在bokee.com的博客，在经历几次抽风之后更新就止步在了2007年。也试用过blogcn,blogbus出于不敢保证他们不会重蹈bokee的覆辙后来投靠blogspot，google出品，大牌保证，没出几个月被墙，投靠sina，sina唯唯诺诺不敢涉及任何思考，似乎是娱乐者的世界。其间也用过live space一段时间，高三冲刺时的心情就记录着live上，后来新注册的live也是我备份blog的地方。 回头看看，bokee早已处于半死不活，blogcn也稳定的活着，blogbus搞得似乎有些成为更多小文艺青年的聚集地，live算是活的最久的一个。&lt;/p&gt;</description></item><item><title>跳蚤网志 墙外等你</title><link>https://blognew.natt.cc/posts/2009-12-15-%E8%B7%B3%E8%9A%A4%E7%BD%91%E5%BF%97-%E5%A2%99%E5%A4%96%E7%AD%89%E4%BD%A0/</link><pubDate>Mon, 14 Dec 2009 16:04:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2009-12-15-%E8%B7%B3%E8%9A%A4%E7%BD%91%E5%BF%97-%E5%A2%99%E5%A4%96%E7%AD%89%E4%BD%A0/</guid><description>&lt;img loading="lazy" decoding="async" style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="overthewalls" border="0" alt="overthewalls" src="https://blog.natt.cc/wp-content/uploads/2009/12/overthewalls.jpg" width="630" height="249" /&gt; 
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;经过一年的发展&lt;a href="http://www.ifleea.com" target="_blank"&gt;,跳蚤网志&lt;/a&gt;升级啦.&lt;/p&gt;
+&lt;p&gt;启用全新域名： &lt;a href="http://www.ifleea.com"&gt;www.ifleea.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;并且服务器转移至USA&lt;/p&gt;
+&lt;p&gt;订阅地址不变 &lt;a href="http://feed.feedsky.com/tzwangzhi"&gt;http://feed.feedsky.com/tzwangzhi&lt;/a&gt;&lt;/p&gt;</description></item><item><title>ESCAPE II</title><link>https://blognew.natt.cc/posts/2009-12-12-escape-ii/</link><pubDate>Sat, 12 Dec 2009 15:59:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2009-12-12-escape-ii/</guid><description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://blog.natt.cc/wp-content/uploads/2009/12/berlin.jpg"&gt;&lt;img loading="lazy" decoding="async" style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="berlin" border="0" alt="berlin" src="https://blog.natt.cc/wp-content/uploads/2009/12/berlin_thumb.jpg" width="630" height="250" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;昨日刚刚出了&lt;a href="http://www.ifleea.com/743.html" target="_blank"&gt;ESCAPE&lt;/a&gt;，今天就续写ESCAPE II. 不是我对这个ESCAPE有什么特殊感情，而真的是我这个跳蚤网志USA版本有太多出神入化的经历&lt;/p&gt;</description></item><item><title>Escape</title><link>https://blognew.natt.cc/posts/2009-12-12-escape/</link><pubDate>Fri, 11 Dec 2009 18:18:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2009-12-12-escape/</guid><description>&lt;p&gt;&lt;a href="https://blog.natt.cc/wp-content/uploads/2009/12/escape.jpg"&gt;&lt;img loading="lazy" decoding="async" style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="escape" border="0" alt="escape" src="https://blog.natt.cc/wp-content/uploads/2009/12/escape_thumb.jpg" width="630" height="250" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;BTCHINA关掉了，VeryCD莫名其妙关键节骨眼宕机，全国IDC机房关停上千个，我的wordpress群里面的朋友们失去自己的博客。&lt;/p&gt;</description></item><item><title>百度带来的新年贺礼</title><link>https://blognew.natt.cc/posts/2008-12-31-%E7%99%BE%E5%BA%A6%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%A4%BC/</link><pubDate>Wed, 31 Dec 2008 11:45:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2008-12-31-%E7%99%BE%E5%BA%A6%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%A4%BC/</guid><description>&lt;p&gt;&lt;a href="https://blog.natt.cc/wp-content/uploads/2008/12/23680b6ab310.jpg"&gt;&lt;img loading="lazy" decoding="async" title="搜索引擎" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="79" alt="搜索引擎" src="https://blog.natt.cc/wp-content/uploads/2008/12/thumb.jpg" width="493" border="0" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;建站半个月左右，百度终于收录我的网站了。&lt;/p&gt;
+&lt;p&gt;也算在新年之前给我带来的贺礼。&lt;/p&gt;
+&lt;p&gt;Google很久就收录我了，并能够每天带来一些流量。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;这次百度收录，没有从无到1的过程，直接从0到28，但是总觉得这个收录来的晚了些..&lt;/p&gt;</description></item><item><title>建站2天，搜索引擎开始收录我了</title><link>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</link><pubDate>Tue, 16 Dec 2008 17:02:54 +0000</pubDate><guid>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</guid><description>&lt;img loading="lazy" decoding="async" class="alignnone size-full wp-image-98" title="搜索引擎收录" src="https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg" alt="搜索引擎收录" width="385" height="55" srcset="https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg 773w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-300x43.jpg 300w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-768x109.jpg 768w" sizes="auto, (max-width: 385px) 100vw, 385px" /&gt;
+&lt;p&gt;虽然百度还没有收录进去，但是有一个反向链接已经收录，Google有一个收录，搜搜有一个收录。&lt;/p&gt;
+&lt;p&gt;虽然搜索引擎还没有给我带来流量。&lt;/p&gt;</description></item><item><title>出错了</title><link>https://blognew.natt.cc/posts/2008-12-15-%E5%87%BA%E9%94%99%E4%BA%86/</link><pubDate>Sun, 14 Dec 2008 16:08:58 +0000</pubDate><guid>https://blognew.natt.cc/posts/2008-12-15-%E5%87%BA%E9%94%99%E4%BA%86/</guid><description>&lt;p&gt;我发现我添加的 留言板 插件有错误，不能正常留言咯。&lt;/p&gt;
+&lt;p&gt;我这两天再找找新的留言插件加入进来。&lt;/p&gt;
+&lt;p&gt;暂时没法留言咯。&lt;/p&gt;
+&lt;p&gt;对不住咯。&lt;/p&gt;</description></item></channel></rss>

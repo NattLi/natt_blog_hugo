@@ -1,47 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>MAC on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/mac/</link>
-    <description>Recent content in MAC on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 04 Aug 2018 08:55:28 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/mac/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>macOS 本地安装 gitbook 并生成 html 格式电子书的过程</title>
-      <link>https://blognew.natt.cc/posts/2018-08-04-macos-%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85-gitbook-%E5%B9%B6%E7%94%9F%E6%88%90-html-%E6%A0%BC%E5%BC%8F%E7%94%B5%E5%AD%90%E4%B9%A6%E7%9A%84%E8%BF%87%E7%A8%8B/</link>
-      <pubDate>Sat, 04 Aug 2018 08:55:28 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2018-08-04-macos-%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85-gitbook-%E5%B9%B6%E7%94%9F%E6%88%90-html-%E6%A0%BC%E5%BC%8F%E7%94%B5%E5%AD%90%E4%B9%A6%E7%9A%84%E8%BF%87%E7%A8%8B/</guid>
-      <description>&lt;p&gt;第一步：安装node.js&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nodejs.org/en/download/&#34;&gt;https://nodejs.org/en/download/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;第二步：第二步：安装gitbook&lt;/p&gt;&#xA;&lt;p&gt;npm install gitbook-cli -g&lt;br&gt;&#xA;或者&lt;br&gt;&#xA;sudo npm install gitbook-cli -g&lt;/p&gt;&#xA;&lt;p&gt;第三步：初始化&lt;br&gt;&#xA;记得选择目标文件夹，然后：&lt;br&gt;&#xA;gitbook init&lt;/p&gt;&#xA;&lt;p&gt;第四步：粘入内容&lt;br&gt;&#xA;将md文件都拷入目标文件夹&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>年轻，接着折腾</title>
-      <link>https://blognew.natt.cc/posts/2009-04-27-%E5%B9%B4%E8%BD%BB%E6%8E%A5%E7%9D%80%E6%8A%98%E8%85%BE/</link>
-      <pubDate>Sun, 26 Apr 2009 16:38:11 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-04-27-%E5%B9%B4%E8%BD%BB%E6%8E%A5%E7%9D%80%E6%8A%98%E8%85%BE/</guid>
-      <description>&lt;p&gt;话说之前成功给我的笔记本装上了MAC系统，由于分区太小，系统已经过早地老龄化了，现在已经是winXP了。不过在cnBeta上面看到免费赠送ubuntu的光盘，又忍不住了。垂涎的ubuntu啊…  嘿嘿…  &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mac OSX 完结篇</title>
-      <link>https://blognew.natt.cc/posts/2009-03-19-mac-osx-%E5%AE%8C%E7%BB%93%E7%AF%87/</link>
-      <pubDate>Wed, 18 Mar 2009 16:24:35 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-03-19-mac-osx-%E5%AE%8C%E7%BB%93%E7%AF%87/</guid>
-      <description>&lt;p&gt;经过昨晚的努力，我已经成功的在我的笔记本上安装了mac os x 10.5.6 系统。&lt;/p&gt;&#xA;&lt;p&gt;老天比较给我面子，除了摄像头之外，所有的驱动都安装成功，安装过程也比较顺利。&lt;/p&gt;&#xA;&lt;p&gt;mac果然超乎我想象的惊艳。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MAC OS 我不冲动 II</title>
-      <link>https://blognew.natt.cc/posts/2009-03-14-mac-os-%E6%88%91%E4%B8%8D%E5%86%B2%E5%8A%A8-ii/</link>
-      <pubDate>Sat, 14 Mar 2009 13:46:49 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-03-14-mac-os-%E6%88%91%E4%B8%8D%E5%86%B2%E5%8A%A8-ii/</guid>
-      <description>&lt;p&gt;　　在昨天发了&lt;a title=&#34;Permanent Link to MAC OS 我不冲动&#34; rel=&#34;bookmark&#34; href=&#34;https://blog.natt.cc/index.php/archives/372&#34;&gt;MAC OS 我不冲动&lt;/a&gt;一文之后，在打算下载安装程序的时候发现巨大的数据量和纤弱的宿舍网络形成巨大的对比。于是打算去淘宝购买。 淘宝搜索一番之后才发现昨天打算现在的版本不支持我的显卡，并且10.5.x系列的MAC OS 已经很成熟。在于淘宝老板一番学习探讨之后，我拍下了MAC OSX 10.5.6 版本的碟子。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MAC OS 我不冲动</title>
-      <link>https://blognew.natt.cc/posts/2009-03-13-mac-os-%E6%88%91%E4%B8%8D%E5%86%B2%E5%8A%A8/</link>
-      <pubDate>Fri, 13 Mar 2009 14:12:19 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-03-13-mac-os-%E6%88%91%E4%B8%8D%E5%86%B2%E5%8A%A8/</guid>
-      <description>&lt;p&gt;　　首先说：我的电脑是BenQ R56. 纯正的自己装的D版牛X的Windows XP SP3.   不过本人深深受 Apple 产品的吸引，电脑中有Apple 的 iTunes 、Safari、QTplayer软件，前段时间又安装了Mac OSX Leopard 全主题仿真包，能够完全模拟Mac OSX 的效果。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MAC on Natt Blog</title><link>https://blognew.natt.cc/tags/mac/</link><description>Recent content in MAC on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 04 Aug 2018 08:55:28 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/mac/index.xml" rel="self" type="application/rss+xml"/><item><title>macOS 本地安装 gitbook 并生成 html 格式电子书的过程</title><link>https://blognew.natt.cc/posts/2018-08-04-macos-%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85-gitbook-%E5%B9%B6%E7%94%9F%E6%88%90-html-%E6%A0%BC%E5%BC%8F%E7%94%B5%E5%AD%90%E4%B9%A6%E7%9A%84%E8%BF%87%E7%A8%8B/</link><pubDate>Sat, 04 Aug 2018 08:55:28 +0000</pubDate><guid>https://blognew.natt.cc/posts/2018-08-04-macos-%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85-gitbook-%E5%B9%B6%E7%94%9F%E6%88%90-html-%E6%A0%BC%E5%BC%8F%E7%94%B5%E5%AD%90%E4%B9%A6%E7%9A%84%E8%BF%87%E7%A8%8B/</guid><description>&lt;p&gt;第一步：安装node.js&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nodejs.org/en/download/"&gt;https://nodejs.org/en/download/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第二步：第二步：安装gitbook&lt;/p&gt;
+&lt;p&gt;npm install gitbook-cli -g&lt;br&gt;
+或者&lt;br&gt;
+sudo npm install gitbook-cli -g&lt;/p&gt;
+&lt;p&gt;第三步：初始化&lt;br&gt;
+记得选择目标文件夹，然后：&lt;br&gt;
+gitbook init&lt;/p&gt;
+&lt;p&gt;第四步：粘入内容&lt;br&gt;
+将md文件都拷入目标文件夹&lt;/p&gt;</description></item><item><title>年轻，接着折腾</title><link>https://blognew.natt.cc/posts/2009-04-27-%E5%B9%B4%E8%BD%BB%E6%8E%A5%E7%9D%80%E6%8A%98%E8%85%BE/</link><pubDate>Sun, 26 Apr 2009 16:38:11 +0000</pubDate><guid>https://blognew.natt.cc/posts/2009-04-27-%E5%B9%B4%E8%BD%BB%E6%8E%A5%E7%9D%80%E6%8A%98%E8%85%BE/</guid><description>&lt;p&gt;话说之前成功给我的笔记本装上了MAC系统，由于分区太小，系统已经过早地老龄化了，现在已经是winXP了。不过在cnBeta上面看到免费赠送ubuntu的光盘，又忍不住了。垂涎的ubuntu啊…  嘿嘿…  &lt;/p&gt;</description></item><item><title>Mac OSX 完结篇</title><link>https://blognew.natt.cc/posts/2009-03-19-mac-osx-%E5%AE%8C%E7%BB%93%E7%AF%87/</link><pubDate>Wed, 18 Mar 2009 16:24:35 +0000</pubDate><guid>https://blognew.natt.cc/posts/2009-03-19-mac-osx-%E5%AE%8C%E7%BB%93%E7%AF%87/</guid><description>&lt;p&gt;经过昨晚的努力，我已经成功的在我的笔记本上安装了mac os x 10.5.6 系统。&lt;/p&gt;
+&lt;p&gt;老天比较给我面子，除了摄像头之外，所有的驱动都安装成功，安装过程也比较顺利。&lt;/p&gt;
+&lt;p&gt;mac果然超乎我想象的惊艳。&lt;/p&gt;</description></item><item><title>MAC OS 我不冲动 II</title><link>https://blognew.natt.cc/posts/2009-03-14-mac-os-%E6%88%91%E4%B8%8D%E5%86%B2%E5%8A%A8-ii/</link><pubDate>Sat, 14 Mar 2009 13:46:49 +0000</pubDate><guid>https://blognew.natt.cc/posts/2009-03-14-mac-os-%E6%88%91%E4%B8%8D%E5%86%B2%E5%8A%A8-ii/</guid><description>&lt;p&gt;　　在昨天发了&lt;a title="Permanent Link to MAC OS 我不冲动" rel="bookmark" href="https://blog.natt.cc/index.php/archives/372"&gt;MAC OS 我不冲动&lt;/a&gt;一文之后，在打算下载安装程序的时候发现巨大的数据量和纤弱的宿舍网络形成巨大的对比。于是打算去淘宝购买。 淘宝搜索一番之后才发现昨天打算现在的版本不支持我的显卡，并且10.5.x系列的MAC OS 已经很成熟。在于淘宝老板一番学习探讨之后，我拍下了MAC OSX 10.5.6 版本的碟子。&lt;/p&gt;</description></item><item><title>MAC OS 我不冲动</title><link>https://blognew.natt.cc/posts/2009-03-13-mac-os-%E6%88%91%E4%B8%8D%E5%86%B2%E5%8A%A8/</link><pubDate>Fri, 13 Mar 2009 14:12:19 +0000</pubDate><guid>https://blognew.natt.cc/posts/2009-03-13-mac-os-%E6%88%91%E4%B8%8D%E5%86%B2%E5%8A%A8/</guid><description>&lt;p&gt;　　首先说：我的电脑是BenQ R56. 纯正的自己装的D版牛X的Windows XP SP3.   不过本人深深受 Apple 产品的吸引，电脑中有Apple 的 iTunes 、Safari、QTplayer软件，前段时间又安装了Mac OSX Leopard 全主题仿真包，能够完全模拟Mac OSX 的效果。&lt;/p&gt;</description></item></channel></rss>

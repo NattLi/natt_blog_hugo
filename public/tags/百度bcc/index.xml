@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>百度BCC on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/%E7%99%BE%E5%BA%A6bcc/</link>
-    <description>Recent content in 百度BCC on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 Feb 2017 13:32:30 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/%E7%99%BE%E5%BA%A6bcc/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>百度BCC配置主机宝跑WordPress的终极方案</title>
-      <link>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</link>
-      <pubDate>Sat, 11 Feb 2017 13:32:30 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</guid>
-      <description>&lt;p&gt;这是一个一个菜逼的百度BCC折腾手记。&lt;/p&gt;&#xA;&lt;p&gt;公司之前的网站服务器到期了，想着把各个二级域名的小站整合在一起，就注册了一个百度BCC，1核2G1M的屌丝配置，但是差不多也够够的了。之前用过WDCP的面板，感觉还不错，包括这个小博客就是跑在WDCP面板的服务器上的，所以这次依旧没有任何犹豫在CentOS 6.5x 64 上一键WDCP搭建了Apache 和 Nginx可以互相切换的环境，想象中高枕无忧了。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>百度BCC on Natt Blog</title><link>https://blognew.natt.cc/tags/%E7%99%BE%E5%BA%A6bcc/</link><description>Recent content in 百度BCC on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 11 Feb 2017 13:32:30 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/%E7%99%BE%E5%BA%A6bcc/index.xml" rel="self" type="application/rss+xml"/><item><title>百度BCC配置主机宝跑WordPress的终极方案</title><link>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</link><pubDate>Sat, 11 Feb 2017 13:32:30 +0000</pubDate><guid>https://blognew.natt.cc/posts/2017-02-11-%E7%99%BE%E5%BA%A6bcc%E9%85%8D%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%AE%9D%E8%B7%91wordpress%E7%9A%84%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88/</guid><description>&lt;p&gt;这是一个一个菜逼的百度BCC折腾手记。&lt;/p&gt;
+&lt;p&gt;公司之前的网站服务器到期了，想着把各个二级域名的小站整合在一起，就注册了一个百度BCC，1核2G1M的屌丝配置，但是差不多也够够的了。之前用过WDCP的面板，感觉还不错，包括这个小博客就是跑在WDCP面板的服务器上的，所以这次依旧没有任何犹豫在CentOS 6.5x 64 上一键WDCP搭建了Apache 和 Nginx可以互相切换的环境，想象中高枕无忧了。&lt;/p&gt;</description></item></channel></rss>

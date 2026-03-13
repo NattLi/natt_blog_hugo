@@ -1,33 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>网络 on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/%E7%BD%91%E7%BB%9C/</link>
-    <description>Recent content in 网络 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2009 16:38:11 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>年轻，接着折腾</title>
-      <link>https://blognew.natt.cc/posts/2009-04-27-%E5%B9%B4%E8%BD%BB%E6%8E%A5%E7%9D%80%E6%8A%98%E8%85%BE/</link>
-      <pubDate>Sun, 26 Apr 2009 16:38:11 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-04-27-%E5%B9%B4%E8%BD%BB%E6%8E%A5%E7%9D%80%E6%8A%98%E8%85%BE/</guid>
-      <description>&lt;p&gt;话说之前成功给我的笔记本装上了MAC系统，由于分区太小，系统已经过早地老龄化了，现在已经是winXP了。不过在cnBeta上面看到免费赠送ubuntu的光盘，又忍不住了。垂涎的ubuntu啊…  嘿嘿…  &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>深入学习领会科学发展观</title>
-      <link>https://blognew.natt.cc/posts/2009-04-14-%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B1%95%E8%A7%82/</link>
-      <pubDate>Tue, 14 Apr 2009 14:27:55 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-04-14-%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B1%95%E8%A7%82/</guid>
-      <description>&lt;p&gt;&lt;a rel=&#34;attachment wp-att-478&#34; href=&#34;https://blog.natt.cc/476.html/dba97d0e-ee8e-48a5-bb47-b85eed3b49c4&#34;&gt;&lt;/a&gt;&lt;a rel=&#34;attachment wp-att-484&#34; href=&#34;https://blog.natt.cc/476.html/dba97d0e-ee8e-48a5-bb47-b85eed3b49c4-2&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-484&#34; title=&#34;科学发展观&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/04/dba97d0e-ee8e-48a5-bb47-b85eed3b49c4.jpg&#34; alt=&#34;科学发展观&#34; width=&#34;472&#34; height=&#34;229&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2009/04/dba97d0e-ee8e-48a5-bb47-b85eed3b49c4.jpg 593w, https://blog.natt.cc/wp-content/uploads/2009/04/dba97d0e-ee8e-48a5-bb47-b85eed3b49c4-300x146.jpg 300w&#34; sizes=&#34;auto, (max-width: 472px) 100vw, 472px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;图片：Google Trends&lt;/p&gt;&#xA;&lt;p&gt;在草泥马文化、河蟹文化蓬勃发展，中国武林绝学打酱油躲猫猫俯卧撑大行其道的现在，我们不得不承认社会主义国家的优越性。一堵&lt;strong&gt;无形的大墙&lt;/strong&gt;把中国的网络环境搞的干干净净，就连互联网上面“&lt;strong&gt;科学发展观&lt;/strong&gt;”的模板论文上面的某些关键词都&lt;strong&gt;被屏蔽&lt;/strong&gt;，由此可见这堵大墙已经相当成熟了，随风潜入夜，河蟹细无声啊。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>建站2天，搜索引擎开始收录我了</title>
-      <link>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</link>
-      <pubDate>Tue, 16 Dec 2008 17:02:54 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</guid>
-      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-98&#34; title=&#34;搜索引擎收录&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg&#34; alt=&#34;搜索引擎收录&#34; width=&#34;385&#34; height=&#34;55&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg 773w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-300x43.jpg 300w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-768x109.jpg 768w&#34; sizes=&#34;auto, (max-width: 385px) 100vw, 385px&#34; /&gt;&#xA;&lt;p&gt;虽然百度还没有收录进去，但是有一个反向链接已经收录，Google有一个收录，搜搜有一个收录。&lt;/p&gt;&#xA;&lt;p&gt;虽然搜索引擎还没有给我带来流量。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>网络 on Natt Blog</title><link>https://blognew.natt.cc/tags/%E7%BD%91%E7%BB%9C/</link><description>Recent content in 网络 on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 26 Apr 2009 16:38:11 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml"/><item><title>年轻，接着折腾</title><link>https://blognew.natt.cc/posts/2009-04-27-%E5%B9%B4%E8%BD%BB%E6%8E%A5%E7%9D%80%E6%8A%98%E8%85%BE/</link><pubDate>Sun, 26 Apr 2009 16:38:11 +0000</pubDate><guid>https://blognew.natt.cc/posts/2009-04-27-%E5%B9%B4%E8%BD%BB%E6%8E%A5%E7%9D%80%E6%8A%98%E8%85%BE/</guid><description>&lt;p&gt;话说之前成功给我的笔记本装上了MAC系统，由于分区太小，系统已经过早地老龄化了，现在已经是winXP了。不过在cnBeta上面看到免费赠送ubuntu的光盘，又忍不住了。垂涎的ubuntu啊…  嘿嘿…  &lt;/p&gt;</description></item><item><title>深入学习领会科学发展观</title><link>https://blognew.natt.cc/posts/2009-04-14-%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B1%95%E8%A7%82/</link><pubDate>Tue, 14 Apr 2009 14:27:55 +0000</pubDate><guid>https://blognew.natt.cc/posts/2009-04-14-%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B1%95%E8%A7%82/</guid><description>&lt;p&gt;&lt;a rel="attachment wp-att-478" href="https://blog.natt.cc/476.html/dba97d0e-ee8e-48a5-bb47-b85eed3b49c4"&gt;&lt;/a&gt;&lt;a rel="attachment wp-att-484" href="https://blog.natt.cc/476.html/dba97d0e-ee8e-48a5-bb47-b85eed3b49c4-2"&gt;&lt;img loading="lazy" decoding="async" class="alignnone size-full wp-image-484" title="科学发展观" src="https://blog.natt.cc/wp-content/uploads/2009/04/dba97d0e-ee8e-48a5-bb47-b85eed3b49c4.jpg" alt="科学发展观" width="472" height="229" srcset="https://blog.natt.cc/wp-content/uploads/2009/04/dba97d0e-ee8e-48a5-bb47-b85eed3b49c4.jpg 593w, https://blog.natt.cc/wp-content/uploads/2009/04/dba97d0e-ee8e-48a5-bb47-b85eed3b49c4-300x146.jpg 300w" sizes="auto, (max-width: 472px) 100vw, 472px" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;图片：Google Trends&lt;/p&gt;
+&lt;p&gt;在草泥马文化、河蟹文化蓬勃发展，中国武林绝学打酱油躲猫猫俯卧撑大行其道的现在，我们不得不承认社会主义国家的优越性。一堵&lt;strong&gt;无形的大墙&lt;/strong&gt;把中国的网络环境搞的干干净净，就连互联网上面“&lt;strong&gt;科学发展观&lt;/strong&gt;”的模板论文上面的某些关键词都&lt;strong&gt;被屏蔽&lt;/strong&gt;，由此可见这堵大墙已经相当成熟了，随风潜入夜，河蟹细无声啊。&lt;/p&gt;</description></item><item><title>建站2天，搜索引擎开始收录我了</title><link>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</link><pubDate>Tue, 16 Dec 2008 17:02:54 +0000</pubDate><guid>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</guid><description>&lt;img loading="lazy" decoding="async" class="alignnone size-full wp-image-98" title="搜索引擎收录" src="https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg" alt="搜索引擎收录" width="385" height="55" srcset="https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg 773w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-300x43.jpg 300w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-768x109.jpg 768w" sizes="auto, (max-width: 385px) 100vw, 385px" /&gt;
+&lt;p&gt;虽然百度还没有收录进去，但是有一个反向链接已经收录，Google有一个收录，搜搜有一个收录。&lt;/p&gt;
+&lt;p&gt;虽然搜索引擎还没有给我带来流量。&lt;/p&gt;</description></item></channel></rss>

@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>JIRA破解 on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/jira%E7%A0%B4%E8%A7%A3/</link>
-    <description>Recent content in JIRA破解 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jan 2021 02:21:28 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/jira%E7%A0%B4%E8%A7%A3/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>JIRA 折腾的一点点笔记</title>
-      <link>https://blognew.natt.cc/posts/2021-01-11-jira-%E6%8A%98%E8%85%BE%E7%9A%84%E4%B8%80%E7%82%B9%E7%82%B9%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Mon, 11 Jan 2021 02:21:28 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2021-01-11-jira-%E6%8A%98%E8%85%BE%E7%9A%84%E4%B8%80%E7%82%B9%E7%82%B9%E7%AC%94%E8%AE%B0/</guid>
-      <description>&lt;p&gt;前两天学习JIRA的安装和初始化工作，最终却是也安装成功了，在一个部署在 vultr 的 VPS 上的JIRA 8.7.1 版本，并且也成功完成了那个啥。&lt;/p&gt;&#xA;&lt;p&gt;虽然最终决定不再使用 JIRA 了，但过程还是做个简要记录吧。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JIRA破解 on Natt Blog</title><link>https://blognew.natt.cc/tags/jira%E7%A0%B4%E8%A7%A3/</link><description>Recent content in JIRA破解 on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 02:21:28 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/jira%E7%A0%B4%E8%A7%A3/index.xml" rel="self" type="application/rss+xml"/><item><title>JIRA 折腾的一点点笔记</title><link>https://blognew.natt.cc/posts/2021-01-11-jira-%E6%8A%98%E8%85%BE%E7%9A%84%E4%B8%80%E7%82%B9%E7%82%B9%E7%AC%94%E8%AE%B0/</link><pubDate>Mon, 11 Jan 2021 02:21:28 +0000</pubDate><guid>https://blognew.natt.cc/posts/2021-01-11-jira-%E6%8A%98%E8%85%BE%E7%9A%84%E4%B8%80%E7%82%B9%E7%82%B9%E7%AC%94%E8%AE%B0/</guid><description>&lt;p&gt;前两天学习JIRA的安装和初始化工作，最终却是也安装成功了，在一个部署在 vultr 的 VPS 上的JIRA 8.7.1 版本，并且也成功完成了那个啥。&lt;/p&gt;
+&lt;p&gt;虽然最终决定不再使用 JIRA 了，但过程还是做个简要记录吧。&lt;/p&gt;</description></item></channel></rss>
