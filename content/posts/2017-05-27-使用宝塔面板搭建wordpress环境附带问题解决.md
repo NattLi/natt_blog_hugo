@@ -1,27 +1,15 @@
 ---
 title: 使用宝塔面板搭建wordpress环境附带问题解决
 author: Natt
-type: post
 date: 2017-05-27T03:26:53+00:00
-url: /1329.html
-featured_image: /wp-content/uploads/2017/05/wp.jpg
-duoshuo_thread_id:
-  - 6424650964048806658
-nectar_blog_post_view_count:
-  - 4481
-categories:
-  - 建站日志
-  - 网络
-tags:
-  - btcn
-  - Nginx404
-  - wordpress
-  - wordpress环境
-  - 宝塔面板
-  - 宝塔面板设置wordpress
-  - 百度云服务器
-
+aliases: ["/1329.html"]
+cover:
+  image: "/wp-content/uploads/2017/05/wp.jpg"
+  alt: "2017-05-27-使用宝塔面板搭建wordpress环境附带问题解决.md"
+categories: ["建站日志", "网络"]
+tags: ["btcn", "Nginx404", "wordpress", "wordpress环境", "宝塔面板", "宝塔面板设置wordpress", "百度云服务器"]
 ---
+
 之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。
 
 无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。

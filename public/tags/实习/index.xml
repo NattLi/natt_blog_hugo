@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>实习 on My New Hugo Site</title>
-    <link>https://example.org/tags/%E5%AE%9E%E4%B9%A0/</link>
-    <description>Recent content in 实习 on My New Hugo Site</description>
+    <title>实习 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/%E5%AE%9E%E4%B9%A0/</link>
+    <description>Recent content in 实习 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/%E5%AE%9E%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2009 07:05:00 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/%E5%AE%9E%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>现在的我</title>
+      <link>https://blognew.natt.cc/posts/2009-09-15-%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%91/</link>
+      <pubDate>Tue, 15 Sep 2009 07:05:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-09-15-%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%91/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;我想很久很久以后，看到这个博文，我会想起许巍《曾经的你》。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;从我博客边上的按月存档就能够看得出我这个九月的慵懒。到目前也只有一篇博文。或许在一种事情很少的情况下反倒做不好，太闲的生活会让人更加慵懒。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;前天和朱同学出去给一家广告公司做事，老板是个年纪并不大的男人&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CCTV on My New Hugo Site</title>
-    <link>https://example.org/tags/cctv/</link>
-    <description>Recent content in CCTV on My New Hugo Site</description>
+    <title>CCTV on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/cctv/</link>
+    <description>Recent content in CCTV on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/cctv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2009 14:21:00 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/cctv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>躲开！“国家队”来了</title>
+      <link>https://blognew.natt.cc/posts/2009-12-29-%E8%BA%B2%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%9D%A5%E4%BA%86/</link>
+      <pubDate>Tue, 29 Dec 2009 14:21:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-12-29-%E8%BA%B2%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%9D%A5%E4%BA%86/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/faint.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;faint&#34; border=&#34;0&#34; alt=&#34;faint&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/faint_thumb.jpg&#34; width=&#34;634&#34; height=&#34;254&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;人生而不平等。有人带着一身苦难降生，有人则生下来就含着金汤匙。网站也生而不平等。有的网站得随时准备“被维护”、“被低俗”，有的网站则证照齐备、金光闪闪地驾临，并且有政策提前鸣锣开道，强行清场。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

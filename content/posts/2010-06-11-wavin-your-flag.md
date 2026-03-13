@@ -1,23 +1,12 @@
 ---
 title: "WAVIN' YOUR FLAG"
 author: Natt
-type: post
 date: 2010-06-11T03:29:00+00:00
-url: /850.html
-views:
-  - 279
-duoshuo_thread_id:
-  - 235068
-nectar_blog_post_view_count:
-  - 1289
-categories:
-  - 生活
-tags:
-  - WAVING YOUR FLAG
-  - 世界杯
-  - 世界杯主题曲
-
+aliases: ["/850.html"]
+categories: ["生活"]
+tags: ["WAVING YOUR FLAG", "世界杯", "世界杯主题曲"]
 ---
+
 <embed src="http://player.youku.com/player.php/sid/XMTU4MTc1NjUy/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash">
 </embed>
 

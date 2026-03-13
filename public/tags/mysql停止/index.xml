@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>MySQL停止 on My New Hugo Site</title>
-    <link>https://example.org/tags/mysql%E5%81%9C%E6%AD%A2/</link>
-    <description>Recent content in MySQL停止 on My New Hugo Site</description>
+    <title>MySQL停止 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/mysql%E5%81%9C%E6%AD%A2/</link>
+    <description>Recent content in MySQL停止 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/mysql%E5%81%9C%E6%AD%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 May 2021 02:19:06 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/mysql%E5%81%9C%E6%AD%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一个计划任务修复宝塔面板下MySQL停止问题</title>
+      <link>https://blognew.natt.cc/posts/2021-05-31-%E4%B8%80%E4%B8%AA%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E4%BF%AE%E5%A4%8D%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E4%B8%8Bmysql%E5%81%9C%E6%AD%A2%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Mon, 31 May 2021 02:19:06 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2021-05-31-%E4%B8%80%E4%B8%AA%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E4%BF%AE%E5%A4%8D%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E4%B8%8Bmysql%E5%81%9C%E6%AD%A2%E9%97%AE%E9%A2%98/</guid>
+      <description>&lt;p&gt;也许是服务器内存太小的原因，新的VPS在宝塔面板控制下跑了2个小网站，然而遭遇了不定期的 MySQL 停止问题，表现就是网站出现 &lt;strong&gt;建立数据库连接时出错&lt;/strong&gt; 的问题。&lt;/p&gt;
+&lt;p&gt;经过网上搜索，得到一个解决办法：&lt;/p&gt;
+&lt;p&gt;在宝塔面板的定时任务内，新建一个 shell脚本，名称无所谓，执行时间可以设为每5分钟/10分钟这样，然后内容贴入：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;pgrep -x mysqld &amp;amp;&amp;gt; /dev/null&amp;lt;br /&amp;gt; if [ $? -ne 0 ];then&amp;lt;br /&amp;gt; bash /www/server/panel/script/rememory.sh&amp;lt;br /&amp;gt; /etc/init.d/mysqld start&amp;lt;br /&amp;gt; fi&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;解决&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

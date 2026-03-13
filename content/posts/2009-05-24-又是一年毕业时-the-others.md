@@ -1,25 +1,12 @@
 ---
 title: '又是一年毕业时& the others'
 author: Natt
-type: post
 date: 2009-05-23T17:22:34+00:00
-url: /518.html
-views:
-  - 468
-duoshuo_thread_id:
-  - 234987
-nectar_blog_post_view_count:
-  - 1849
-categories:
-  - 生活
-tags:
-  - 大四毕业
-  - 微博客
-  - 快餐文化
-  - 毕业
-  - 饭否
-
+aliases: ["/518.html"]
+categories: ["生活"]
+tags: ["大四毕业", "微博客", "快餐文化", "毕业", "饭否"]
 ---
+
 <font color="#000000" face="微软雅黑">又是一年毕业时 ..</font>
 
 <font color="#000000" face="微软雅黑">校园里又是离别的气息。我是男子汉，哈哈，无视这离伤。但是岁月的力量无疑又将我向前推，没错，有人毕业了，我们又长了一个年级。</font>

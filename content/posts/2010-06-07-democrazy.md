@@ -1,25 +1,12 @@
 ---
 title: Democrazy
 author: Natt
-type: post
 date: 2010-06-06T16:32:30+00:00
-url: /845.html
-views:
-  - 307
-duoshuo_thread_id:
-  - 235065
-nectar_blog_post_view_count:
-  - 1256
-categories:
-  - 思考
-tags:
-  - Democrazy
-  - GNR
-  - guns n roses
-  - youtube
-  - 枪花
-
+aliases: ["/845.html"]
+categories: ["思考"]
+tags: ["Democrazy", "GNR", "guns n roses", "youtube", "枪花"]
 ---
+
 网络新词：Democrazy=妄想
 
 转歌一曲，来自墙外，保质期不详

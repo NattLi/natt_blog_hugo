@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>M档 on My New Hugo Site</title>
-    <link>https://example.org/tags/m%E6%A1%A3/</link>
-    <description>Recent content in M档 on My New Hugo Site</description>
+    <title>M档 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/m%E6%A1%A3/</link>
+    <description>Recent content in M档 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/m%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Feb 2010 08:39:00 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/m%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iFleea玩儿摄影之M档的使用</title>
+      <link>https://blognew.natt.cc/posts/2010-02-20-ifleea%E7%8E%A9%E5%84%BF%E6%91%84%E5%BD%B1%E4%B9%8Bm%E6%A1%A3%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Sat, 20 Feb 2010 08:39:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2010-02-20-ifleea%E7%8E%A9%E5%84%BF%E6%91%84%E5%BD%B1%E4%B9%8Bm%E6%A1%A3%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+      <description>&lt;p&gt;一直在用富士的一款长焦相机。利用这个假期也终于如愿以偿的拿到了单反机。虽然只是入门级的Canon 450D,不过对我我这种没有任何摄影题材的人来说，任何单反都足矣。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;从VERYCD 上面下载了一本书，针对我这种菜鸟的，懂摄影的同志就可以飞过了。简单做几个笔记，都是前人的经验啊。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;M档的常用范围：&lt;/p&gt;
+&lt;p&gt;1.焰火摄影&lt;/p&gt;
+&lt;p&gt;光圈设置在F8&lt;del&gt;F16之间，快门设置在1&lt;/del&gt;2秒&lt;/p&gt;
+&lt;p&gt;2.闪电摄影&lt;/p&gt;
+&lt;p&gt;光圈设置在F8~F16，快门设置在30秒or  B门&lt;/p&gt;
+&lt;p&gt;3.车灯轨迹摄影&lt;/p&gt;
+&lt;p&gt;光圈设置在F11~F22，快门设置在30秒or B门 &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;前辈的几个经验谈，做个小笔记，以备查阅。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

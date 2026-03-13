@@ -1,24 +1,12 @@
 ---
 title: Smells Like a Miracle
 author: Natt
-type: post
 date: 2010-12-31T04:45:00+00:00
-url: /968.html
-views:
-  - 433
-duoshuo_thread_id:
-  - 235096
-nectar_blog_post_view_count:
-  - 1536
-categories:
-  - 思考
-tags:
-  - 2010
-  - IELTS
-  - momo
-  - 雅思
-
+aliases: ["/968.html"]
+categories: ["思考"]
+tags: ["2010", "IELTS", "momo", "雅思"]
 ---
+
 今天是2010年最后一天，早上睡到自然醒，10点50，吃饱饭，喝上茶，回顾回顾自己的2010 。
 
 2010年的年初，我买了单反，同时我做了一个艰难的决定，为此整个3月到6月我牺牲了所有的周末，结果不很满意，也意料之中，高数课让我明白了，自己欠的债，迟早是要还的。

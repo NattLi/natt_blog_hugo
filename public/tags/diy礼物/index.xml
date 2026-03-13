@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>DIY礼物 on My New Hugo Site</title>
-    <link>https://example.org/tags/diy%E7%A4%BC%E7%89%A9/</link>
-    <description>Recent content in DIY礼物 on My New Hugo Site</description>
+    <title>DIY礼物 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/diy%E7%A4%BC%E7%89%A9/</link>
+    <description>Recent content in DIY礼物 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/diy%E7%A4%BC%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jan 2010 15:49:00 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/diy%E7%A4%BC%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>抓住人民应有的权力</title>
+      <link>https://blognew.natt.cc/posts/2010-01-08-%E6%8A%93%E4%BD%8F%E4%BA%BA%E6%B0%91%E5%BA%94%E6%9C%89%E7%9A%84%E6%9D%83%E5%8A%9B/</link>
+      <pubDate>Fri, 08 Jan 2010 15:49:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2010-01-08-%E6%8A%93%E4%BD%8F%E4%BA%BA%E6%B0%91%E5%BA%94%E6%9C%89%E7%9A%84%E6%9D%83%E5%8A%9B/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2010/01/backhome.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;backhome&#34; border=&#34;0&#34; alt=&#34;backhome&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2010/01/backhome_thumb.jpg&#34; width=&#34;630&#34; height=&#34;250&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1.人民有想老婆的权力&lt;/p&gt;
+&lt;p&gt;自从MOMO在10月的时候离开南京，日子的结点就重新调整为2月。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

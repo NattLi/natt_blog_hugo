@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>搬家 on My New Hugo Site</title>
-    <link>https://example.org/tags/%E6%90%AC%E5%AE%B6/</link>
-    <description>Recent content in 搬家 on My New Hugo Site</description>
+    <title>搬家 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/%E6%90%AC%E5%AE%B6/</link>
+    <description>Recent content in 搬家 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/%E6%90%AC%E5%AE%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Sep 2017 04:07:35 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/%E6%90%AC%E5%AE%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你好 blog.natt.cc</title>
+      <link>https://blognew.natt.cc/posts/2017-09-18-%E4%BD%A0%E5%A5%BD-natt-cc/</link>
+      <pubDate>Mon, 18 Sep 2017 04:07:35 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2017-09-18-%E4%BD%A0%E5%A5%BD-natt-cc/</guid>
+      <description>&lt;p&gt;由于之前一不小心脑残北岸了 ifleea.com 域名，突然觉得底裤丢了。&lt;/p&gt;
+&lt;p&gt;同时，这些年行走江湖已经摒弃了ifleea这个江湖称号转而用更加个人品牌化的标识 Natt，屯着备用的  blog.natt.cc 域名也多年未启用，是时候启用我的个人新网络形象了，于是，小博于2017年9月18日将主站域名更换到了 blog.natt.cc 这个域名，并且暂时废弃 ifleea.com 这个域名&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;主要变化如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blog.ifleea.com 做了全站301，老读者（希望有）以及之前留的链接都会直接跳转到 blog.natt.cc，由于网站结构和内容固定链接没有变化，所以读者如果不盯着网址栏不会有任何察觉&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通过宝塔面板的LetsEncrypt做了SSL的https加密，浏览器上的绿色小锁让各位似乎更有安全感（吧）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;你好，Natt.cc&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>跳蚤网志 墙外等你</title>
+      <link>https://blognew.natt.cc/posts/2009-12-15-%E8%B7%B3%E8%9A%A4%E7%BD%91%E5%BF%97-%E5%A2%99%E5%A4%96%E7%AD%89%E4%BD%A0/</link>
+      <pubDate>Mon, 14 Dec 2009 16:04:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-12-15-%E8%B7%B3%E8%9A%A4%E7%BD%91%E5%BF%97-%E5%A2%99%E5%A4%96%E7%AD%89%E4%BD%A0/</guid>
+      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;overthewalls&#34; border=&#34;0&#34; alt=&#34;overthewalls&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/overthewalls.jpg&#34; width=&#34;630&#34; height=&#34;249&#34; /&gt; 
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;经过一年的发展&lt;a href=&#34;http://www.ifleea.com&#34; target=&#34;_blank&#34;&gt;,跳蚤网志&lt;/a&gt;升级啦.&lt;/p&gt;
+&lt;p&gt;启用全新域名： &lt;a href=&#34;http://www.ifleea.com&#34;&gt;www.ifleea.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;并且服务器转移至USA&lt;/p&gt;
+&lt;p&gt;订阅地址不变 &lt;a href=&#34;http://feed.feedsky.com/tzwangzhi&#34;&gt;http://feed.feedsky.com/tzwangzhi&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Escape</title>
+      <link>https://blognew.natt.cc/posts/2009-12-12-escape/</link>
+      <pubDate>Fri, 11 Dec 2009 18:18:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-12-12-escape/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/escape.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px&#34; title=&#34;escape&#34; border=&#34;0&#34; alt=&#34;escape&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/escape_thumb.jpg&#34; width=&#34;630&#34; height=&#34;250&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;BTCHINA关掉了，VeryCD莫名其妙关键节骨眼宕机，全国IDC机房关停上千个，我的wordpress群里面的朋友们失去自己的博客。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

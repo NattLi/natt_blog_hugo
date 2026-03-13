@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>服务设计 on My New Hugo Site</title>
-    <link>https://example.org/tags/%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/</link>
-    <description>Recent content in 服务设计 on My New Hugo Site</description>
+    <title>服务设计 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/</link>
+    <description>Recent content in 服务设计 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Dec 2017 07:49:31 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[专业沉淀]一文说透工业设计、交互设计与服务设计的专业选择与作品集侧重</title>
+      <link>https://blognew.natt.cc/posts/2017-12-21-%E4%B8%93%E4%B8%9A%E6%B2%89%E6%B7%80%E4%B8%80%E6%96%87%E8%AF%B4%E9%80%8F%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E4%B8%8E%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Thu, 21 Dec 2017 07:49:31 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2017-12-21-%E4%B8%93%E4%B8%9A%E6%B2%89%E6%B7%80%E4%B8%80%E6%96%87%E8%AF%B4%E9%80%8F%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E4%B8%8E%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/</guid>
+      <description>&lt;p&gt;前言：对于大部分本科学生在硕士选择专业的时候，很大的一个问题就是我该选择什么样的专业作为硕士专业，一方面是自己对于行业趋势的不确定性（本文不做讨论），另一方面困惑来自自己对各个专业的未来不清晰（中国教育的锅），所以，本文站在一个从事设计留学多年的教育者的角度，来聊一聊有关未来的选择问题。&lt;/p&gt;
+&lt;p&gt;中国的设计教育与国外设计教育存在一定的差异（或差距），其中一项即中国的设计教育行动较慢，自从乔布斯2007年发布iPhone到现在已经接近11年了，这一个十年中交互设计井喷式发展，甚至出现2012-2016年的移动互联网大浪潮。而在这样的大背景下，社会对交互设计人才奇缺，但时至今日，中国本科正式开设交互设计专业的学校少之又少。大部分交互设计人才都来自工业设计、心理学等专业。另外随着“硬件”本身的限制以及来自“服务”和“用户体验”角度的设计空间越来越大，服务设计在这两年的申请中也逐渐被更多人所重视。&lt;/p&gt;
+&lt;p&gt;所以在在这里，我将会分享我对于这几个专业概念的认识。风格上我将尽可能精炼、短、大白话，以方便学生或家长的阅读。少用术语，多谈体会。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;1工业设计&#34;&gt;1.工业设计&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-6002&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2017/12/1.jpg&#34; alt=&#34;&#34; width=&#34;1000&#34; height=&#34;666&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2017/12/1.jpg 1000w, https://blog.natt.cc/wp-content/uploads/2017/12/1-450x300.jpg 450w, https://blog.natt.cc/wp-content/uploads/2017/12/1-600x400.jpg 600w, https://blog.natt.cc/wp-content/uploads/2017/12/1-300x200.jpg 300w, https://blog.natt.cc/wp-content/uploads/2017/12/1-768x511.jpg 768w, https://blog.natt.cc/wp-content/uploads/2017/12/1-900x600.jpg 900w&#34; sizes=&#34;auto, (max-width: 1000px) 100vw, 1000px&#34; /&gt; Industrial design is a process of design applied to products that are to be manufactured through techniques ofmass production.&lt;br&gt;
+-wikipedia&lt;/p&gt;
+&lt;p&gt;以wikipedia的解释，工业设计是设计那些能够被大规模生产的产品的过程。放在若干年前我背着书包漫步在大学校园的时代，这个解释非常准确。而放在现在，似乎它的范畴里少了些内容。&lt;/p&gt;
+&lt;p&gt;这几年工业设计的发展，已经非常强烈地吸收了来自交互设计、服务设计、用户体验和系统设计等领域的思维方式与设计方法，目前的工业设计已经不仅仅是一张图纸扔上流水线看到实物产出的过程，它更应该是关注与目标用户的需求与一个综合解决方案的产出，这其中，硬件产品是其中的主要部分，大致这样的范畴都可以称之为工业设计。&lt;/p&gt;
+&lt;p&gt;所以，以申请学校来看，如果作品集中只有纯粹的硬件设计，那么似乎显得有些寡淡。&lt;/p&gt;
+&lt;h3 id=&#34;2交互设计&#34;&gt;2.交互设计&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-6003&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2017/12/2.jpg&#34; alt=&#34;&#34; width=&#34;1000&#34; height=&#34;404&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2017/12/2.jpg 1000w, https://blog.natt.cc/wp-content/uploads/2017/12/2-450x182.jpg 450w, https://blog.natt.cc/wp-content/uploads/2017/12/2-600x242.jpg 600w, https://blog.natt.cc/wp-content/uploads/2017/12/2-300x121.jpg 300w, https://blog.natt.cc/wp-content/uploads/2017/12/2-768x310.jpg 768w&#34; sizes=&#34;auto, (max-width: 1000px) 100vw, 1000px&#34; /&gt; Interaction design, often abbreviatedas IxD, is “the practice of designing interactive digital products,environments, systems, and services.”&lt;br&gt;
+-wikipedia&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

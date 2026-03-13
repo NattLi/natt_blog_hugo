@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>360 on My New Hugo Site</title>
-    <link>https://example.org/tags/360/</link>
-    <description>Recent content in 360 on My New Hugo Site</description>
+    <title>360 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/360/</link>
+    <description>Recent content in 360 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/360/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2015 15:34:48 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/360/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>转载-用360CDN公共库扶起Google被阉割后的雄风</title>
+      <link>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</link>
+      <pubDate>Thu, 16 Apr 2015 15:34:48 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</guid>
+      <description>&lt;p&gt;前因后果就不详述了，简单说就是Google的互联网字体服务被凌迟阉割，而360终于干了一会好事，把Google的字体库CDN缓存到了国内。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;—-以下是引用部分，以备以后自己查阅—–&lt;/p&gt;
+&lt;p&gt;下面直接说&lt;strong&gt;360网站卫士的解决方案：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;打开wordpress代码中的文件wp-includes文件夹中的&lt;code&gt;script-loader.php&lt;/code&gt;文件，搜索：&lt;code&gt;fonts.googleapis.com&lt;/code&gt;找到这行代码：&lt;/p&gt;
+&lt;pre&gt;&lt;ol&gt;
+  &lt;li&gt;
+    $open_sans_font_url = &#34;//fonts.googleapis.com/css?family1=Open+Sans:300italic,400italic,600italic,300,400,600&amp;subset=$subsets&#34;;
+  &lt;/li&gt;
+&lt;/ol&gt;&lt;/pre&gt;
+&lt;p&gt;把&lt;code&gt;fonts.googleapis.com&lt;/code&gt;替换为&lt;code&gt;fonts.useso.com&lt;/code&gt;，修改保存即可解决。几乎瞬间就可以拿到Google字体了。&lt;/p&gt;
+&lt;p&gt;原因就是本来需要从美国服务器才能拿到的google字体，现在已经遍布托管在360众多的全国CDN节点上，覆盖电信、联通、移动等主流运营商线路全国的机房了。&lt;/p&gt;
+&lt;p&gt;—-以上是引用部分，以备以后自己查阅—–&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;哎，中国网民苦，中国站长和技术更TM苦。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;引用部分转载自：&lt;a href=&#34;http://yusi123.com/&#34;&gt;欲思博客&lt;/a&gt; » &lt;a href=&#34;http://yusi123.com/3062.html&#34;&gt;WordPress利用360CDN公共库解决Google Open Sans字体无法加载&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>立了牌坊你依旧是婊子</title>
+      <link>https://blognew.natt.cc/posts/2010-10-28-%E7%AB%8B%E4%BA%86%E7%89%8C%E5%9D%8A%E4%BD%A0%E4%BE%9D%E6%97%A7%E6%98%AF%E5%A9%8A%E5%AD%90/</link>
+      <pubDate>Thu, 28 Oct 2010 15:53:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2010-10-28-%E7%AB%8B%E4%BA%86%E7%89%8C%E5%9D%8A%E4%BD%A0%E4%BE%9D%E6%97%A7%E6%98%AF%E5%A9%8A%E5%AD%90/</guid>
+      <description>&lt;p&gt;今天，看到网上掐起来了，几家联名 VS 360…  我没装360，他给我电脑打分总是≤5分…   看着不爽卸了.  看到网上360泼妇骂街似的声明截图，我又装上了，期待骂街直播。&lt;/p&gt;
+&lt;p&gt;本来，互联网就是一个利益场，就不是一片净土，也没有绝对的正义方站出来挑战整个产业。&lt;/p&gt;
+&lt;p&gt;360，当年3721那病毒流氓赚钱然后上个春晚“管他三七二一”那个流氓，把3721卖给Yahoo之后，周鸿祎自己跑出来搞了个奇虎，然后就是奇虎安全卫士，靠专门搞死3721获得网民簇拥，后来成了360安全卫士。  360神一般的站了起来…  发展这个发展那个好不热闹。其间捅马蜂窝无数。&lt;/p&gt;
+&lt;p&gt;360最早搞的是3721，3721臭了之后，360封杀3721成为英雄。 本来搞安全的，和卡巴斯基合作，装360送卡巴斯基，也和ESET合作，送nod32，后来把这两个大神都送走了。自己开始搞杀毒，然后像疯狗一样咬金山，毁瑞星… 当然，还是以英雄的身份。&lt;/p&gt;
+&lt;p&gt;利益场之上，&lt;strong&gt;或许&lt;/strong&gt;有那个大哥在说话，或许腾讯的扫描是“被扫描”——腾讯只是被利用的工具而不能说出口，而幕后那个大哥让360消停点，360还敢吠吗 ？互联网上这个大江湖，都不容易，都要给自己留点后路，都要明白谁才是互联网真正的大哥，或许你昨天做婊子今天立牌坊，明天就接着拆了你的牌坊让你做回婊子，那时，就真的连一个真正的婊子都不如了…&lt;/p&gt;
+&lt;p&gt;无意争吵，也谁也不偏向，只是看到年轻的大学生们总是走得极端，呼唤独立思考的力量~&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

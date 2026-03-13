@@ -1,11 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>博客 on My New Hugo Site</title>
-    <link>https://example.org/tags/%E5%8D%9A%E5%AE%A2/</link>
-    <description>Recent content in 博客 on My New Hugo Site</description>
+    <title>博客 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2010 05:01:00 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>苏ICP备09000331号</title>
+      <link>https://blognew.natt.cc/posts/2010-09-28-%E8%8B%8Ficp%E5%A4%8709000331%E5%8F%B7/</link>
+      <pubDate>Tue, 28 Sep 2010 05:01:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2010-09-28-%E8%8B%8Ficp%E5%A4%8709000331%E5%8F%B7/</guid>
+      <description>&lt;p&gt;从写信，写日记抒发情感，到博客诞生，用博客记录心情，再到微博出现，140个字完成记录。社会不知在进化还是退化。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;我最早注册在bokee.com的博客，在经历几次抽风之后更新就止步在了2007年。也试用过blogcn,blogbus出于不敢保证他们不会重蹈bokee的覆辙后来投靠blogspot，google出品，大牌保证，没出几个月被墙，投靠sina，sina唯唯诺诺不敢涉及任何思考，似乎是娱乐者的世界。其间也用过live space一段时间，高三冲刺时的心情就记录着live上，后来新注册的live也是我备份blog的地方。 回头看看，bokee早已处于半死不活，blogcn也稳定的活着，blogbus搞得似乎有些成为更多小文艺青年的聚集地，live算是活的最久的一个。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;而我的独立博客，从ifleea.cn到ifleea.com，从免费空间，到dreamhost,到河南的景安，再到美国theplanet搬家无数。ifleea.cn——我2008年底提交备案申请，3周时间审核通过，拿到苏ICP备09000331号的牌照，成为一个合法的小博。虽然也经历删帖，但是也都一直活着。前两周，又收到邮件：&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;根据《工业和信息化部关于进一步落实网站备案信息真实性核验工作方案》中关于存量数据核验要求，我公司要在2010年9月30日前，对在原工信部备案系统 （&lt;a href=&#34;http://www.miibeian.gov.cn&#34;&gt;http://www.miibeian.gov.cn&lt;/a&gt;） 上备案的信息，进行备案信息真实性核验，请于2010年9月30日前协助我公司履行核验真实性手续。&lt;/p&gt;
+&lt;p&gt;1、若您的备案主体信息（含网站主办者名称、证件类型、证件号码、网站负责人姓名、身份证号码、手机、办公电话、电子邮箱）与实际信息一致、未发生变动的，请在我公司备案系统首页（beian.zzidc.com）文档下载里面下载《备案信息登记表》、《信息安全管理协议》进行填写，还需提供主办单位有效证件复印件（主办单位有效证件：单位性质的含工商营业执照、组织机构代码证书、网站负责人身份证等加盖公章，个人性质的为网站主办者身份证），由网站负责人携带上述材料，到我公司信息安全部或我公司备案点现场办理核验手续。&lt;/p&gt;
+&lt;p&gt;2、若您的主体备案信息发生变动（含网站主办者名称、证件类型、证件号码、网站负责人姓名、身份证号码、手机、办公电话、电子邮箱），请在我公司备案系统首页文档下载里面下载《网站备案信息变更登记表》、《网站备案信息真实性核验单》、《信息安全管理协议》填写，提供网站主办单位有效证件复印件（加盖公章）等纸质材料，由网站负责人携带上述材料，到我公司信息安全部或我公司备案点现场办理核验手续。&lt;/p&gt;
+&lt;p&gt;3、若您的网站空间已由我公司转出，且网站备案信息还在我公司备案系统中，我公司会在9月30日前集中处理实际接入不在我公司的备案信息。请及时联系您的接入商进行备案信息变更手续，以免造成备案信息被注销。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;国家为了保护我们的权利，而剥夺了我们的权利。我的ifleea.cn在3月就已经停止了更新，为的是保持墙内的河蟹，也不再为难尴尬的空间商。现在又提出这么213的要求，好吧，ifleea.cn倒下吧，苏ICP备09000331号，随风去吧。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;不论是时代更替，twitter,饭否，嘀咕，这些微博的诞生，还是校内，人人，Facebook等SNS的诞生，抑或是博客自身的缺陷，写博客的人越来越少；更加上国内封锁+删帖，国外禁止访问，想写写博客的人也没有地方。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;live的退出，把那么多用户推给WordPress，且不说live的用户愿意与否，WordPress也常出入于大墙内外，又有几人受得了？&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;还好虽然经历屡次搬家，但我的博客数据都不断备份放在我的电脑里，live都退出了，博客今后的路谁能说清楚呢？只有数据拿在自己手里，才是最放心的。&lt;/p&gt;
+&lt;p&gt;最后，谨以“去你妈了个苏ICP备09000331号”送去我对博客最真诚的祝福。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&amp;lt;豆瓣认证一下，请无视此行：doubanclaim0029572b5b5dcbdd&amp;gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我是设计师</title>
+      <link>https://blognew.natt.cc/posts/2009-04-23-%E6%88%91%E6%98%AF%E8%AE%BE%E8%AE%A1%E5%B8%88/</link>
+      <pubDate>Thu, 23 Apr 2009 15:58:09 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-04-23-%E6%88%91%E6%98%AF%E8%AE%BE%E8%AE%A1%E5%B8%88/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;size-medium wp-image-496 alignnone&#34; title=&#34;ifleea&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/04/name-300x187.jpg&#34; alt=&#34;ifleea&#34; width=&#34;400&#34; height=&#34;250&#34; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;这周专业课的作业多到让人恶心。上图是自己设计所谓“名片”。曾老师说“这怎么说明你是设计师呢？”我不想泄漏自己这个小角落，就没有说这是我博客的地址。毕竟言论自由不想要自己的长辈干预。&lt;/p&gt;
+&lt;p&gt;另外一个设计作业，设计“361度”的鞋子。我们前期已经做了充分的调研工作。这次要做的是三张手绘和一张PS稿。下面发图上来吧，打字累。&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&#34;attachment wp-att-503&#34; href=&#34;https://blog.natt.cc/495.html/linane589afe69cac&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-medium wp-image-503&#34; title=&#34;PS稿&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/04/linane589afe69cac-300x237.jpg&#34; alt=&#34;PS稿&#34; width=&#34;300&#34; height=&#34;237&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&#34;attachment wp-att-502&#34; href=&#34;https://blog.natt.cc/495.html/attachment/11&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-medium wp-image-502&#34; title=&#34;设计手绘1&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/04/11-300x212.jpg&#34; alt=&#34;设计手绘1&#34; width=&#34;300&#34; height=&#34;212&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2009/04/11-300x212.jpg 300w, https://blog.natt.cc/wp-content/uploads/2009/04/11.jpg 545w&#34; sizes=&#34;auto, (max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&#34;attachment wp-att-501&#34; href=&#34;https://blog.natt.cc/495.html/attachment/3&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-medium wp-image-501&#34; title=&#34;设计手绘3&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/04/3-300x209.jpg&#34; alt=&#34;设计手绘3&#34; width=&#34;300&#34; height=&#34;209&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2009/04/3-300x209.jpg 300w, https://blog.natt.cc/wp-content/uploads/2009/04/3.jpg 555w&#34; sizes=&#34;auto, (max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&#34;attachment wp-att-500&#34; href=&#34;https://blog.natt.cc/495.html/attachment/2&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-medium wp-image-500&#34; title=&#34;设计手绘3&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/04/2-300x208.jpg&#34; alt=&#34;设计手绘3&#34; width=&#34;300&#34; height=&#34;208&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2009/04/2-300x208.jpg 300w, https://blog.natt.cc/wp-content/uploads/2009/04/2.jpg 555w&#34; sizes=&#34;auto, (max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;就这样吧。就算我是个设计师吧。&lt;/p&gt;
+&lt;p&gt;周末还要平面作业要做。到时候再写写吧。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>写博客的意义</title>
+      <link>https://blognew.natt.cc/posts/2009-02-01-%E5%86%99%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%84%8F%E4%B9%89/</link>
+      <pubDate>Sat, 31 Jan 2009 17:01:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-02-01-%E5%86%99%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%84%8F%E4%B9%89/</guid>
+      <description>&lt;p&gt;今天看了很多人的博客，慢慢的才发现写博客的意义就是一个真实的记录，这才是博客最完美的归宿。&lt;/p&gt;
+&lt;p&gt;我记得当时我还用bokee.com的博客的时候，就无意中发现了&lt;a href=&#34;http://www.letitbe.cn&#34;&gt;www.letitbe.cn&lt;/a&gt;这个博客，是一个二十多岁男人的博客，它记录了博主的工作，生活等各方面的点点滴滴。最让我感动的是他的宝宝日志，从妻子怀孕到孩子出生到后来的很多事情，博主都很细心地记录，从文章中我能感受到一种甜蜜，生活琐事的幸福。或许这就是博客最好的价值。&lt;/p&gt;
+&lt;p&gt;虽然强大的wordpress能够给我们很多很多功能，他可以变成CMS,充分SEO空间来做网赚博客。其实，我觉得这都是在利用博客，而不是使用博客，博客的精神就在于平民化的原创，满互联网的转载垃圾信息，这些已经慢慢地成为互联网的垃圾..&lt;/p&gt;
+&lt;p&gt;扯了这么多，无非给自己的博客指一条路。&lt;/p&gt;
+&lt;p&gt;希望今后我的博客能够一直吸引您的关注…&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

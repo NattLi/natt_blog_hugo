@@ -1,11 +1,194 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>技术 on My New Hugo Site</title>
-    <link>https://example.org/categories/%E6%8A%80%E6%9C%AF/</link>
-    <description>Recent content in 技术 on My New Hugo Site</description>
+    <title>技术 on Natt Blog</title>
+    <link>https://blognew.natt.cc/categories/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 07:49:34 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>顺手给blog的VPS装个SSR</title>
+      <link>https://blognew.natt.cc/posts/2023-01-11-%E9%A1%BA%E6%89%8B%E7%BB%99blog%E7%9A%84vps%E8%A3%85%E4%B8%AAssr/</link>
+      <pubDate>Wed, 11 Jan 2023 07:49:34 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2023-01-11-%E9%A1%BA%E6%89%8B%E7%BB%99blog%E7%9A%84vps%E8%A3%85%E4%B8%AAssr/</guid>
+      <description>&lt;p&gt;对我来说，那个啥就是水和空气&lt;br&gt;
+一般情况下，现在都在用大机场了，稳定性自然比自己弄个小鸡更好，并且还能为孩子的Disney+和Nintendo Service Online 服务提供必要的便利。&lt;/p&gt;
+&lt;p&gt;但，为了防止一不小心的机场不稳而无法那个啥，甚至是机场流量到了忘了续费等情况，一个备用小鸡还是必要的。&lt;/p&gt;
+&lt;p&gt;感谢互联网，几行代码就能完成，这里记录一下，方便自己后续&lt;/p&gt;
+&lt;p&gt;安装环境以及teddysun的一键SSR代码 ↓&lt;br&gt;
+&lt;code&gt;apt-get update -y &amp;amp;&amp;amp; apt-get install wget -y &amp;amp;&amp;amp; apt-get install curl -y&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;chmod +x shadowsocks-all.sh&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;./shadowsocks-all.sh 2&amp;gt;&amp;amp;1 | tee shadowsocks-all.log&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;安装BBR加速 ↓&lt;br&gt;
+&lt;code&gt;wget -N --no-check-certificate &amp;quot;https://gist.github.com/zeruns/a0ec603f20d1b86de6a774a8ba27588f/raw/4f9957ae23f5efb2bb7c57a198ae2cffebfb1c56/tcp.sh&amp;quot; &amp;amp;&amp;amp; chmod +x tcp.sh &amp;amp;&amp;amp; ./tcp.sh&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;./tcp.sh&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;最后，别忘了开防火墙对应的SSR端口，重启，完事。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>npm install 权限问题解决方法</title>
+      <link>https://blognew.natt.cc/posts/2022-03-03-npm-%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Thu, 03 Mar 2022 15:26:07 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2022-03-03-npm-%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;p&gt;近期学习 vue&lt;br&gt;
+刚刚上手，npm install 命令时候就遭遇了：&lt;/p&gt;
+&lt;p&gt;npm ERR! The operation was rejected by your operating system.&lt;br&gt;
+npm ERR! It is likely you do not have the permissions to access this file as the current user&lt;/p&gt;
+&lt;p&gt;查阅资料后，借助YouTube这个视频解决了问题：&lt;/p&gt;
+&lt;p&gt;命令1：&lt;br&gt;
+&lt;code&gt;ls -l&lt;/code&gt;&lt;br&gt;
+查看各个文件属性，其实报错中可以看到是哪个文件权限不对&lt;/p&gt;
+&lt;p&gt;命令2：&lt;br&gt;
+&lt;code&gt;whoami&lt;/code&gt;&lt;br&gt;
+查看一下自己目前账号&lt;/p&gt;
+&lt;p&gt;命令3：&lt;br&gt;
+&lt;code&gt;sudu chown USER_NAME FILENAME.TYPE&lt;/code&gt;&lt;br&gt;
+以此把这个文件的所有权抓到自己手里&lt;/p&gt;
+&lt;p&gt;问题解决。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2021年的家庭组网小方案</title>
+      <link>https://blognew.natt.cc/posts/2021-08-10-2021%E5%B9%B4%E7%9A%84%E5%AE%B6%E5%BA%AD%E7%BB%84%E7%BD%91%E5%B0%8F%E6%96%B9%E6%A1%88/</link>
+      <pubDate>Tue, 10 Aug 2021 10:22:42 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2021-08-10-2021%E5%B9%B4%E7%9A%84%E5%AE%B6%E5%BA%AD%E7%BB%84%E7%BD%91%E5%B0%8F%E6%96%B9%E6%A1%88/</guid>
+      <description>&lt;p&gt;这两天趁着老路由器崩塌的契机，重新处理了一下家里的网络，顺便折腾了一下EXSi之下的虚拟化。&lt;/p&gt;
+&lt;p&gt;大致如图：&lt;br&gt;
+&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2021/08/homenet01.png&#34; alt=&#34;&#34; width=&#34;898&#34; height=&#34;819&#34; class=&#34;alignnone size-full wp-image-6501&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2021/08/homenet01.png 898w, https://blog.natt.cc/wp-content/uploads/2021/08/homenet01-300x274.png 300w, https://blog.natt.cc/wp-content/uploads/2021/08/homenet01-768x700.png 768w&#34; sizes=&#34;auto, (max-width: 898px) 100vw, 898px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;openWRT: PPPOE拨号+凸墙+其他好玩插件&lt;br&gt;
+黑裙：家用NAS和影音媒体中心&lt;br&gt;
+WIN7：配合向日葵实现远程管控&lt;/p&gt;
+&lt;p&gt;群晖NAS的双硬盘连接和RAID1还没做，先测试测试软路由的稳定性吧。&lt;/p&gt;
+&lt;p&gt;如果后续有方案更新再来po新的贴&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一个计划任务修复宝塔面板下MySQL停止问题</title>
+      <link>https://blognew.natt.cc/posts/2021-05-31-%E4%B8%80%E4%B8%AA%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E4%BF%AE%E5%A4%8D%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E4%B8%8Bmysql%E5%81%9C%E6%AD%A2%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Mon, 31 May 2021 02:19:06 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2021-05-31-%E4%B8%80%E4%B8%AA%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E4%BF%AE%E5%A4%8D%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E4%B8%8Bmysql%E5%81%9C%E6%AD%A2%E9%97%AE%E9%A2%98/</guid>
+      <description>&lt;p&gt;也许是服务器内存太小的原因，新的VPS在宝塔面板控制下跑了2个小网站，然而遭遇了不定期的 MySQL 停止问题，表现就是网站出现 &lt;strong&gt;建立数据库连接时出错&lt;/strong&gt; 的问题。&lt;/p&gt;
+&lt;p&gt;经过网上搜索，得到一个解决办法：&lt;/p&gt;
+&lt;p&gt;在宝塔面板的定时任务内，新建一个 shell脚本，名称无所谓，执行时间可以设为每5分钟/10分钟这样，然后内容贴入：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;pgrep -x mysqld &amp;amp;&amp;gt; /dev/null&amp;lt;br /&amp;gt; if [ $? -ne 0 ];then&amp;lt;br /&amp;gt; bash /www/server/panel/script/rememory.sh&amp;lt;br /&amp;gt; /etc/init.d/mysqld start&amp;lt;br /&amp;gt; fi&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;解决&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JIRA 折腾的一点点笔记</title>
+      <link>https://blognew.natt.cc/posts/2021-01-11-jira-%E6%8A%98%E8%85%BE%E7%9A%84%E4%B8%80%E7%82%B9%E7%82%B9%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Mon, 11 Jan 2021 02:21:28 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2021-01-11-jira-%E6%8A%98%E8%85%BE%E7%9A%84%E4%B8%80%E7%82%B9%E7%82%B9%E7%AC%94%E8%AE%B0/</guid>
+      <description>&lt;p&gt;前两天学习JIRA的安装和初始化工作，最终却是也安装成功了，在一个部署在 vultr 的 VPS 上的JIRA 8.7.1 版本，并且也成功完成了那个啥。&lt;/p&gt;
+&lt;p&gt;虽然最终决定不再使用 JIRA 了，但过程还是做个简要记录吧。&lt;/p&gt;
+&lt;h4 id=&#34;有用参考&#34;&gt;有用参考&lt;/h4&gt;
+&lt;p&gt;整体步骤这个老哥写的比较明确：&lt;br&gt;
+&lt;a href=&#34;https://www.9nw.cc/post/262.html&#34;&gt;https://www.9nw.cc/post/262.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;并且基于宝塔面板的可视化操作会更简单，唯一不同的是，这个老哥装的不是 JIRA 而是 Confluence，但思路是一致的。&lt;/p&gt;
+&lt;p&gt;JIRA安装的一些步骤和代码，这个老哥写的比较清晰：&lt;br&gt;
+&lt;a href=&#34;https://www.dqzboy.com/jira-8-6%e5%ae%89%e8%a3%85%e4%b8%8e%e7%a0%b4%e8%a7%a3&#34;&gt;https://www.dqzboy.com/jira-8-6%e5%ae%89%e8%a3%85%e4%b8%8e%e7%a0%b4%e8%a7%a3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;但是数据库初始化和配置等，我都在宝塔面板下完成了，其实没必要这么麻烦的代码（外行不太懂coding还是可视化简单些）&lt;/p&gt;
+&lt;h4 id=&#34;一些遗留笔记&#34;&gt;一些遗留笔记&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&#34;line-numbers&#34;&gt;wget https://product-downloads.atlassian.com/software/jira/atlassian-jira-software-8.6.0-x64.bin
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;line-numbers&#34;&gt;wget https://downloads.atlassian.com/software/jira/downloads/atlassian-jira-software-8.7.1-x64.bin
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;line-numbers&#34;&gt;chmod a+x atlassian-jira-software-8.7.1-x64.bin
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;line-numbers&#34;&gt;./atlassian-jira-software-8.7.1-x64.bin
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;line-numbers&#34;&gt;wget https://cdn.mysql.com/Downloads/Connector-J/mysql-connector-java-5.1.49.tar.gz
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;line-numbers&#34;&gt;tar -xzvf mysql-connector-java-5.1.49.tar.gz
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;line-numbers&#34;&gt;cd mysql-connector-java-5.1.49
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;line-numbers&#34;&gt;cp mysql-connector-java-5.1.49-bin.jar /opt/atlassian/jira/atlassian-jira/WEB-INF/lib
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;line-numbers&#34;&gt;sh /opt/atlassian/jira/bin/start-jira.sh
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这些代码不做具体的解释说明了，作为一个自己的存档吧，也许后续也不会再部署JIRA了，权当一个折腾记录然后删掉本地记录文件的备份吧。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>macOS 本地安装 gitbook 并生成 html 格式电子书的过程</title>
+      <link>https://blognew.natt.cc/posts/2018-08-04-macos-%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85-gitbook-%E5%B9%B6%E7%94%9F%E6%88%90-html-%E6%A0%BC%E5%BC%8F%E7%94%B5%E5%AD%90%E4%B9%A6%E7%9A%84%E8%BF%87%E7%A8%8B/</link>
+      <pubDate>Sat, 04 Aug 2018 08:55:28 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2018-08-04-macos-%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85-gitbook-%E5%B9%B6%E7%94%9F%E6%88%90-html-%E6%A0%BC%E5%BC%8F%E7%94%B5%E5%AD%90%E4%B9%A6%E7%9A%84%E8%BF%87%E7%A8%8B/</guid>
+      <description>&lt;p&gt;第一步：安装node.js&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nodejs.org/en/download/&#34;&gt;https://nodejs.org/en/download/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第二步：第二步：安装gitbook&lt;/p&gt;
+&lt;p&gt;npm install gitbook-cli -g&lt;br&gt;
+或者&lt;br&gt;
+sudo npm install gitbook-cli -g&lt;/p&gt;
+&lt;p&gt;第三步：初始化&lt;br&gt;
+记得选择目标文件夹，然后：&lt;br&gt;
+gitbook init&lt;/p&gt;
+&lt;p&gt;第四步：粘入内容&lt;br&gt;
+将md文件都拷入目标文件夹&lt;/p&gt;
+&lt;p&gt;第五步：生成&lt;br&gt;
+gitbook build&lt;/p&gt;
+&lt;p&gt;第六步：上传&lt;br&gt;
+将 _book 文件夹传到网站服务器，即可&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>三行代码利用Docker部署OPENEDX</title>
+      <link>https://blognew.natt.cc/posts/2018-02-03-%E4%B8%89%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%88%A9%E7%94%A8docker%E9%83%A8%E7%BD%B2openedx/</link>
+      <pubDate>Sat, 03 Feb 2018 10:35:59 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2018-02-03-%E4%B8%89%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%88%A9%E7%94%A8docker%E9%83%A8%E7%BD%B2openedx/</guid>
+      <description>&lt;p&gt;新部署一台 Ubuntu 14.04 的主机，SSH之后：&lt;/p&gt;
+&lt;p&gt;第一行代码，安装docker&lt;br&gt;
+&lt;code&gt;curl -sSL https://get.daocloud.io/docker | sh&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;第二行代码，拉取镜像&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo docker pull wwj718/edx_cypress_docker:1.05&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;第三行代码，运行&lt;br&gt;
+&lt;code&gt;sudo docker run -itd -p 80:80 -p 2022:22 -p 18010:18010 wwj718/edx_cypress_docker:1.05&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;参考：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;https://hub.docker.com/r/wwj718/edx_cypress_docker/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;http://blog.just4fun.site/edx-cypress-cn-install-and-use.html&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;https://www.youtube.com/watch?v=24OiYPnTNv8&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>基于Jekyll 的github pages blog 如何绑定独立域名</title>
+      <link>https://blognew.natt.cc/posts/2018-01-19-%E5%9F%BA%E4%BA%8Ejekyll-%E7%9A%84github-pages-blog-%E5%A6%82%E4%BD%95%E7%BB%91%E5%AE%9A%E7%8B%AC%E7%AB%8B%E5%9F%9F%E5%90%8D/</link>
+      <pubDate>Fri, 19 Jan 2018 06:02:27 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2018-01-19-%E5%9F%BA%E4%BA%8Ejekyll-%E7%9A%84github-pages-blog-%E5%A6%82%E4%BD%95%E7%BB%91%E5%AE%9A%E7%8B%AC%E7%AB%8B%E5%9F%9F%E5%90%8D/</guid>
+      <description>&lt;p&gt;自己建立了一个 Jekyll 的博客做测试，刚才解决了域名绑定，记录一下。&lt;/p&gt;
+&lt;p&gt;思路来自：http://playingfingers.com/2016/03/26/build-a-blog/#section-2 ，只是他写的比较长，很吓人。于是我写个简单点的：&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;步骤一，配置域名&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-6036&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_2.png&#34; alt=&#34;&#34; width=&#34;733&#34; height=&#34;395&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_2.png 733w, https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_2-450x242.png 450w, https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_2-600x323.png 600w, https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_2-300x162.png 300w&#34; sizes=&#34;auto, (max-width: 733px) 100vw, 733px&#34; /&gt; 
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;如上图，用A记录解析你希望的二级域名，如输入www，或blog，记录值填写 github 的ip地址 192.30.252.153 即可。或者去&lt;a href=&#34;https://help.github.com/articles/troubleshooting-custom-domains/#dns-configuration-errors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;这个网页&lt;/a&gt;查看ip.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;步骤二，添加一个CNAME文件&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-6038&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_3.png&#34; alt=&#34;&#34; width=&#34;346&#34; height=&#34;68&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_3.png 346w, https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_3-300x59.png 300w&#34; sizes=&#34;auto, (max-width: 346px) 100vw, 346px&#34; /&gt; 
+&lt;p&gt;在网站根目录新建一个 CNAME 文件，无后缀名，打开后填入你配置的域名，保存即可。&lt;/p&gt;
+&lt;p&gt;注意，只写域名，不要加入 http:// 之类的多余内容。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;以上配置好后，commit + push，最多等几分钟，即可实现绑定+访问。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>更换DeepIn 系统源至 Aliyun 以实现加速</title>
+      <link>https://blognew.natt.cc/posts/2018-01-15-%E6%9B%B4%E6%8D%A2deepin-%E7%B3%BB%E7%BB%9F%E6%BA%90%E8%87%B3-aliyun-%E4%BB%A5%E5%AE%9E%E7%8E%B0%E5%8A%A0%E9%80%9F/</link>
+      <pubDate>Mon, 15 Jan 2018 14:45:42 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2018-01-15-%E6%9B%B4%E6%8D%A2deepin-%E7%B3%BB%E7%BB%9F%E6%BA%90%E8%87%B3-aliyun-%E4%BB%A5%E5%AE%9E%E7%8E%B0%E5%8A%A0%E9%80%9F/</guid>
+      <description>&lt;p&gt;由于一些原因需要用到Linux，为了简单安装的 DeepIn 15.5, 一切顺利但是后续通过终端安装一些服务的时候卡如死狗啊。于是将源更换至aliyun，速度飙升至跑满带宽。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;记录一下过程：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo gedit  /etc/apt/sources.list
+
+将 http://packages.deepin.com/ 
+替换为 http://mirrors.aliyun.com/
+
+然后：
+
+
+sudo apt-get update
+刷新即可
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
   </channel>
 </rss>

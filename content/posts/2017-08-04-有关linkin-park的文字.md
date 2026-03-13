@@ -1,24 +1,15 @@
 ---
 title: 有关Linkin Park的文字
 author: Natt
-type: post
 date: 2017-08-04T08:26:37+00:00
-url: /1355.html
-featured_image: /wp-content/uploads/2017/08/lp.jpg
-nectar_blog_post_view_count:
-  - 1812
-categories:
-  - 生活
-  - 艺术
-tags:
-  - gunsnroses
-  - Linkinparl
-  - 可能是摇滚
-  - 自杀
-  - 青春
-  - 音乐
-
+aliases: ["/1355.html"]
+cover:
+  image: "/wp-content/uploads/2017/08/lp.jpg"
+  alt: "2017-08-04-有关linkin-park的文字.md"
+categories: ["生活", "艺术"]
+tags: ["gunsnroses", "Linkinparl", "可能是摇滚", "自杀", "青春", "音乐"]
 ---
+
 #### 初识LP
 
 高一的时候有了一个自己的MP3，TMS汤姆生（垃圾杂牌）128MB，前身是我买的一个64MB的优盘坏了，拿去找他们售后的时候得知这一批有问题并且停产了，不如你加一点点前换个MP3吧。

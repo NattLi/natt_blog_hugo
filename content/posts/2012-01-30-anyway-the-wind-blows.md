@@ -1,23 +1,12 @@
 ---
 title: Anyway the wind blows
 author: Natt
-type: post
 date: 2012-01-30T03:09:00+00:00
-url: /1087.html
-views:
-  - 498
-duoshuo_thread_id:
-  - 235132
-nectar_blog_post_view_count:
-  - 1388
-categories:
-  - 生活
-  - 艺术
-tags:
-  - Bohemian Rhapsody
-  - QUEEN
-
+aliases: ["/1087.html"]
+categories: ["生活", "艺术"]
+tags: ["Bohemian Rhapsody", "QUEEN"]
 ---
+
 <embed src="http://player.youku.com/player.php/sid/XMzQ5ODE2OTY=/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" allowFullscreen="true" type="application/x-shockwave-flash">
 </embed>
 

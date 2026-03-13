@@ -1,25 +1,12 @@
 ---
 title: Time to Say GOODBYE
 author: Natt
-type: post
 date: 2009-06-20T18:23:00+00:00
-url: /526.html
-views:
-  - 353
-duoshuo_thread_id:
-  - 234992
-nectar_blog_post_view_count:
-  - 1500
-categories:
-  - 思考
-  - 生活
-tags:
-  - 大四毕业
-  - 机械足球队
-  - 毕业
-  - 球队
-
+aliases: ["/526.html"]
+categories: ["思考", "生活"]
+tags: ["大四毕业", "机械足球队", "毕业", "球队"]
 ---
+
 &#160;
 
 去年这个时候没有这种感觉。连跳蚤市场也因为踢球耽搁了，没淘到宝贝。但今年完全不一样。2年前球队喝酒，记得阿德说好好踢，大学来了忙这忙那，但是回头看只有足球是真的。 我现在是明白了，因为只有球队的送别饭大家才会一起唱歌，一起喝酒，一起哭泣。

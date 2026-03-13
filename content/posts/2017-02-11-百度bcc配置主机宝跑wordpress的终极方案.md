@@ -1,24 +1,12 @@
 ---
 title: 百度BCC配置主机宝跑WordPress的终极方案
 author: Natt
-type: post
 date: 2017-02-11T13:32:30+00:00
-url: /1295.html
-duoshuo_thread_id:
-  - 6385843300095492865
-nectar_blog_post_view_count:
-  - 1467
-categories:
-  - 创业
-  - 建站日志
-  - 网络
-tags:
-  - mysql数据库导入
-  - Nginx404
-  - 主机宝404
-  - 百度BCC
-
+aliases: ["/1295.html"]
+categories: ["创业", "建站日志", "网络"]
+tags: ["mysql数据库导入", "Nginx404", "主机宝404", "百度BCC"]
 ---
+
 这是一个一个菜逼的百度BCC折腾手记。
 
 公司之前的网站服务器到期了，想着把各个二级域名的小站整合在一起，就注册了一个百度BCC，1核2G1M的屌丝配置，但是差不多也够够的了。之前用过WDCP的面板，感觉还不错，包括这个小博客就是跑在WDCP面板的服务器上的，所以这次依旧没有任何犹豫在CentOS 6.5x 64 上一键WDCP搭建了Apache 和 Nginx可以互相切换的环境，想象中高枕无忧了。

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>张悬 on My New Hugo Site</title>
-    <link>https://example.org/tags/%E5%BC%A0%E6%82%AC/</link>
-    <description>Recent content in 张悬 on My New Hugo Site</description>
+    <title>张悬 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/%E5%BC%A0%E6%82%AC/</link>
+    <description>Recent content in 张悬 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/%E5%BC%A0%E6%82%AC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2009 04:46:00 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/%E5%BC%A0%E6%82%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>喜欢</title>
+      <link>https://blognew.natt.cc/posts/2009-10-18-%E5%96%9C%E6%AC%A2/</link>
+      <pubDate>Sun, 18 Oct 2009 04:46:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-10-18-%E5%96%9C%E6%AC%A2/</guid>
+      <description>&lt;p&gt;年初注册的last.fm ，也一直没怎么好好琢磨，直到前段时间比较空闲，登录了自己的last.fm ，推荐我听听《喜欢》，张悬的。说真话我听歌比较局限，认定了那些就基本不怎么变了&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 baseURL = 'https://blognew.natt.cc/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Natt Blog'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -12,15 +12,19 @@ buildExpired = false
   disableXML = true
   minifyOutput = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   env = "production"
-  title = "My New Hugo Site"
-  description = "ExampleSite description"
-  keywords = ["Blog", "Portfolio", "PaperMod"]
-  author = "Me"
+  title = "Natt Blog"
+  description = "A blog about design, life, and technology."
+  keywords = ["Blog", "Design", "Life", "Technology"]
+  author = "Natt"
   defaultTheme = "auto"
   disableThemeToggle = false
-
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -32,11 +36,11 @@ buildExpired = false
 
   [params.homeInfoParams]
     Title = "Hi there 👋"
-    Content = "Welcome to my blog"
+    Content = "Welcome to my blog. Here I share my thoughts on design, life, and the digital world."
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/xxxx"
+    url = "https://github.com/nattli"
 
 [menu]
   [[menu.main]]

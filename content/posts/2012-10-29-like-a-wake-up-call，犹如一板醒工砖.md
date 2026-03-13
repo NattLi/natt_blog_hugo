@@ -1,22 +1,12 @@
 ---
 title: Like a Wake-Up Call，犹如一板醒工砖
 author: Natt
-type: post
 date: 2012-10-29T11:11:00+00:00
-url: /1174.html
-duoshuo_thread_id:
-  - 1170986480661097089
-views:
-  - 134
-nectar_blog_post_view_count:
-  - 2346
-categories:
-  - 生活
-tags:
-  - 独立
-  - 西安
-
+aliases: ["/1174.html"]
+categories: ["生活"]
+tags: ["独立", "西安"]
 ---
+
 回国一个月了，也去了几次西安人才市场，就业情况惨淡的一塌糊涂。前几天看到国考又来了，最热门岗位九千多人选一个，本来就看不上体制内看不上公务员看不上企事业单位，这一看更坚定了我心里的呵呵一笑。当然工作没有贵贱，也没有鄙视歧视的意思，只是人各有志而已。
 
 &nbsp;

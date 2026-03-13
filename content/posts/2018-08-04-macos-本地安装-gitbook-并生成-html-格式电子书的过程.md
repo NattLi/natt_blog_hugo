@@ -1,23 +1,15 @@
 ---
 title: macOS 本地安装 gitbook 并生成 html 格式电子书的过程
 author: Natt
-type: post
 date: 2018-08-04T08:55:28+00:00
-url: /6166.html
-featured_image: /wp-content/uploads/2018/08/gitbook.png
-nectar_blog_post_view_count:
-  - 2194
-amp_status:
-  - enabled
-categories:
-  - 技术
-tags:
-  - gitbook
-  - gitbook教程
-  - MAC
-  - MACOS
-
+aliases: ["/6166.html"]
+cover:
+  image: "/wp-content/uploads/2018/08/gitbook.png"
+  alt: "2018-08-04-macos-本地安装-gitbook-并生成-html-格式电子书的过程.md"
+categories: ["技术"]
+tags: ["gitbook", "gitbook教程", "MAC", "MACOS"]
 ---
+
 第一步：安装node.js
 
 https://nodejs.org/en/download/

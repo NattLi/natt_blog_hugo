@@ -1,26 +1,12 @@
 ---
 title: 用免费空间给你的wordpress安个家
 author: Natt
-type: post
 date: 2009-01-02T17:57:00+00:00
-url: /176.html
-views:
-  - 357
-  - 357
-  - 357
-duoshuo_thread_id:
-  - 234936
-nectar_blog_post_view_count:
-  - 1902
-categories:
-  - 未分类
-tags:
-  - freehost
-  - freewebhost
-  - wordpress空间
-  - 免费空间
-
+aliases: ["/176.html"]
+categories: ["未分类"]
+tags: ["freehost", "freewebhost", "wordpress空间", "免费空间"]
 ---
+
 今天无聊 碰到的，好像以前申请过，记得还有个这样空间的 reseller账号的，不过因为IP 和谐了 所以一直没用。
 
 今天看到了就申请了一个，空间参数如下。

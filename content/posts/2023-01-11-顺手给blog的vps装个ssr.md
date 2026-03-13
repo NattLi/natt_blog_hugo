@@ -1,20 +1,15 @@
 ---
 title: 顺手给blog的VPS装个SSR
 author: Natt
-type: post
 date: 2023-01-11T07:49:34+00:00
-url: /6553.html
-featured_image: /wp-content/uploads/2023/01/20230111154148.jpg
-nectar_blog_post_view_count:
-  - 1117
-categories:
-  - 技术
-  - 网络
-tags:
-  - SSR
-  - 凸墙
-
+aliases: ["/6553.html"]
+cover:
+  image: "/wp-content/uploads/2023/01/20230111154148.jpg"
+  alt: "2023-01-11-顺手给blog的vps装个ssr.md"
+categories: ["技术", "网络"]
+tags: ["SSR", "凸墙"]
 ---
+
 对我来说，那个啥就是水和空气  
 一般情况下，现在都在用大机场了，稳定性自然比自己弄个小鸡更好，并且还能为孩子的Disney+和Nintendo Service Online 服务提供必要的便利。
 

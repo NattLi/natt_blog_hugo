@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>孤独 on My New Hugo Site</title>
-    <link>https://example.org/tags/%E5%AD%A4%E7%8B%AC/</link>
-    <description>Recent content in 孤独 on My New Hugo Site</description>
+    <title>孤独 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/%E5%AD%A4%E7%8B%AC/</link>
+    <description>Recent content in 孤独 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/%E5%AD%A4%E7%8B%AC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2009 01:37:47 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/%E5%AD%A4%E7%8B%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patience</title>
+      <link>https://blognew.natt.cc/posts/2009-07-30-patience/</link>
+      <pubDate>Thu, 30 Jul 2009 01:37:47 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-07-30-patience/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/582.html&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;aligncenter size-full wp-image-626&#34; title=&#34;patience&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/09/patience.jpg&#34; alt=&#34;patience&#34; width=&#34;448&#34; height=&#34;336&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2009/09/patience.jpg 448w, https://blog.natt.cc/wp-content/uploads/2009/09/patience-350x263.jpg 350w, https://blog.natt.cc/wp-content/uploads/2009/09/patience-300x225.jpg 300w&#34; sizes=&#34;auto, (max-width: 448px) 100vw, 448px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这种感觉很可怕，一个人醒着，不想睡，无所事事的孤单着。&lt;/p&gt;
+&lt;p&gt;MOMO一大早就走了，去某医院有实践课，我打开电脑，QQ上面没人，MSN没人，饭否早就登不上了&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -1,22 +1,12 @@
 ---
 title: Requiem for a Dream
 author: Natt
-type: post
 date: 2010-06-28T09:57:00+00:00
-url: /857.html
-views:
-  - 309
-duoshuo_thread_id:
-  - 235072
-nectar_blog_post_view_count:
-  - 1255
-categories:
-  - 艺术
-tags:
-  - Requiem for a Dream
-  - 生命
-
+aliases: ["/857.html"]
+categories: ["艺术"]
+tags: ["Requiem for a Dream", "生命"]
 ---
+
 [<img loading="lazy" decoding="async" title="p458520039" style="border-right: 0px; border-top: 0px; display: inline; margin-left: 0px; border-left: 0px; margin-right: 0px; border-bottom: 0px" height="337" alt="p458520039" src="https://blog.natt.cc/wp-content/uploads/2010/06/p458520039_thumb.jpg" width="600" border="0" />][1] 
 
 考完雅思第二天终于忙里偷闲看了一部好电影。豆瓣上看到YUN同学的“看过”，YUN同学的品位是不同质疑的。于是毅然决然找到比较高清的版本，下午一人坐在宿舍看完这部电影。 不得不说这种看完不知道它确切要表达的东西却又使人不禁思考下去，这样的电影才是好东西。

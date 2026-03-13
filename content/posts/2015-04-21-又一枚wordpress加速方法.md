@@ -1,22 +1,12 @@
 ---
 title: 又一枚WordPress加速方法
 author: Natt
-type: post
 date: 2015-04-21T15:22:00+00:00
-url: /1259.html
-duoshuo_thread_id:
-  - 1170986480661097107
-nectar_blog_post_view_count:
-  - 2014
-categories:
-  - 建站日志
-  - 网络
-tags:
-  - wordpress加速
-  - 七牛
-  - 七牛云加速
-
+aliases: ["/1259.html"]
+categories: ["建站日志", "网络"]
+tags: ["wordpress加速", "七牛", "七牛云加速"]
 ---
+
 之前几天用了USESO 360网站卫士公共库替换Google库的方法确实能够为网站提速不少，而今天又领教了另一个WP加速的好方法。
 
 &nbsp;

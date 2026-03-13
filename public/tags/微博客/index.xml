@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>微博客 on My New Hugo Site</title>
-    <link>https://example.org/tags/%E5%BE%AE%E5%8D%9A%E5%AE%A2/</link>
-    <description>Recent content in 微博客 on My New Hugo Site</description>
+    <title>微博客 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/%E5%BE%AE%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 微博客 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/%E5%BE%AE%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 May 2009 17:22:34 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/%E5%BE%AE%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>又是一年毕业时&amp; the others</title>
+      <link>https://blognew.natt.cc/posts/2009-05-24-%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E6%AF%95%E4%B8%9A%E6%97%B6-the-others/</link>
+      <pubDate>Sat, 23 May 2009 17:22:34 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-05-24-%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E6%AF%95%E4%B8%9A%E6%97%B6-the-others/</guid>
+      <description>&lt;p&gt;&lt;font color=&#34;#000000&#34; face=&#34;微软雅黑&#34;&gt;又是一年毕业时 ..&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&#34;#000000&#34; face=&#34;微软雅黑&#34;&gt;校园里又是离别的气息。我是男子汉，哈哈，无视这离伤。但是岁月的力量无疑又将我向前推，没错，有人毕业了，我们又长了一个年级。&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&#34;#000000&#34; face=&#34;微软雅黑&#34;&gt;他们走了，我就大三了。大三，大三，大三..   真不敢相信。&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&#34;#000000&#34; face=&#34;微软雅黑&#34;&gt;————&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&#34;#000000&#34; face=&#34;微软雅黑&#34;&gt;最近生活乱七八糟…发现这个忙忙碌碌的社会中快餐文化盛行，缝隙时间才是所谓空闲时间，而这个时候掏出手机看看饭否等这类微博客才更适合打法细小的时间。&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&#34;#000000&#34; face=&#34;微软雅黑&#34;&gt;饭否有很多牛人.. 我们要说话，不仅要有思想，还要有说话的艺术… &lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&#34;#000000&#34; face=&#34;微软雅黑&#34;&gt;廉颇老矣，能上饭否…&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&#34;#000000&#34; face=&#34;微软雅黑&#34;&gt;&lt;/font&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

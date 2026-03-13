@@ -1,25 +1,15 @@
 ---
 title: Math is Truth
 author: Natt
-type: post
 date: 2017-11-22T01:35:52+00:00
-url: /1471.html
-featured_image: /wp-content/uploads/2017/11/Snip20171122_2.png
-nectar_blog_post_view_count:
-  - 1811
-categories:
-  - 生活
-  - 网络
-tags:
-  - AI
-  - Google
-  - 人工智能
-  - 备份
-  - 服
-  - 照片
-  - 黑科技
-
+aliases: ["/1471.html"]
+cover:
+  image: "/wp-content/uploads/2017/11/Snip20171122_2.png"
+  alt: "2017-11-22-math-is-truth.md"
+categories: ["生活", "网络"]
+tags: ["AI", "Google", "人工智能", "备份", "服", "照片", "黑科技"]
 ---
+
 当我还在为配置好了nextcloud 私有云沾沾自喜，以为这就是未来我的家庭照片储存方案的时候，Google Photo 又一次使我惊呼马丹这才是黑科技。
 
 手机里一直有Google 的套件，之前也用过Google photo，对它的印象基本上停留在帮你推出智能相册之类的功能。昨天晚上仔细琢磨了一下Google Photo, 在标注人物的时候甚至将一个朋友戴着墨镜的照片都识别出来了；将朋友侧脸、奇葩表情等都能准确识别，深深的服。然后，当你需要找特定照片的时候，只需要把照片内容输入进去就好，比如“sky and sea”, &#8220;september&#8221; 或是 &#8220;shopping&#8221;，就像在自己脑中找记忆。

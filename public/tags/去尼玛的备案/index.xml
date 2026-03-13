@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>去尼玛的备案 on My New Hugo Site</title>
-    <link>https://example.org/tags/%E5%8E%BB%E5%B0%BC%E7%8E%9B%E7%9A%84%E5%A4%87%E6%A1%88/</link>
-    <description>Recent content in 去尼玛的备案 on My New Hugo Site</description>
+    <title>去尼玛的备案 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/%E5%8E%BB%E5%B0%BC%E7%8E%9B%E7%9A%84%E5%A4%87%E6%A1%88/</link>
+    <description>Recent content in 去尼玛的备案 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/%E5%8E%BB%E5%B0%BC%E7%8E%9B%E7%9A%84%E5%A4%87%E6%A1%88/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2017 03:25:51 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/%E5%8E%BB%E5%B0%BC%E7%8E%9B%E7%9A%84%E5%A4%87%E6%A1%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>再见备案</title>
+      <link>https://blognew.natt.cc/posts/2017-09-21-%E5%86%8D%E8%A7%81%E5%A4%87%E6%A1%88/</link>
+      <pubDate>Thu, 21 Sep 2017 03:25:51 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2017-09-21-%E5%86%8D%E8%A7%81%E5%A4%87%E6%A1%88/</guid>
+      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-1451&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67.png&#34; alt=&#34;&#34; width=&#34;647&#34; height=&#34;237&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67.png 647w, https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67-350x128.png 350w, https://blog.natt.cc/wp-content/uploads/2017/09/Snip20170921_67-300x110.png 300w&#34; sizes=&#34;auto, (max-width: 647px) 100vw, 647px&#34; /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;之前一不小心脑子一热麻蛋把自己手中的5个域名一口气备案在了腾讯云，出于Natt’s Five Domains 备案网站名叫 南特斯斐吾，曾以自己的小聪明沾沾自喜，结果现在启用blog.natt.cc的时候傻逼了，内裤都特么交上去了。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;赶紧注销备案，希望郭嘉放过我。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

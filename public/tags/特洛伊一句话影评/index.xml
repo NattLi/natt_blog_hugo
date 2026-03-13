@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>特洛伊一句话影评 on My New Hugo Site</title>
-    <link>https://example.org/tags/%E7%89%B9%E6%B4%9B%E4%BC%8A%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BD%B1%E8%AF%84/</link>
-    <description>Recent content in 特洛伊一句话影评 on My New Hugo Site</description>
+    <title>特洛伊一句话影评 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/%E7%89%B9%E6%B4%9B%E4%BC%8A%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BD%B1%E8%AF%84/</link>
+    <description>Recent content in 特洛伊一句话影评 on Natt Blog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/%E7%89%B9%E6%B4%9B%E4%BC%8A%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BD%B1%E8%AF%84/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Mar 2009 18:29:52 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/%E7%89%B9%E6%B4%9B%E4%BC%8A%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BD%B1%E8%AF%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《特洛伊》观后一句话</title>
+      <link>https://blognew.natt.cc/posts/2009-03-29-%E7%89%B9%E6%B4%9B%E4%BC%8A%E8%A7%82%E5%90%8E%E4%B8%80%E5%8F%A5%E8%AF%9D/</link>
+      <pubDate>Sat, 28 Mar 2009 18:29:52 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-03-29-%E7%89%B9%E6%B4%9B%E4%BC%8A%E8%A7%82%E5%90%8E%E4%B8%80%E5%8F%A5%E8%AF%9D/</guid>
+      <description>&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;p style=&#34;text-align: center;&#34;&gt;
+    &lt;p style=&#34;text-align: center;&#34;&gt;
+      &lt;p style=&#34;text-align: center;&#34;&gt;
+        &lt;p style=&#34;text-align: center;&#34;&gt;
+          &lt;p style=&#34;text-align: center;&#34;&gt;
+            我们热爱英雄，但我们痛恨战争。
+          &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;      &amp;lt;p style=&amp;quot;text-align: center;&amp;quot;&amp;gt;
+        （hhist）
+      &amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
   </channel>
 </rss>
