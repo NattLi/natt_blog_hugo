@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>中国污染 on Natt Blog</title>
     <link>https://blognew.natt.cc/tags/%E4%B8%AD%E5%9B%BD%E6%B1%A1%E6%9F%93/</link>
     <description>Recent content in 中国污染 on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2009 15:55:00 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/tags/%E4%B8%AD%E5%9B%BD%E6%B1%A1%E6%9F%93/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,7 @@
       <link>https://blognew.natt.cc/posts/2009-10-22-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B1%A1%E6%9F%93%E5%8D%A2%E5%B9%BF/</link>
       <pubDate>Thu, 22 Oct 2009 15:55:00 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2009-10-22-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B1%A1%E6%9F%93%E5%8D%A2%E5%B9%BF/</guid>
-      <description>&lt;p&gt;推荐卢广的摄影作品集：关注中国污染。&lt;/p&gt;
-&lt;p&gt;地址：&lt;a href=&#34;http://image.fengniao.com/vision/vision.php?id=122&#34;&gt;http://image.fengniao.com/vision/vision.php?id=122&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;真可谓张张图片触目惊心。&lt;/p&gt;
-&lt;p&gt;尤金．史密斯人道主义摄影奖公布结果&lt;/p&gt;</description>
+      <description>&lt;p&gt;推荐卢广的摄影作品集：关注中国污染。&lt;/p&gt;&#xA;&lt;p&gt;地址：&lt;a href=&#34;http://image.fengniao.com/vision/vision.php?id=122&#34;&gt;http://image.fengniao.com/vision/vision.php?id=122&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;真可谓张张图片触目惊心。&lt;/p&gt;&#xA;&lt;p&gt;尤金．史密斯人道主义摄影奖公布结果&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

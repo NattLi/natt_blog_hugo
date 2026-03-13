@@ -1,14 +1,14 @@
 ---
+layout: post
 title: 三行代码利用Docker部署OPENEDX
 author: Natt
 date: 2018-02-03T10:35:59+00:00
 aliases: ["/6046.html"]
-cover:
-  image: "/wp-content/uploads/2018/02/WX20180203-182848.png"
-  alt: "2018-02-03-三行代码利用docker部署openedx.md"
+image: "/wp-content/uploads/2018/02/WX20180203-182848.png"
 categories: ["技术", "网络"]
 tags: ["docker", "LMS", "openedx", "技术"]
 ---
+
 
 新部署一台 Ubuntu 14.04 的主机，SSH之后：
 

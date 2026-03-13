@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>音乐 on Natt Blog</title>
     <link>https://blognew.natt.cc/categories/%E9%9F%B3%E4%B9%90/</link>
     <description>Recent content in 音乐 on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Sep 2017 03:16:37 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/categories/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +13,7 @@
       <link>https://blognew.natt.cc/posts/2017-09-21-%E7%9C%9F%E6%8C%9A%E8%80%8C%E8%82%A4%E6%B5%85/</link>
       <pubDate>Thu, 21 Sep 2017 03:16:37 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2017-09-21-%E7%9C%9F%E6%8C%9A%E8%80%8C%E8%82%A4%E6%B5%85/</guid>
-      <description>&lt;p&gt;约2周前与C哥小聚后次日晨间酒醒之际一同观看祖国有嘻哈的决“赛”。说唱音乐自己标榜自己Real这个无可厚非，但Real后面到底是什么却引我思考。&lt;/p&gt;
-&lt;p&gt;我想起我的高中时代，那时候似乎是我思维最动荡最不妥协看世界都是傻逼的年纪，自然而然最喜欢的音乐是摇滚与金属，我曾跟着Guns N Roses 的撕扯F这个F那个F全世界，也跟着Nirvana的颓废说着这个已死那个已死grunge is dead. 我曾经对于音乐认知的底线是Linkin Park，再商业的就TM是生意而非音乐，不纯。艾薇儿基本属于嗤之以鼻那种。&lt;/p&gt;
-&lt;p&gt;上面扯这么多音乐的目的就是为了引出下面这位：五月天。 那是他们的《倔强》红遍大江南北并以螺丝钉之势构建起了无数青少年脆弱的世界观，大意基本是哇这特么才是人生态度或者五月天才是真摇滚之类。现在看看，他们的倔强一文不值。&lt;/p&gt;
-&lt;p&gt;说到说唱，我虽然欣赏他们直来直去毫不拖泥带水的表达，但字里行间透出的人生经历与感悟似乎与《倔强》没有什么太大的变化，大抵都是“握草我这么牛逼这个世界竟然不认可，你们等着劳资自己努力总有一天让你们跪舔”之类，亦或是“马丹劳资已经如此牛逼了而汝等这类撒币却希望和劳资平起平坐”之类。&lt;/p&gt;
-&lt;p&gt;要说Real，我认；要说营养，基本上等同于抓了一大把味精塞嘴里然后说卧槽好爽鲜到不能自已味道过后问自己剩下什么的时候一脸懵逼，似乎什么都没剩下。基本上就是这样的感觉吧。&lt;/p&gt;</description>
+      <description>&lt;p&gt;约2周前与C哥小聚后次日晨间酒醒之际一同观看祖国有嘻哈的决“赛”。说唱音乐自己标榜自己Real这个无可厚非，但Real后面到底是什么却引我思考。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

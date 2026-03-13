@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Led Zeppelin on Natt Blog</title>
     <link>https://blognew.natt.cc/tags/led-zeppelin/</link>
     <description>Recent content in Led Zeppelin on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Nov 2009 16:50:00 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/tags/led-zeppelin/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://blognew.natt.cc/posts/2009-11-21-%E7%81%B5%E9%AD%82%E5%87%BA%E9%9E%98/</link>
       <pubDate>Fri, 20 Nov 2009 16:50:00 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2009-11-21-%E7%81%B5%E9%AD%82%E5%87%BA%E9%9E%98/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2009/11/led_zeppelin_led_zeppelin5881711201488186.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px&#34; title=&#34;led_zeppelin_led_zeppelin-588171-1201488186&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/11/led_zeppelin_led_zeppelin5881711201488186_thumb.jpg&#34; border=&#34;0&#34; alt=&#34;led_zeppelin_led_zeppelin-588171-1201488186&#34; width=&#34;604&#34; height=&#34;242&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;昨天无意中又听到led zeppelin 的 stairway to heaven.8分钟长的歌一口气播放三遍，那种感觉好像心里有话要说，却在后面强劲的吉他solo中被封住了口，跟着飘忽不 定的吉他飘了起来，直至灵魂出鞘&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2009/11/led_zeppelin_led_zeppelin5881711201488186.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px&#34; title=&#34;led_zeppelin_led_zeppelin-588171-1201488186&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/11/led_zeppelin_led_zeppelin5881711201488186_thumb.jpg&#34; border=&#34;0&#34; alt=&#34;led_zeppelin_led_zeppelin-588171-1201488186&#34; width=&#34;604&#34; height=&#34;242&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;昨天无意中又听到led zeppelin 的 stairway to heaven.8分钟长的歌一口气播放三遍，那种感觉好像心里有话要说，却在后面强劲的吉他solo中被封住了口，跟着飘忽不 定的吉他飘了起来，直至灵魂出鞘&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

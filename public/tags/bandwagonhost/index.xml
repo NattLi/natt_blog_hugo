@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bandwagonhost on Natt Blog</title>
     <link>https://blognew.natt.cc/tags/bandwagonhost/</link>
     <description>Recent content in Bandwagonhost on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jan 2017 10:11:31 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/tags/bandwagonhost/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,7 @@
       <link>https://blognew.natt.cc/posts/2017-01-10-%E7%BB%99blog%E6%90%AC%E5%AE%B6%E5%88%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E5%88%AB%E5%A2%85/</link>
       <pubDate>Tue, 10 Jan 2017 10:11:31 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2017-01-10-%E7%BB%99blog%E6%90%AC%E5%AE%B6%E5%88%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E5%88%AB%E5%A2%85/</guid>
-      <description>&lt;p&gt;一段时间没管blog，最近打开竟然数据库连接失败了，原来的小茅屋实在是太不稳了，何况这么多年的积累（虽然没多少日志）应该算是数据比较值钱了吧，我在搬瓦工/Bandwagonhost给小博客在美国凤凰城买了一小块云计算能力（1核心、1024MB内存、20GB SSD硬盘、月2T流量），配合免费的wdcp面板搭建了php+mysql环境，对于这么小体量的网站来说，这差不多等于让一只小小的猫住在了一个500平的别墅这么奢侈。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;不过话说回来，这种把数据牢牢握在手中的感觉很踏实。&lt;/p&gt;</description>
+      <description>&lt;p&gt;一段时间没管blog，最近打开竟然数据库连接失败了，原来的小茅屋实在是太不稳了，何况这么多年的积累（虽然没多少日志）应该算是数据比较值钱了吧，我在搬瓦工/Bandwagonhost给小博客在美国凤凰城买了一小块云计算能力（1核心、1024MB内存、20GB SSD硬盘、月2T流量），配合免费的wdcp面板搭建了php+mysql环境，对于这么小体量的网站来说，这差不多等于让一只小小的猫住在了一个500平的别墅这么奢侈。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

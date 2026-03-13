@@ -1,10 +1,12 @@
 ---
+layout: post
 title: Windows Live Writer 使用手记
 author: Natt
 date: 2008-12-19T16:31:07+00:00
 aliases: ["/120.html"]
 categories: ["未分类"]
 ---
+
 
 Windows Live Writer 支持WP，为了不至于使自己落伍
 

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>交警队长烈士 on Natt Blog</title>
     <link>https://blognew.natt.cc/tags/%E4%BA%A4%E8%AD%A6%E9%98%9F%E9%95%BF%E7%83%88%E5%A3%AB/</link>
     <description>Recent content in 交警队长烈士 on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Dec 2009 15:43:00 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/tags/%E4%BA%A4%E8%AD%A6%E9%98%9F%E9%95%BF%E7%83%88%E5%A3%AB/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,7 @@
       <link>https://blognew.natt.cc/posts/2009-12-14-%E9%85%92%E7%B2%BE%E8%80%83%E9%AA%8C%E7%9A%84%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7%E7%83%88%E5%A3%AB/</link>
       <pubDate>Mon, 14 Dec 2009 15:43:00 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2009-12-14-%E9%85%92%E7%B2%BE%E8%80%83%E9%AA%8C%E7%9A%84%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7%E7%83%88%E5%A3%AB/</guid>
-      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;hero&#34; border=&#34;0&#34; alt=&#34;hero&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/hero.jpg&#34; width=&#34;630&#34; height=&#34;250&#34; /&gt; 
-&lt;p&gt;加粗的字体表现出我对烈士无比&lt;strike&gt;草泥马&lt;/strike&gt;的崇敬。&lt;/p&gt;
-&lt;p&gt;YES !  ABSOLUT HERO.&lt;/p&gt;</description>
+      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;hero&#34; border=&#34;0&#34; alt=&#34;hero&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/12/hero.jpg&#34; width=&#34;630&#34; height=&#34;250&#34; /&gt; &#xA;&lt;p&gt;加粗的字体表现出我对烈士无比&lt;strike&gt;草泥马&lt;/strike&gt;的崇敬。&lt;/p&gt;&#xA;&lt;p&gt;YES !  ABSOLUT HERO.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

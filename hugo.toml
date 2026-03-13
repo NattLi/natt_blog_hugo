@@ -1,58 +1,42 @@
-baseURL = 'https://blognew.natt.cc/'
-languageCode = 'en-us'
-title = 'Natt Blog'
-theme = 'PaperMod'
+baseurl = "https://blognew.natt.cc/"
+title = "Natt Blog"
+theme = "hugo-theme-cleanwhite"
+languageCode = "en-us"
+preserveTaxonomyNames = true
+hasCJKLanguage = true
 
-enableRobotsTXT = true
-buildDrafts = false
-buildFuture = false
-buildExpired = false
+[outputs]
+home = ["HTML", "RSS"]
 
-[minify]
-  disableXML = true
-  minifyOutput = true
+[params]
+  header_image = "img/home-bg-jeep.jpg"
+  SEOTitle = "Natt Blog | Design & Life"
+  description = "A blog about design, life, and technology."
+  keyword = "Design, Life, Technology, Natt"
+  slogan = "Stay hungry, stay foolish."
+  
+  image_404 = "img/404-bg.jpg"
+  title_404 = "You are lost in the wilderness :("
+  
+  # Sidebar settings
+  sidebar_about_description = "Designer & Life Adventurer"
+  # sidebar_avatar = "img/avatar.jpg"
+
+  featured_tags = true 
+  featured_condition_size = 1 
+
+  friends = false
+  bookmarks = false
+  about_me = true
+  last_posts = true
+
+  [params.social]
+  rss            = true 
+  github         = "https://github.com/nattli"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[params]
-  env = "production"
-  title = "Natt Blog"
-  description = "A blog about design, life, and technology."
-  keywords = ["Blog", "Design", "Life", "Technology"]
-  author = "Natt"
-  defaultTheme = "auto"
-  disableThemeToggle = false
-  ShowReadingTime = true
-  ShowShareButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowWordCount = true
-  ShowRssButtonInSectionTermList = true
-  UseHugoToc = true
-
-  [params.homeInfoParams]
-    Title = "Hi there 👋"
-    Content = "Welcome to my blog. Here I share my thoughts on design, life, and the digital world."
-
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/nattli"
-
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 10
-  [[menu.main]]
-    identifier = "search"
-    name = "Search"
-    url = "/search/"
-    weight = 20
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+  [markup.highlight]
+    style = "dracula"

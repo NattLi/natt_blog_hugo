@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Time to Say GOODBYE
 author: Natt
 date: 2009-06-20T18:23:00+00:00
@@ -6,6 +7,7 @@ aliases: ["/526.html"]
 categories: ["思考", "生活"]
 tags: ["大四毕业", "机械足球队", "毕业", "球队"]
 ---
+
 
 &#160;
 

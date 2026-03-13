@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>迷茫 on Natt Blog</title>
     <link>https://blognew.natt.cc/tags/%E8%BF%B7%E8%8C%AB/</link>
     <description>Recent content in 迷茫 on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Jan 2010 14:26:00 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/tags/%E8%BF%B7%E8%8C%AB/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://blognew.natt.cc/posts/2010-01-10-%E5%B7%B2%E7%84%B62010/</link>
       <pubDate>Sun, 10 Jan 2010 14:26:00 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2010-01-10-%E5%B7%B2%E7%84%B62010/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2010/01/time.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;time&#34; border=&#34;0&#34; alt=&#34;time&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2010/01/time_thumb.jpg&#34; width=&#34;630&#34; height=&#34;250&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今天偶尔看到小M同学发的所谓“心跳的感觉”。回过头想想自己已经多久多久多没有这种“心跳感”了。不过往前看看，自己却着实好好的心跳了一把。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2010/01/time.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;time&#34; border=&#34;0&#34; alt=&#34;time&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2010/01/time_thumb.jpg&#34; width=&#34;630&#34; height=&#34;250&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;今天偶尔看到小M同学发的所谓“心跳的感觉”。回过头想想自己已经多久多久多没有这种“心跳感”了。不过往前看看，自己却着实好好的心跳了一把。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

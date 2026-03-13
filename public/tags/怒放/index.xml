@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>怒放 on Natt Blog</title>
     <link>https://blognew.natt.cc/tags/%E6%80%92%E6%94%BE/</link>
     <description>Recent content in 怒放 on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Jun 2010 17:28:00 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/tags/%E6%80%92%E6%94%BE/index.xml" rel="self" type="application/rss+xml" />
@@ -13,15 +13,7 @@
       <link>https://blognew.natt.cc/posts/2010-06-10-%E6%80%92%E6%94%BE/</link>
       <pubDate>Wed, 09 Jun 2010 17:28:00 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2010-06-10-%E6%80%92%E6%94%BE/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2010/06/12.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; title=&#34;12&#34; style=&#34;border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px&#34; height=&#34;349&#34; alt=&#34;怒放 姐姐&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2010/06/12_thumb.jpg&#34; width=&#34;612&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;无意中看了《怒放》，也叫《姐姐》。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;截图中的画面深深打动我，那是我和MOMO也曾凝视的角度，我也曾如此擦去她眼角的泪花。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;虽然片子说的那些事儿发生的年代我是不曾经历的，但是心中还是不免有些共鸣。&lt;/p&gt;
-&lt;p&gt;除了白文，别人都知道姐姐为什么不能嫁给他，但却都没有告诉他。他们本可以有一个大房子，五角星的顶，看见星星月亮。可年轻的代价就是两手空空空有对未来的执着。白文是好男人，姐姐是好女人。好男人要给好女人幸福，好女人知道幸福在那里而自己却失去资格。好女人选择离开了，好男人不能接受现实，活在自己的幻想当中了。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;当他终于看明白事情之后，他失去了心爱的女人，失去了至亲的兄弟。剩下了和姐姐那些美好的回忆，记得十八岁时的初恋。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2010/06/12.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; title=&#34;12&#34; style=&#34;border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px&#34; height=&#34;349&#34; alt=&#34;怒放 姐姐&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2010/06/12_thumb.jpg&#34; width=&#34;612&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;无意中看了《怒放》，也叫《姐姐》。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;截图中的画面深深打动我，那是我和MOMO也曾凝视的角度，我也曾如此擦去她眼角的泪花。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,14 +1,14 @@
 ---
+layout: post
 title: Math is Truth
 author: Natt
 date: 2017-11-22T01:35:52+00:00
 aliases: ["/1471.html"]
-cover:
-  image: "/wp-content/uploads/2017/11/Snip20171122_2.png"
-  alt: "2017-11-22-math-is-truth.md"
+image: "/wp-content/uploads/2017/11/Snip20171122_2.png"
 categories: ["生活", "网络"]
 tags: ["AI", "Google", "人工智能", "备份", "服", "照片", "黑科技"]
 ---
+
 
 当我还在为配置好了nextcloud 私有云沾沾自喜，以为这就是未来我的家庭照片储存方案的时候，Google Photo 又一次使我惊呼马丹这才是黑科技。
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Democrazy
 author: Natt
 date: 2010-06-06T16:32:30+00:00
@@ -6,6 +7,7 @@ aliases: ["/845.html"]
 categories: ["思考"]
 tags: ["Democrazy", "GNR", "guns n roses", "youtube", "枪花"]
 ---
+
 
 网络新词：Democrazy=妄想
 

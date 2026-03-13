@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Requiem for a Dream
 author: Natt
 date: 2010-06-28T09:57:00+00:00
@@ -6,6 +7,7 @@ aliases: ["/857.html"]
 categories: ["艺术"]
 tags: ["Requiem for a Dream", "生命"]
 ---
+
 
 [<img loading="lazy" decoding="async" title="p458520039" style="border-right: 0px; border-top: 0px; display: inline; margin-left: 0px; border-left: 0px; margin-right: 0px; border-bottom: 0px" height="337" alt="p458520039" src="https://blog.natt.cc/wp-content/uploads/2010/06/p458520039_thumb.jpg" width="600" border="0" />][1] 
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 百度BCC配置主机宝跑WordPress的终极方案
 author: Natt
 date: 2017-02-11T13:32:30+00:00
@@ -6,6 +7,7 @@ aliases: ["/1295.html"]
 categories: ["创业", "建站日志", "网络"]
 tags: ["mysql数据库导入", "Nginx404", "主机宝404", "百度BCC"]
 ---
+
 
 这是一个一个菜逼的百度BCC折腾手记。
 

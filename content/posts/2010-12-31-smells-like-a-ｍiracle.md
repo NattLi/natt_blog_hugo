@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Smells Like a Miracle
 author: Natt
 date: 2010-12-31T04:45:00+00:00
@@ -6,6 +7,7 @@ aliases: ["/968.html"]
 categories: ["思考"]
 tags: ["2010", "IELTS", "momo", "雅思"]
 ---
+
 
 今天是2010年最后一天，早上睡到自然醒，10点50，吃饱饭，喝上茶，回顾回顾自己的2010 。
 

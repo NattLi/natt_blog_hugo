@@ -1,14 +1,14 @@
 ---
+layout: post
 title: 基于Jekyll 的github pages blog 如何绑定独立域名
 author: Natt
 date: 2018-01-19T06:02:27+00:00
 aliases: ["/6035.html"]
-cover:
-  image: "/wp-content/uploads/2018/01/jekyll-logo.png"
-  alt: "2018-01-19-基于jekyll-的github-pages-blog-如何绑定独立域名.md"
+image: "/wp-content/uploads/2018/01/jekyll-logo.png"
 categories: ["技术", "网络"]
 tags: ["Github", "Jekyll", "Jekyll绑定域名"]
 ---
+
 
 自己建立了一个 Jekyll 的博客做测试，刚才解决了域名绑定，记录一下。
 

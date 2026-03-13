@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bohemian Rhapsody
 author: Natt
 date: 2012-01-10T00:43:00+00:00
@@ -6,6 +7,7 @@ aliases: ["/1085.html"]
 categories: ["艺术"]
 tags: ["Bohemian Rhapsody", "QUEEN"]
 ---
+
 
 &nbsp;
 

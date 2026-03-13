@@ -1,4 +1,5 @@
 ---
+layout: post
 title: '又是一年毕业时& the others'
 author: Natt
 date: 2009-05-23T17:22:34+00:00
@@ -6,6 +7,7 @@ aliases: ["/518.html"]
 categories: ["生活"]
 tags: ["大四毕业", "微博客", "快餐文化", "毕业", "饭否"]
 ---
+
 
 <font color="#000000" face="微软雅黑">又是一年毕业时 ..</font>
 

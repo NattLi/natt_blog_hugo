@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "WAVIN' YOUR FLAG"
 author: Natt
 date: 2010-06-11T03:29:00+00:00
@@ -6,6 +7,7 @@ aliases: ["/850.html"]
 categories: ["生活"]
 tags: ["WAVING YOUR FLAG", "世界杯", "世界杯主题曲"]
 ---
+
 
 <embed src="http://player.youku.com/player.php/sid/XMTU4MTc1NjUy/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash">
 </embed>

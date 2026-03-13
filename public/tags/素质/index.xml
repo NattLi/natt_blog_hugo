@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>素质 on Natt Blog</title>
     <link>https://blognew.natt.cc/tags/%E7%B4%A0%E8%B4%A8/</link>
     <description>Recent content in 素质 on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Aug 2009 09:04:00 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/tags/%E7%B4%A0%E8%B4%A8/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,7 @@
       <link>https://blognew.natt.cc/posts/2009-08-05-%E6%88%91%E4%BB%AC%E7%9A%84%E7%9B%AE%E5%85%89%E4%BE%9D%E7%84%B6%E6%B8%85%E6%BE%88/</link>
       <pubDate>Wed, 05 Aug 2009 09:04:00 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2009-08-05-%E6%88%91%E4%BB%AC%E7%9A%84%E7%9B%AE%E5%85%89%E4%BE%9D%E7%84%B6%E6%B8%85%E6%BE%88/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2009/08/DSCF9304.jpg&#34;&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt; &lt;/span&gt;&lt;/a&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2009/08/DSCF93041.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px&#34; title=&#34;DSCF9304&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/08/DSCF9304_thumb1.jpg&#34; border=&#34;0&#34; alt=&#34;DSCF9304&#34; width=&#34;545&#34; height=&#34;289&#34; /&gt;&lt;/a&gt;&lt;/span&gt; &lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;这几天飘荡在桂林。明天回家。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;第一天和MOMO跟团去漓江，去世外桃源，去溶洞。&lt;/span&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;同行者中有一对东北夫妇，年龄四十有余，体态丰腴，颇有暴发大户之感。男人的纯棉汗衫早早被汗水浸湿，&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2009/08/DSCF9304.jpg&#34;&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt; &lt;/span&gt;&lt;/a&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;&lt;a href=&#34;https://blog.natt.cc/wp-content/uploads/2009/08/DSCF93041.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px&#34; title=&#34;DSCF9304&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2009/08/DSCF9304_thumb1.jpg&#34; border=&#34;0&#34; alt=&#34;DSCF9304&#34; width=&#34;545&#34; height=&#34;289&#34; /&gt;&lt;/a&gt;&lt;/span&gt; &lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt; &lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;这几天飘荡在桂林。明天回家。&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;第一天和MOMO跟团去漓江，去世外桃源，去溶洞。&lt;/span&gt;&lt;span style=&#34;font-family: 微软雅黑;&#34;&gt;同行者中有一对东北夫妇，年龄四十有余，体态丰腴，颇有暴发大户之感。男人的纯棉汗衫早早被汗水浸湿，&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

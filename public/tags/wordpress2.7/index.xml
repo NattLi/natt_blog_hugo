@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WORDPRESS2.7 on Natt Blog</title>
     <link>https://blognew.natt.cc/tags/wordpress2.7/</link>
     <description>Recent content in WORDPRESS2.7 on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Dec 2008 17:02:54 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/tags/wordpress2.7/index.xml" rel="self" type="application/rss+xml" />
@@ -13,22 +13,14 @@
       <link>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</link>
       <pubDate>Tue, 16 Dec 2008 17:02:54 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/</guid>
-      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-98&#34; title=&#34;搜索引擎收录&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg&#34; alt=&#34;搜索引擎收录&#34; width=&#34;385&#34; height=&#34;55&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg 773w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-300x43.jpg 300w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-768x109.jpg 768w&#34; sizes=&#34;auto, (max-width: 385px) 100vw, 385px&#34; /&gt;
-&lt;p&gt;虽然百度还没有收录进去，但是有一个反向链接已经收录，Google有一个收录，搜搜有一个收录。&lt;/p&gt;
-&lt;p&gt;虽然搜索引擎还没有给我带来流量。&lt;/p&gt;
-&lt;p&gt;已经很开心了，毕竟搜索引擎的爬虫开始爬到我的网站了。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;不断关注啊。&lt;/p&gt;</description>
+      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-98&#34; title=&#34;搜索引擎收录&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg&#34; alt=&#34;搜索引擎收录&#34; width=&#34;385&#34; height=&#34;55&#34; srcset=&#34;https://blog.natt.cc/wp-content/uploads/2008/12/2222222222.jpg 773w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-300x43.jpg 300w, https://blog.natt.cc/wp-content/uploads/2008/12/2222222222-768x109.jpg 768w&#34; sizes=&#34;auto, (max-width: 385px) 100vw, 385px&#34; /&gt;&#xA;&lt;p&gt;虽然百度还没有收录进去，但是有一个反向链接已经收录，Google有一个收录，搜搜有一个收录。&lt;/p&gt;&#xA;&lt;p&gt;虽然搜索引擎还没有给我带来流量。&lt;/p&gt;</description>
     </item>
     <item>
       <title>出错了</title>
       <link>https://blognew.natt.cc/posts/2008-12-15-%E5%87%BA%E9%94%99%E4%BA%86/</link>
       <pubDate>Sun, 14 Dec 2008 16:08:58 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2008-12-15-%E5%87%BA%E9%94%99%E4%BA%86/</guid>
-      <description>&lt;p&gt;我发现我添加的 留言板 插件有错误，不能正常留言咯。&lt;/p&gt;
-&lt;p&gt;我这两天再找找新的留言插件加入进来。&lt;/p&gt;
-&lt;p&gt;暂时没法留言咯。&lt;/p&gt;
-&lt;p&gt;对不住咯。&lt;/p&gt;</description>
+      <description>&lt;p&gt;我发现我添加的 留言板 插件有错误，不能正常留言咯。&lt;/p&gt;&#xA;&lt;p&gt;我这两天再找找新的留言插件加入进来。&lt;/p&gt;&#xA;&lt;p&gt;暂时没法留言咯。&lt;/p&gt;&#xA;&lt;p&gt;对不住咯。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

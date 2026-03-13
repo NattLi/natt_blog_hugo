@@ -1,4 +1,5 @@
 ---
+layout: post
 title: strike back
 author: Natt
 date: 2011-12-18T21:22:00+00:00
@@ -6,6 +7,7 @@ aliases: ["/1071.html"]
 categories: ["生活"]
 tags: ["strike back", "strikeback", "反击第二季"]
 ---
+
 
 <img loading="lazy" decoding="async" style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Strike.Back" border="0" alt="Strike.Back" src="https://blog.natt.cc/wp-content/uploads/2011/12/Strike.Back_.jpg" width="600" height="338" />
 

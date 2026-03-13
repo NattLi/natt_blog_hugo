@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>免费空间 on Natt Blog</title>
     <link>https://blognew.natt.cc/tags/%E5%85%8D%E8%B4%B9%E7%A9%BA%E9%97%B4/</link>
     <description>Recent content in 免费空间 on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Jan 2009 17:57:00 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/tags/%E5%85%8D%E8%B4%B9%E7%A9%BA%E9%97%B4/index.xml" rel="self" type="application/rss+xml" />
@@ -13,50 +13,7 @@
       <link>https://blognew.natt.cc/posts/2009-01-03-%E7%94%A8%E5%85%8D%E8%B4%B9%E7%A9%BA%E9%97%B4%E7%BB%99%E4%BD%A0%E7%9A%84wordpress%E5%AE%89%E4%B8%AA%E5%AE%B6/</link>
       <pubDate>Fri, 02 Jan 2009 17:57:00 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2009-01-03-%E7%94%A8%E5%85%8D%E8%B4%B9%E7%A9%BA%E9%97%B4%E7%BB%99%E4%BD%A0%E7%9A%84wordpress%E5%AE%89%E4%B8%AA%E5%AE%B6/</guid>
-      <description>&lt;p&gt;今天无聊 碰到的，好像以前申请过，记得还有个这样空间的 reseller账号的，不过因为IP 和谐了 所以一直没用。&lt;/p&gt;
-&lt;p&gt;今天看到了就申请了一个，空间参数如下。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;800MB&lt;/strong&gt; of webspace     容量 800M&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;20GB&lt;/strong&gt; of monthly transfer         月流量 20G&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;7&lt;/strong&gt; MySQL databases                数据库 7个&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;5&lt;/strong&gt; Addon domains                   可以绑定子文件夹的域名 5个&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;5&lt;/strong&gt; Addon subdomains&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;5&lt;/strong&gt; Parked domains                指向网站根目录的域名 5个&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;POP&lt;/strong&gt; E-mail account (catch-all)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Direct FTP&lt;/strong&gt; access                 支持FTP&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;PHP&lt;/strong&gt; support                            支持PHP&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;NO FORCED ADS!&lt;/strong&gt;                    没有强迫广告&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Custom .htaccess&lt;/strong&gt; support          支持 .httaccess 文件&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;PHP safe_mode off&lt;/strong&gt; by default        默认PHP 安全模式关闭&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;PHP Sockets and CURL&lt;/strong&gt; enabled&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Online File Manager&lt;/strong&gt; with online editor           支持在线文件管理，我看了 是net2ftp程序&lt;/p&gt;</description>
+      <description>&lt;p&gt;今天无聊 碰到的，好像以前申请过，记得还有个这样空间的 reseller账号的，不过因为IP 和谐了 所以一直没用。&lt;/p&gt;&#xA;&lt;p&gt;今天看到了就申请了一个，空间参数如下。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

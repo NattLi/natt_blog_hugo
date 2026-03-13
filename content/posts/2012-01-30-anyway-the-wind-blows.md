@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Anyway the wind blows
 author: Natt
 date: 2012-01-30T03:09:00+00:00
@@ -6,6 +7,7 @@ aliases: ["/1087.html"]
 categories: ["生活", "艺术"]
 tags: ["Bohemian Rhapsody", "QUEEN"]
 ---
+
 
 <embed src="http://player.youku.com/player.php/sid/XMzQ5ODE2OTY=/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" allowFullscreen="true" type="application/x-shockwave-flash">
 </embed>

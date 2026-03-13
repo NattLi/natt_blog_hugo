@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Android+BumpTop 期待交互设计的奇迹
 author: Natt
 date: 2010-10-21T15:27:00+00:00
@@ -6,6 +7,7 @@ aliases: ["/912.html"]
 categories: ["思考", "网络"]
 tags: ["Android", "Android+BumpTop", "BumpTop", "Google", "google收购BumpTop"]
 ---
+
 
 <embed src="http://player.youku.com/player.php/sid/XMTA4ODgwOTQw/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash">
 </embed>

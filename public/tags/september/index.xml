@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>September on Natt Blog</title>
     <link>https://blognew.natt.cc/tags/september/</link>
     <description>Recent content in September on Natt Blog</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Sep 2012 23:25:00 +0000</lastBuildDate>
     <atom:link href="https://blognew.natt.cc/tags/september/index.xml" rel="self" type="application/rss+xml" />
@@ -13,16 +13,7 @@
       <link>https://blognew.natt.cc/posts/2012-09-02-%E4%B9%9D%E6%9C%88/</link>
       <pubDate>Sun, 02 Sep 2012 23:25:00 +0000</pubDate>
       <guid>https://blognew.natt.cc/posts/2012-09-02-%E4%B9%9D%E6%9C%88/</guid>
-      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px&#34; title=&#34;card&#34; border=&#34;0&#34; alt=&#34;card&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2012/09/card.jpg&#34; width=&#34;600&#34; height=&#34;301&#34; /&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;九月，炎夏过后沉静的季节&lt;/p&gt;
-&lt;p&gt;九月，是思考的季节&lt;/p&gt;
-&lt;p&gt;九月，是收获的季节&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;不要误会，上面这么牛逼的诗句确实是我当年写的，上面这图也是我当年做的，弄个安静的地方静静过日子也是我当年的想法，也是现在的。&lt;/p&gt;
-&lt;p&gt;日子一路推着我就又到了九月，今年的九月是个复杂的月份。 是回家的月份，是离英的月份，是相聚的月份，也是分别的月份。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;复杂的九月，沉下来慢慢过。&lt;/p&gt;</description>
+      <description>&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px&#34; title=&#34;card&#34; border=&#34;0&#34; alt=&#34;card&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2012/09/card.jpg&#34; width=&#34;600&#34; height=&#34;301&#34; /&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;九月，炎夏过后沉静的季节&lt;/p&gt;&#xA;&lt;p&gt;九月，是思考的季节&lt;/p&gt;&#xA;&lt;p&gt;九月，是收获的季节&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;不要误会，上面这么牛逼的诗句确实是我当年写的，上面这图也是我当年做的，弄个安静的地方静静过日子也是我当年的想法，也是现在的。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

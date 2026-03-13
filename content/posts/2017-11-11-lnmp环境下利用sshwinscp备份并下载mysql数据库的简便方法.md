@@ -1,14 +1,14 @@
 ---
+layout: post
 title: LNMP环境下利用SSH+winSCP备份并下载MySQL数据库的简便方法
 author: Natt
 date: 2017-11-11T06:07:24+00:00
 aliases: ["/1465.html"]
-cover:
-  image: "/wp-content/uploads/2017/11/maxresdefault222.jpg"
-  alt: "2017-11-11-lnmp环境下利用sshwinscp备份并下载mysql数据库的简便方法.md"
+image: "/wp-content/uploads/2017/11/maxresdefault222.jpg"
 categories: ["建站日志", "网络"]
 tags: ["Linux数据库导出", "LNMP", "MySQL数据库", "SSH备份数据库", "宝塔面板", "数据库导出"]
 ---
+
 
 趁着11·11，买了一台京东云的服务器给网站做更新，虽然对京东云的可信度不能保证，但基本上市场价2折左右的价格还是让人心动不已。但之前的服务器被自动备份撑炸了一次之后，安装的三方面板就进不去了，于是有了今天搬家的折腾旅程。
 

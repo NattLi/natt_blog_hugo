@@ -1,14 +1,14 @@
 ---
+layout: post
 title: 有关Linkin Park的文字
 author: Natt
 date: 2017-08-04T08:26:37+00:00
 aliases: ["/1355.html"]
-cover:
-  image: "/wp-content/uploads/2017/08/lp.jpg"
-  alt: "2017-08-04-有关linkin-park的文字.md"
+image: "/wp-content/uploads/2017/08/lp.jpg"
 categories: ["生活", "艺术"]
 tags: ["gunsnroses", "Linkinparl", "可能是摇滚", "自杀", "青春", "音乐"]
 ---
+
 
 #### 初识LP
 
