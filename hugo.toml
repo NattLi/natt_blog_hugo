@@ -1,45 +1,81 @@
 baseurl = "https://blognew.natt.cc/"
 title = "Natt Blog"
-theme = "hugo-theme-cleanwhite"
+theme = "hugo-theme-stack"
 languageCode = "en-us"
-preserveTaxonomyNames = true
+defaultContentLanguage = "en"
 hasCJKLanguage = true
 
+[pagination]
+    pagerSize = 5
+
 [permalinks]
-  post = "/posts/:contentbasename/"
+    post = "/posts/:contentbasename/"
 
 [outputs]
-home = ["HTML", "RSS"]
+    home = ["HTML", "RSS"]
+    page = ["HTML", "JSON"]
+    section = ["HTML", "RSS"]
+
+[outputFormats.JSON]
+    baseName = "index"
+    mediaType = "application/json"
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = "Natt Blog | Design & Life"
-  description = "A blog about design, life, and technology."
-  keyword = "Design, Life, Technology, Natt"
-  slogan = "Stay hungry, stay foolish."
-  
-  image_404 = "img/404-bg.jpg"
-  title_404 = "You are lost in the wilderness :("
-  
-  # Sidebar settings
-  sidebar_about_description = "Designer & Life Adventurer"
-  # sidebar_avatar = "img/avatar.jpg"
+    mainSections = ["post"]
+    rssFullContent = true
+    description = "A blog about design, life, and technology."
+    
+    [params.sidebar]
+        avatar = ""
+        subtitle = "Designer & Life Adventurer"
+        emoji = "🎨"
 
-  featured_tags = true 
-  featured_condition_size = 1 
+    [params.article]
+        toc = true
+        readingTime = true
 
-  friends = false
-  bookmarks = false
-  about_me = true
-  last_posts = true
+    [params.widgets]
+        homepage = [
+            { type = "search" },
+            { type = "archives", params = { limit = 5 } },
+            { type = "categories", params = { limit = 10 } },
+            { type = "tag-cloud", params = { limit = 10 } },
+        ]
+        page = [{ type = "toc" }]
 
-  [params.social]
-  rss            = true 
-  github         = "https://github.com/nattli"
+    [params.footer]
+        since = 2026
+        customText = "Stay hungry, stay foolish."
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+        [menu.main.params]
+            icon = "home"
+
+    [[menu.main]]
+        identifier = "archives"
+        name = "Archives"
+        url = "/archives/"
+        weight = 2
+        [menu.main.params]
+            icon = "archives"
+
+    [[menu.main]]
+        identifier = "search"
+        name = "Search"
+        url = "/search/"
+        weight = 3
+        [menu.main.params]
+            icon = "search"
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    style = "dracula"
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+    [markup.highlight]
+        noClasses = false
+        style = "dracula"

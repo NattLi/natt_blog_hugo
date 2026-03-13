@@ -1,3 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Index on Natt Blog</title><link>https://blognew.natt.cc/tags/index/</link><description>Recent content in Index on Natt Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 17 Dec 2010 14:38:00 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/index/index.xml" rel="self" type="application/rss+xml"/><item><title>A Brand New Index</title><link>https://blognew.natt.cc/posts/2010-12-17-a-brand-new-index/</link><pubDate>Fri, 17 Dec 2010 14:38:00 +0000</pubDate><guid>https://blognew.natt.cc/posts/2010-12-17-a-brand-new-index/</guid><description>&lt;p&gt;&lt;a href="http://www.ifleea.com/963.html"&gt;&lt;img loading="lazy" decoding="async" style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="brand_new_index" border="0" alt="brand_new_index" src="https://blog.natt.cc/wp-content/uploads/2010/12/brand_new_index1.jpg" width="604" height="336" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今天，&lt;a href="http://www.ifleea.com"&gt;www.ifleea.com&lt;/a&gt; 已经换了一个全新的首页，当输入&lt;a href="http://www.ifleea.com"&gt;www.ifleea.com&lt;/a&gt;之后，会出现以上页面。&lt;/p&gt;
-&lt;p&gt;今天是2010年12月17日，就此记录一下。&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Index on Natt Blog</title>
+        <link>https://blognew.natt.cc/tags/index/</link>
+        <description>Recent content in Index on Natt Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 17 Dec 2010 14:38:00 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/index/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>A Brand New Index</title>
+            <link>https://blognew.natt.cc/posts/2010-12-17-a-brand-new-index/</link>
+            <pubDate>Fri, 17 Dec 2010 14:38:00 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2010-12-17-a-brand-new-index/</guid>
+            <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.ifleea.com/963.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;brand_new_index&#34; border=&#34;0&#34; alt=&#34;brand_new_index&#34; src=&#34;https://blog.natt.cc/wp-content/uploads/2010/12/brand_new_index1.jpg&#34; width=&#34;604&#34; height=&#34;336&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;今天，&lt;a class=&#34;link&#34; href=&#34;http://www.ifleea.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;www.ifleea.com&lt;/a&gt; 已经换了一个全新的首页，当输入&lt;a class=&#34;link&#34; href=&#34;http://www.ifleea.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;www.ifleea.com&lt;/a&gt;之后，会出现以上页面。&lt;/p&gt;&#xA;&lt;p&gt;今天是2010年12月17日，就此记录一下。&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
