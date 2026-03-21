@@ -1,15 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Football on Natt Blog</title>
-        <link>https://blognew.natt.cc/tags/football/</link>
-        <description>Recent content in Football on Natt Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 18 Jun 2018 03:46:39 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/football/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>踢球这件事</title>
-            <link>https://blognew.natt.cc/posts/2018-06-18-%E8%B8%A2%E7%90%83%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/</link>
-            <pubDate>Mon, 18 Jun 2018 03:46:39 +0000</pubDate>
-            <guid>https://blognew.natt.cc/posts/2018-06-18-%E8%B8%A2%E7%90%83%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/</guid>
-            <description>&lt;img src=&#34;https://blognew.natt.cc/&#34; alt=&#34;Featured image of post 踢球这件事&#34; /&gt;&lt;p&gt;这两天世界杯激战正酣，而我所在球队的比赛却因各种原因输球而告一段落。&lt;/p&gt;&#xA;&lt;p&gt;个人层面，昨日比赛确实郁闷，久违的异常的憋闷。竞技体育就是这样，当那个球就在你20米外，当你和对手一起跑，就是跑不过，这样简单纯粹的身体与生理层面的竞争，很大程度上是我们很难从其他渠道获得的感受，无论好坏。 这两年踢球频繁被大学刚毕业的对手虐，就如同若干年前我虐其他对手一样。 简单粗暴的感受。&lt;/p&gt;&#xA;&lt;p&gt;队伍层面，昨日比赛确实看得出队伍的差距，这种差距就是各种传切配合与毫无阵脚与章法的对比。 平日队伍的磨合与练习绝非赛前部署或微信群里聊几句就能说明白。 这个角度来看，付出与努力的因果关系，从另一个角度来看也是一种简单粗暴，简单粗暴到一两脚就能看出一支队伍平日的训练。&lt;/p&gt;&#xA;&lt;p&gt;足球的魅力啊，让人惆怅。&lt;/p&gt;&#xA;</description>
-        </item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Football on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/football/</link>
+    <description>Recent content in Football on Natt Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jun 2018 03:46:39 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/football/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>踢球这件事</title>
+      <link>https://blognew.natt.cc/posts/2018-06-18-%E8%B8%A2%E7%90%83%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/</link>
+      <pubDate>Mon, 18 Jun 2018 03:46:39 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2018-06-18-%E8%B8%A2%E7%90%83%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/</guid>
+      <description>&lt;p&gt;这两天世界杯激战正酣，而我所在球队的比赛却因各种原因输球而告一段落。&lt;/p&gt;&#xA;&lt;p&gt;个人层面，昨日比赛确实郁闷，久违的异常的憋闷。竞技体育就是这样，当那个球就在你20米外，当你和对手一起跑，就是跑不过，这样简单纯粹的身体与生理层面的竞争，很大程度上是我们很难从其他渠道获得的感受，无论好坏。 这两年踢球频繁被大学刚毕业的对手虐，就如同若干年前我虐其他对手一样。 简单粗暴的感受。&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

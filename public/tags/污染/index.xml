@@ -1,15 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>污染 on Natt Blog</title>
-        <link>https://blognew.natt.cc/tags/%E6%B1%A1%E6%9F%93/</link>
-        <description>Recent content in 污染 on Natt Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Thu, 22 Oct 2009 15:55:00 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/%E6%B1%A1%E6%9F%93/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>中国的污染——卢广</title>
-            <link>https://blognew.natt.cc/posts/2009-10-22-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B1%A1%E6%9F%93%E5%8D%A2%E5%B9%BF/</link>
-            <pubDate>Thu, 22 Oct 2009 15:55:00 +0000</pubDate>
-            <guid>https://blognew.natt.cc/posts/2009-10-22-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B1%A1%E6%9F%93%E5%8D%A2%E5%B9%BF/</guid>
-            <description>&lt;p&gt;推荐卢广的摄影作品集：关注中国污染。&lt;/p&gt;&#xA;&lt;p&gt;地址：&lt;a class=&#34;link&#34; href=&#34;http://image.fengniao.com/vision/vision.php?id=122&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;http://image.fengniao.com/vision/vision.php?id=122&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;真可谓张张图片触目惊心。&lt;/p&gt;&#xA;&lt;p&gt;尤金．史密斯人道主义摄影奖公布结果&lt;/p&gt;&#xA;&lt;p&gt;，获奖者是来自中国的摄影师卢广；凭借《中国的污染》专题，他成为中国内地受此嘉奖的第一人。&lt;/p&gt;&#xA;&lt;p&gt;把自己国家的丑展示给全世界看，ZF不开心；但是如果不把这丑展示出来,受苦蒙冤的是谁？卢广坦承自己最初的摄影目标是为了钱和得奖，但是我相信任何人在看到图片后都会有超越金钱和荣誉的思考，何况摄影师本人？&lt;/p&gt;&#xA;&lt;p&gt;轰轰烈烈的GDP，轰轰烈烈的污染…&lt;/p&gt;</description>
-        </item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>污染 on Natt Blog</title>
+    <link>https://blognew.natt.cc/tags/%E6%B1%A1%E6%9F%93/</link>
+    <description>Recent content in 污染 on Natt Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2009 15:55:00 +0000</lastBuildDate>
+    <atom:link href="https://blognew.natt.cc/tags/%E6%B1%A1%E6%9F%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中国的污染——卢广</title>
+      <link>https://blognew.natt.cc/posts/2009-10-22-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B1%A1%E6%9F%93%E5%8D%A2%E5%B9%BF/</link>
+      <pubDate>Thu, 22 Oct 2009 15:55:00 +0000</pubDate>
+      <guid>https://blognew.natt.cc/posts/2009-10-22-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B1%A1%E6%9F%93%E5%8D%A2%E5%B9%BF/</guid>
+      <description>&lt;p&gt;推荐卢广的摄影作品集：关注中国污染。&lt;/p&gt;&#xA;&lt;p&gt;地址：&lt;a href=&#34;http://image.fengniao.com/vision/vision.php?id=122&#34;&gt;http://image.fengniao.com/vision/vision.php?id=122&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;真可谓张张图片触目惊心。&lt;/p&gt;&#xA;&lt;p&gt;尤金．史密斯人道主义摄影奖公布结果&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
