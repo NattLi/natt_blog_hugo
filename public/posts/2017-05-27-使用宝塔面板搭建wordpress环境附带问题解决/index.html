@@ -16,9 +16,10 @@
 <meta property='og:description' content="之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。\n无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。\n">
 <meta property='og:url' content='https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/'>
 <meta property='og:site_name' content='Natt Blog'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='btcn' /><meta property='article:tag' content='Nginx404' /><meta property='article:tag' content='wordpress' /><meta property='article:tag' content='wordpress环境' /><meta property='article:tag' content='宝塔面板' /><meta property='article:tag' content='宝塔面板设置wordpress' /><meta property='article:tag' content='百度云服务器' /><meta property='article:published_time' content='2017-05-27T03:26:53&#43;00:00'/><meta property='article:modified_time' content='2017-05-27T03:26:53&#43;00:00'/>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='btcn' /><meta property='article:tag' content='Nginx404' /><meta property='article:tag' content='wordpress' /><meta property='article:tag' content='wordpress环境' /><meta property='article:tag' content='宝塔面板' /><meta property='article:tag' content='宝塔面板设置wordpress' /><meta property='article:tag' content='百度云服务器' /><meta property='article:published_time' content='2017-05-27T03:26:53&#43;00:00'/><meta property='article:modified_time' content='2017-05-27T03:26:53&#43;00:00'/><meta property='og:image' content='https://blognew.natt.cc/' />
 <meta name="twitter:title" content="使用宝塔面板搭建wordpress环境附带问题解决">
-<meta name="twitter:description" content="之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。\n无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。\n"><link rel="alternate" type="application/json" href="https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/index.json">
+<meta name="twitter:description" content="之前我的网站使用了主机宝面板，但一直被CC搞得我很头大，虽然用360CDN防了一层，但还是有漏网之鱼。\n无意间又发现了一个面板，即BT（宝塔），小博客服务器试用之后决定主站也更换，主要是更加的零基础友好。确实好用。\n"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://blognew.natt.cc/' /><link rel="alternate" type="application/json" href="https://blognew.natt.cc/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/index.json">
     </head>
     <body class="
     article-page
@@ -149,6 +150,12 @@
             <main class="main full-width">
     <article class="has-image main-article">
     <header class="article-header">
+    <div class="article-image">
+        <a href="/posts/2017-05-27-%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BAwordpress%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/">
+            <img alt="Featured image of post 使用宝塔面板搭建wordpress环境附带问题解决" height="338" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/wp-content/uploads/2017/05/wp.jpg" width="600">
+        </a>
+    </div>
+    
 
     <div class="article-details">
     
@@ -245,24 +252,24 @@
 <li>确认wordpress伪静态</li>
 </ol>
 <p>在网站设置面板的“伪静态”里，直接选择“wordpress”即可，简单粗暴</p>
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-1334" src="https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_4.png" alt="" width="666" height="580" srcset="https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_4.png 666w, https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_4-350x305.png 350w, https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_4-300x261.png 300w" sizes="auto, (max-width: 666px) 100vw, 666px" /> 
+<img loading="lazy" decoding="async" class="alignnone size-full wp-image-1334" src="/wp-content/uploads/2017/05/Snip20170527_4.png" alt="" width="666" height="580" srcset="/wp-content/uploads/2017/05/Snip20170527_4.png 666w, /wp-content/uploads/2017/05/Snip20170527_4-350x305.png 350w, /wp-content/uploads/2017/05/Snip20170527_4-300x261.png 300w" sizes="auto, (max-width: 666px) 100vw, 666px" /> 
 <ol>
 <li>还原wordpress自带的404<br>
 由于nginx的404页面非常不友好，所以需要回复，比起其他面板的修改，宝塔的只需要在面板可视化的配置文件里改即可，具体做法是吧error_page 404 前面用#注释掉即可 如图：</li>
 </ol>
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-1338" src="https://blog.natt.cc/wp-content/uploads/2017/05/404.png" alt="" width="620" height="558" srcset="https://blog.natt.cc/wp-content/uploads/2017/05/404.png 620w, https://blog.natt.cc/wp-content/uploads/2017/05/404-350x315.png 350w, https://blog.natt.cc/wp-content/uploads/2017/05/404-300x270.png 300w" sizes="auto, (max-width: 620px) 100vw, 620px" /> 
+<img loading="lazy" decoding="async" class="alignnone size-full wp-image-1338" src="/wp-content/uploads/2017/05/404.png" alt="" width="620" height="558" srcset="/wp-content/uploads/2017/05/404.png 620w, /wp-content/uploads/2017/05/404-350x315.png 350w, /wp-content/uploads/2017/05/404-300x270.png 300w" sizes="auto, (max-width: 620px) 100vw, 620px" /> 
 <p> </p>
 <ol>
 <li>设置流量限制解决CC</li>
 </ol>
 <p>简单粗暴如图：<br>
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-1332" src="https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_10.png" alt="" width="627" height="561" srcset="https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_10.png 627w, https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_10-350x313.png 350w, https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_10-300x268.png 300w" sizes="auto, (max-width: 627px) 100vw, 627px" /></p>
+<img loading="lazy" decoding="async" class="alignnone size-full wp-image-1332" src="/wp-content/uploads/2017/05/Snip20170527_10.png" alt="" width="627" height="561" srcset="/wp-content/uploads/2017/05/Snip20170527_10.png 627w, /wp-content/uploads/2017/05/Snip20170527_10-350x313.png 350w, /wp-content/uploads/2017/05/Snip20170527_10-300x268.png 300w" sizes="auto, (max-width: 627px) 100vw, 627px" /></p>
 <p>具体并发数和限制根据自己服务器情况设置即可。</p>
 <ol>
 <li>设置自动备份</li>
 </ol>
 <p>全傻瓜化自动备份，还可以选择备份存放在七牛云或者阿里云OSS，这个网站较大所以我选择放在本地服务器<br>
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-1330" src="https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_12.png" alt="" width="541" height="541" srcset="https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_12.png 541w, https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_12-350x350.png 350w, https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_12-150x150.png 150w, https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_12-70x70.png 70w, https://blog.natt.cc/wp-content/uploads/2017/05/Snip20170527_12-300x300.png 300w" sizes="auto, (max-width: 541px) 100vw, 541px" /></p>
+<img loading="lazy" decoding="async" class="alignnone size-full wp-image-1330" src="/wp-content/uploads/2017/05/Snip20170527_12.png" alt="" width="541" height="541" srcset="/wp-content/uploads/2017/05/Snip20170527_12.png 541w, /wp-content/uploads/2017/05/Snip20170527_12-350x350.png 350w, /wp-content/uploads/2017/05/Snip20170527_12-150x150.png 150w, /wp-content/uploads/2017/05/Snip20170527_12-70x70.png 70w, /wp-content/uploads/2017/05/Snip20170527_12-300x300.png 300w" sizes="auto, (max-width: 541px) 100vw, 541px" /></p>
 <hr>
 <p>自此，完美的通过宝塔面板搭建wordpress环境并解决相应问题。</p>
 <p>希望能帮到小白。</p>
@@ -329,22 +336,32 @@
 </article>
             
                 
-<article class="">
+<article class="has-image">
     <a href="/posts/2009-03-29-%E6%9C%AC%E5%91%A8%E6%9C%80%E4%BD%B3%E8%A1%A8%E6%83%85/">
         
+        <div class="article-image">
+            <img alt="Featured image of post 本周最佳表情" height="88" loading="lazy" src="/wp-content/uploads/2009/03/448rnafh898zcoq4se4.gif" width="85">
 
-        <div class="article-details">
+        </div>
+        
+
+        <div class="article-details"style="background: linear-gradient(0deg, #f5ab3c80 0%, #f6f1e2C0 100%);">
             <h2 class="article-title">本周最佳表情</h2>
         </div>
     </a>
 </article>
             
                 
-<article class="">
+<article class="has-image">
     <a href="/posts/2008-12-17-%E5%BB%BA%E7%AB%992%E5%A4%A9%E6%98%AF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BC%80%E5%A7%8B%E6%94%B6%E5%BD%95%E6%88%91%E4%BA%86/">
         
+        <div class="article-image">
+            <img alt="Featured image of post 建站2天，搜索引擎开始收录我了" height="110" loading="lazy" src="/wp-content/uploads/2008/12/2222222222.jpg" width="773">
 
-        <div class="article-details">
+        </div>
+        
+
+        <div class="article-details"style="background: linear-gradient(0deg, #525b6880 0%, #edf2f6C0 100%);">
             <h2 class="article-title">建站2天，搜索引擎开始收录我了</h2>
         </div>
     </a>
