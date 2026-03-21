@@ -30,6 +30,6 @@ Windows Live Writer 支持WP，为了不至于使自己落伍
 
 &#160;
 
-[<img loading="lazy" decoding="async" title="DSCF5406" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="197" alt="DSCF5406" src="https://blog.natt.cc/wp-content/uploads/2008/12/dscf5406-thumb.jpg" width="244" border="0" />][1]
+[<img loading="lazy" decoding="async" title="DSCF5406" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="197" alt="DSCF5406" src="/wp-content/uploads/2008/12/dscf5406-thumb.jpg" width="244" border="0" />][1]
 
- [1]: https://blog.natt.cc/wp-content/uploads/2008/12/dscf5406.jpg
+ [1]: /wp-content/uploads/2008/12/dscf5406.jpg

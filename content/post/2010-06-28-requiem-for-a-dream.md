@@ -9,7 +9,7 @@ tags: ["Requiem for a Dream", "生命"]
 ---
 
 
-[<img loading="lazy" decoding="async" title="p458520039" style="border-right: 0px; border-top: 0px; display: inline; margin-left: 0px; border-left: 0px; margin-right: 0px; border-bottom: 0px" height="337" alt="p458520039" src="https://blog.natt.cc/wp-content/uploads/2010/06/p458520039_thumb.jpg" width="600" border="0" />][1] 
+[<img loading="lazy" decoding="async" title="p458520039" style="border-right: 0px; border-top: 0px; display: inline; margin-left: 0px; border-left: 0px; margin-right: 0px; border-bottom: 0px" height="337" alt="p458520039" src="/wp-content/uploads/2010/06/p458520039_thumb.jpg" width="600" border="0" />][1] 
 
 考完雅思第二天终于忙里偷闲看了一部好电影。豆瓣上看到YUN同学的“看过”，YUN同学的品位是不同质疑的。于是毅然决然找到比较高清的版本，下午一人坐在宿舍看完这部电影。 不得不说这种看完不知道它确切要表达的东西却又使人不禁思考下去，这样的电影才是好东西。
 
@@ -27,4 +27,4 @@ tags: ["Requiem for a Dream", "生命"]
 
 生命是复杂的，能说出一些生命内在东西的，也必然是超越任何形式的，形式只能成为内涵的羁绊，但必须有一个形式来承载内涵。那么就不难理解为什么我看了，我动容了，但我却说不出。
 
- [1]: https://blog.natt.cc/wp-content/uploads/2010/06/p458520039.jpg
+ [1]: /wp-content/uploads/2010/06/p458520039.jpg

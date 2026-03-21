@@ -18,7 +18,7 @@ tags: ["Github", "Jekyll", "Jekyll绑定域名"]
 
 步骤一，配置域名
 
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-6036" src="https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_2.png" alt="" width="733" height="395" srcset="https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_2.png 733w, https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_2-450x242.png 450w, https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_2-600x323.png 600w, https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_2-300x162.png 300w" sizes="auto, (max-width: 733px) 100vw, 733px" /> 
+<img loading="lazy" decoding="async" class="alignnone size-full wp-image-6036" src="/wp-content/uploads/2018/01/Snip20180119_2.png" alt="" width="733" height="395" srcset="/wp-content/uploads/2018/01/Snip20180119_2.png 733w, /wp-content/uploads/2018/01/Snip20180119_2-450x242.png 450w, /wp-content/uploads/2018/01/Snip20180119_2-600x323.png 600w, /wp-content/uploads/2018/01/Snip20180119_2-300x162.png 300w" sizes="auto, (max-width: 733px) 100vw, 733px" /> 
 
 &nbsp;
 
@@ -28,7 +28,7 @@ tags: ["Github", "Jekyll", "Jekyll绑定域名"]
 
 步骤二，添加一个CNAME文件
 
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-6038" src="https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_3.png" alt="" width="346" height="68" srcset="https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_3.png 346w, https://blog.natt.cc/wp-content/uploads/2018/01/Snip20180119_3-300x59.png 300w" sizes="auto, (max-width: 346px) 100vw, 346px" /> 
+<img loading="lazy" decoding="async" class="alignnone size-full wp-image-6038" src="/wp-content/uploads/2018/01/Snip20180119_3.png" alt="" width="346" height="68" srcset="/wp-content/uploads/2018/01/Snip20180119_3.png 346w, /wp-content/uploads/2018/01/Snip20180119_3-300x59.png 300w" sizes="auto, (max-width: 346px) 100vw, 346px" /> 
 
 在网站根目录新建一个 CNAME 文件，无后缀名，打开后填入你配置的域名，保存即可。
 

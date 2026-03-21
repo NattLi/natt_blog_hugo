@@ -9,7 +9,7 @@ tags: ["strike back", "strikeback", "反击第二季"]
 ---
 
 
-<img loading="lazy" decoding="async" style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Strike.Back" border="0" alt="Strike.Back" src="https://blog.natt.cc/wp-content/uploads/2011/12/Strike.Back_.jpg" width="600" height="338" />
+<img loading="lazy" decoding="async" style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Strike.Back" border="0" alt="Strike.Back" src="/wp-content/uploads/2011/12/Strike.Back_.jpg" width="600" height="338" />
 
 &nbsp;
 

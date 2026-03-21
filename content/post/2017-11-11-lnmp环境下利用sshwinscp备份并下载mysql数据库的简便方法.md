@@ -38,7 +38,7 @@ MySQL数据库导出
 
 在操作过程中并没有找到路径，如下图：
 
-<img loading="lazy" decoding="async" class="alignnone wp-image-1466 size-full" src="https://blog.natt.cc/wp-content/uploads/2017/11/Snip20171111_378.png" alt="" width="558" height="37" srcset="https://blog.natt.cc/wp-content/uploads/2017/11/Snip20171111_378.png 558w, https://blog.natt.cc/wp-content/uploads/2017/11/Snip20171111_378-350x23.png 350w, https://blog.natt.cc/wp-content/uploads/2017/11/Snip20171111_378-300x20.png 300w" sizes="auto, (max-width: 558px) 100vw, 558px" /> 
+<img loading="lazy" decoding="async" class="alignnone wp-image-1466 size-full" src="/wp-content/uploads/2017/11/Snip20171111_378.png" alt="" width="558" height="37" srcset="/wp-content/uploads/2017/11/Snip20171111_378.png 558w, /wp-content/uploads/2017/11/Snip20171111_378-350x23.png 350w, /wp-content/uploads/2017/11/Snip20171111_378-300x20.png 300w" sizes="auto, (max-width: 558px) 100vw, 558px" /> 
 
 于是在winSCP里搜索了一下，找到了新的路径  
 /www/server/mysql/bin/mysqldump
