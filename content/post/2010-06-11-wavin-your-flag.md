@@ -4,8 +4,15 @@ title: "WAVIN' YOUR FLAG"
 author: Natt
 date: 2010-06-11T03:29:00+00:00
 aliases: ["/850.html"]
-categories: ["生活"]
-tags: ["WAVING YOUR FLAG", "世界杯", "世界杯主题曲"]
+description: ""
+categories:
+  - "碎片与日常"
+tags:
+  - "小哥"
+  - "可爱"
+  - "世界杯"
+  - "享受"
+
 ---
 
 

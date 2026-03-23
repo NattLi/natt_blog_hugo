@@ -4,8 +4,15 @@ title: Requiem for a Dream
 author: Natt
 date: 2010-06-28T09:57:00+00:00
 aliases: ["/857.html"]
-categories: ["艺术"]
-tags: ["Requiem for a Dream", "生命"]
+description: ""
+categories:
+  - "碎片与日常"
+tags:
+  - "肉体"
+  - "电影"
+  - "精神"
+  - "豆瓣"
+
 ---
 
 

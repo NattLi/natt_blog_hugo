@@ -4,8 +4,15 @@ title: Android+BumpTop 期待交互设计的奇迹
 author: Natt
 date: 2010-10-21T15:27:00+00:00
 aliases: ["/912.html"]
-categories: ["思考", "网络"]
-tags: ["Android", "Android+BumpTop", "BumpTop", "Google", "google收购BumpTop"]
+description: ""
+categories:
+  - "技术与设计"
+tags:
+  - "平板"
+  - "交互"
+  - "界面"
+  - "视频"
+
 ---
 
 

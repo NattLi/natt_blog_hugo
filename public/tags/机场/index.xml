@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>机场 on Natt Blog</title>
+        <link>https://blognew.natt.cc/tags/%E6%9C%BA%E5%9C%BA/</link>
+        <description>Recent content in 机场 on Natt Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/%E6%9C%BA%E5%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>新西兰旅游随记Day12</title>
+            <link>https://blognew.natt.cc/posts/2023-05-20-day12/</link>
+            <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2023-05-20-day12/</guid>
+            <description>&lt;p&gt;&lt;em&gt;day12 指的是 0514&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;开启返程&lt;/p&gt;&#xA;&lt;p&gt;早上ZQN-AKL.&lt;/p&gt;&#xA;&lt;p&gt;下午Auckland进城去Eden华人区吃大鼓米线玩playground.天黑打车遭遇窘境，在Auckland街头莫名其妙Uber又不给派车了，站在街头打不到车。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;奥克兰eden区聚长安餐厅&#34; loading=&#34;lazy&#34; sizes=&#34;(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px&#34; src=&#34;https://blognew.natt.cc/images/202305/akl-changan.jpg&#34;&gt;&#xA;一回头，身后店铺名叫“聚长安”，还真NMD是一种讽刺，身在奥克兰，一万公里之外的异国他乡，机场前最后一站竟然是家乡长安。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;奥克兰机场的啤酒&#34; loading=&#34;lazy&#34; sizes=&#34;(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px&#34; src=&#34;https://blognew.natt.cc/images/202305/aklbeer.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;晚上在机场登机前，终于用上了某张卡所能用的贵宾室，放下了旅途中一切的波折，安安静静喝了两瓶加了冰块的小啤酒，整个人都松了下来，这可能是旅途中最舒服的一点酒精摄入，讽刺的是竟然是在机场。&lt;/p&gt;&#xA;&lt;p&gt;崽在休息室里玩了会玩具间后出来说，我玩好了。那时候感觉孩子真的长大了，3岁多就跟着父母远赴他乡，虽然是游玩但经历了太多辛苦和波折，机场休息室中爸爸来杯啤酒孩子自己短暂照顾一下自己的感觉，真的还是非常让为父欣慰的。&lt;/p&gt;&#xA;&lt;p&gt;在AKL机场，心早已回到国内那烂糟糟却又熟悉的生活轨迹。&lt;/p&gt;&#xA;&lt;p&gt;旅途下来，NZ的美景可能已经于地球观止了，但NZ的生活却不见得。后面再慢谈吧。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;旅行随记完结。&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;于0520补。&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>顺手给blog的VPS装个SSR</title>
+            <link>https://blognew.natt.cc/posts/2023-01-11-%E9%A1%BA%E6%89%8B%E7%BB%99blog%E7%9A%84vps%E8%A3%85%E4%B8%AAssr/</link>
+            <pubDate>Wed, 11 Jan 2023 07:49:34 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2023-01-11-%E9%A1%BA%E6%89%8B%E7%BB%99blog%E7%9A%84vps%E8%A3%85%E4%B8%AAssr/</guid>
+            <description>&lt;img src=&#34;https://blognew.natt.cc/&#34; alt=&#34;Featured image of post 顺手给blog的VPS装个SSR&#34; /&gt;&lt;p&gt;对我来说，那个啥就是水和空气&lt;br&gt;&#xA;一般情况下，现在都在用大机场了，稳定性自然比自己弄个小鸡更好，并且还能为孩子的Disney+和Nintendo Service Online 服务提供必要的便利。&lt;/p&gt;&#xA;&lt;p&gt;但，为了防止一不小心的机场不稳而无法那个啥，甚至是机场流量到了忘了续费等情况，一个备用小鸡还是必要的。&lt;/p&gt;&#xA;&lt;p&gt;感谢互联网，几行代码就能完成，这里记录一下，方便自己后续&lt;/p&gt;&#xA;&lt;p&gt;安装环境以及teddysun的一键SSR代码 ↓&lt;br&gt;&#xA;&lt;code&gt;apt-get update -y &amp;amp;&amp;amp; apt-get install wget -y &amp;amp;&amp;amp; apt-get install curl -y&lt;/code&gt;&lt;br&gt;&#xA;&lt;code&gt;wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh&lt;/code&gt;&lt;br&gt;&#xA;&lt;code&gt;chmod +x shadowsocks-all.sh&lt;/code&gt;&lt;br&gt;&#xA;&lt;code&gt;./shadowsocks-all.sh 2&amp;gt;&amp;amp;1 | tee shadowsocks-all.log&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;安装BBR加速 ↓&lt;br&gt;&#xA;&lt;code&gt;wget -N --no-check-certificate &amp;quot;https://gist.github.com/zeruns/a0ec603f20d1b86de6a774a8ba27588f/raw/4f9957ae23f5efb2bb7c57a198ae2cffebfb1c56/tcp.sh&amp;quot; &amp;amp;&amp;amp; chmod +x tcp.sh &amp;amp;&amp;amp; ./tcp.sh&lt;/code&gt;&lt;br&gt;&#xA;&lt;code&gt;./tcp.sh&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;最后，别忘了开防火墙对应的SSR端口，重启，完事。&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>再见，我的小zi</title>
+            <link>https://blognew.natt.cc/posts/2011-01-03-%E5%86%8D%E8%A7%81%E6%88%91%E7%9A%84%E5%B0%8Fzi/</link>
+            <pubDate>Mon, 03 Jan 2011 15:17:00 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2011-01-03-%E5%86%8D%E8%A7%81%E6%88%91%E7%9A%84%E5%B0%8Fzi/</guid>
+            <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blognew.natt.cc/wp-content/uploads/2011/01/zippo.jpg&#34; &gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; style=&#34;border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px&#34; title=&#34;zippo&#34; border=&#34;0&#34; alt=&#34;zippo&#34; src=&#34;https://blognew.natt.cc/wp-content/uploads/2011/01/zippo_thumb.jpg&#34; width=&#34;604&#34; height=&#34;404&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;2011年1月2日，哥的小zippo被留在了南京禄口机场。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;哥永远都忘不了那个方框眼镜MM笑着对我说打火机请拿出来，然后又对我笑了笑。&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

@@ -3,6 +3,13 @@ layout:     post
 title:      Defeating Art, Perhaps Only Art Itself Can Achieve That
 date:       2024-02-01
 image: /images/202402/eng-defeat-art.jpg
+description: ""
+author: "Natt"
+categories:
+  - "技术与设计"
+tags:
+  - "随笔"
+
 ---
 Let's discuss an incident that occurred yesterday. Yesterday at the Louvre, the Mona Lisa was splashed with pumpkin soup by two protesters. Subsequently, they spoke in front of the artwork, posing the question: What is more important - art or the right to access healthy and sustainable food? This incident intrigued me, making me feel that these protesters are truly masters of art because their method of protesting against art is, ironically, an artistic expression itself.
 

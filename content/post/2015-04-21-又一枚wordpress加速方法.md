@@ -4,8 +4,15 @@ title: 又一枚WordPress加速方法
 author: Natt
 date: 2015-04-21T15:22:00+00:00
 aliases: ["/1259.html"]
-categories: ["建站日志", "网络"]
-tags: ["wordpress加速", "七牛", "七牛云加速"]
+description: ""
+categories:
+  - "技术与设计"
+tags:
+  - "加速"
+  - "插件"
+  - "静态"
+  - "网站"
+
 ---
 
 

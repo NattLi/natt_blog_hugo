@@ -4,8 +4,15 @@ title: Smells Like a Miracle
 author: Natt
 date: 2010-12-31T04:45:00+00:00
 aliases: ["/968.html"]
-categories: ["思考"]
-tags: ["2010", "IELTS", "momo", "雅思"]
+description: ""
+categories:
+  - "碎片与日常"
+tags:
+  - "放弃"
+  - "回顾"
+  - "暴走"
+  - "黑底白字"
+
 ---
 
 

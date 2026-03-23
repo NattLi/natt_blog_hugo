@@ -4,8 +4,15 @@ title: A Brand New Index
 author: Natt
 date: 2010-12-17T14:38:00+00:00
 aliases: ["/963.html"]
-categories: ["建站日志"]
-tags: ["index", "建站日志", "引导页"]
+description: ""
+categories:
+  - "碎片与日常"
+tags:
+  - "页面"
+  - "输入"
+  - "记录"
+  - "出现"
+
 ---
 
 

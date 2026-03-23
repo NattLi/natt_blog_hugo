@@ -3,6 +3,16 @@ layout:     post
 title:      两平方米的奥尔特云
 date:       2025-11-19
 image: /images/202511/oortcloud.jpg
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "彗星"
+  - "天体"
+  - "引力"
+  - "太阳系"
+
 ---
 #### 01
 

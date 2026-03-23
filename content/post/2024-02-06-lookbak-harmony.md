@@ -3,6 +3,16 @@ layout:     post
 title:      没有经历过[负振兴]的人生是不完整的，2023年度总结 [和谐版]
 date:       2024-02-01
 image: /images/202402/2023.jpg
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "展望"
+  - "振兴"
+  - "反向"
+  - "心态"
+
 ---
 #### 一些絮叨
 

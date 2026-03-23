@@ -2,6 +2,16 @@
 layout:     post
 title:      潜行者观后感：好奇心与勇气
 date:       2023-03-18
+description: ""
+author: "Natt"
+categories:
+  - "阅读与创作"
+tags:
+  - "科幻"
+  - "电影"
+  - "潜行者"
+  - "人类"
+
 ---
 
 

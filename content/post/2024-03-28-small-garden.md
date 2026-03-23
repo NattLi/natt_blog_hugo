@@ -3,6 +3,16 @@ layout:     post
 title:      谁还没有个小破地坛
 date:       2024-03-28
 image: /images/202403/xiaoyang.jpg
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "地坛"
+  - "公园"
+  - "笔下"
+  - "共情"
+
 ---
 
 ### 01

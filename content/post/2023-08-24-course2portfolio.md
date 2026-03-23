@@ -3,6 +3,16 @@ layout:     post
 title:      课程设计的项目能成为作品集的项目吗？
 date:       2023-08-24
 image: /images/202308/keshe-header.jpg
+description: ""
+author: "Natt"
+categories:
+  - "技术与设计"
+tags:
+  - "作品集"
+  - "项目"
+  - "侧重"
+  - "强调"
+
 ---
 在我的日常工作过程中，时常会遇到大三大四的小伙伴们询问：我的课程设计项目能不能当做作品集中的项目。
 

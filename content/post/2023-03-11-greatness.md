@@ -2,6 +2,16 @@
 layout:     post
 title:      生活在伟大里
 date:       2023-03-11
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "怀疑"
+  - "意识"
+  - "恶心感"
+  - "实感"
+
 ---
 
 

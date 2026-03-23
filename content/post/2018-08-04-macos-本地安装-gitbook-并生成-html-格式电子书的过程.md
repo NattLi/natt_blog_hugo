@@ -5,8 +5,15 @@ author: Natt
 date: 2018-08-04T08:55:28+00:00
 aliases: ["/6166.html"]
 image: "/wp-content/uploads/2018/08/gitbook.png"
-categories: ["技术"]
-tags: ["gitbook", "gitbook教程", "MAC", "MACOS"]
+description: ""
+categories:
+  - "技术与设计"
+tags:
+  - "文件夹"
+  - "安装"
+  - "粘入"
+  - "拷入"
+
 ---
 
 

@@ -3,6 +3,16 @@ layout:     post
 title:      至少，满江红还能传出来
 date:       2023-08-11
 image: /images/202308/river-red.jpeg
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "传颂"
+  - "能够"
+  - "诗作"
+  - "属实"
+
 ---
 看了电影满江红。
 

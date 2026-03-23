@@ -3,6 +3,16 @@ layout:     post
 title:      并没有宇宙
 date:       2025-04-27
 image: /images/202505/kanyuzhou.jpg
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "宇宙"
+  - "反思"
+  - "生命"
+  - "草民"
+
 ---
 
 托好友C君卖房跑路清库的福，偶然得到了基本他书架上的读物，今天读完了寺田寅彦的《山茶花中看宇宙》，读都读了，草草写几笔读后感吧。

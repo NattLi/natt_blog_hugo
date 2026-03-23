@@ -5,8 +5,15 @@ author: Natt
 date: 2018-01-19T06:02:27+00:00
 aliases: ["/6035.html"]
 image: "/wp-content/uploads/2018/01/jekyll-logo.png"
-categories: ["技术", "网络"]
-tags: ["Github", "Jekyll", "Jekyll绑定域名"]
+description: ""
+categories:
+  - "技术与设计"
+tags:
+  - "域名"
+  - "绑定"
+  - "记录"
+  - "配置"
+
 ---
 
 

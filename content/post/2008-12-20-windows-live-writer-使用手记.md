@@ -4,7 +4,15 @@ title: Windows Live Writer 使用手记
 author: Natt
 date: 2008-12-19T16:31:07+00:00
 aliases: ["/120.html"]
-categories: ["未分类"]
+description: ""
+categories:
+  - "技术与设计"
+tags:
+  - "预览"
+  - "测试"
+  - "图片"
+  - "用户界面"
+
 ---
 
 

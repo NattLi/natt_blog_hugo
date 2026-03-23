@@ -2,6 +2,16 @@
 layout:     post
 title:      AI能代替设计师....吗？
 date:       2023-03-22
+description: ""
+author: "Natt"
+categories:
+  - "技术与设计"
+tags:
+  - "设计"
+  - "同理"
+  - "软件"
+  - "设计师"
+
 ---
 
 ### AI 与真人

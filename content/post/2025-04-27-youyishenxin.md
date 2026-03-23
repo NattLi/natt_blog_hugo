@@ -3,6 +3,16 @@ layout:     post
 title:      虚伪的作品 有感
 date:       2025-04-27
 image: /images/202504/shenxinjiankang.jpg
+description: ""
+author: "Natt"
+categories:
+  - "阅读与创作"
+tags:
+  - "世界"
+  - "三体"
+  - "阅读"
+  - "精神"
+
 ---
 
 夜读余华《阅读有益身心健康》这一随笔集，寻得些许点感悟，怕它溜走，草草记录两笔。

@@ -4,8 +4,15 @@ title: strike back
 author: Natt
 date: 2011-12-18T21:22:00+00:00
 aliases: ["/1071.html"]
-categories: ["生活"]
-tags: ["strike back", "strikeback", "反击第二季"]
+description: ""
+categories:
+  - "阅读与创作"
+tags:
+  - "无敌"
+  - "英音"
+  - "美音"
+  - "镜头"
+
 ---
 
 

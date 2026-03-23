@@ -3,6 +3,16 @@ layout:     post
 title:      宇宙的价值观呢？ 银河帝国1·基地读书随笔
 date:       2023-08-25
 image: /images/202308/foundation-book.jpg
+description: ""
+author: "Natt"
+categories:
+  - "阅读与创作"
+tags:
+  - "地球"
+  - "价值观"
+  - "科幻"
+  - "人心"
+
 ---
 大意：端点星与其他王国间，没有因为宇宙的宏大而出现与地球价值观的偏离。甚至，依然在用地球计时，政变与篡位都是在卡24点这个地球意义上的零点。
 

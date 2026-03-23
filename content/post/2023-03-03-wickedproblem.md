@@ -2,6 +2,16 @@
 layout:     post
 title:      浅聊设计中的抗解问题 wicked problem
 date:       2023-03-03
+description: ""
+author: "Natt"
+categories:
+  - "技术与设计"
+tags:
+  - "抗解"
+  - "问题"
+  - "体验"
+  - "设计"
+
 ---
 
 ### 初识  

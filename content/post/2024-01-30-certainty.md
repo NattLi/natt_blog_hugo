@@ -3,6 +3,16 @@ layout:     post
 title:      SOP懂吗？
 date:       2024-01-30
 image: /images/202401/renri.jpg
+description: ""
+author: "Natt"
+categories:
+  - "技术与设计"
+tags:
+  - "个体"
+  - "人日"
+  - "社会"
+  - "上车"
+
 ---
 #### 一个个伟大的个体
 

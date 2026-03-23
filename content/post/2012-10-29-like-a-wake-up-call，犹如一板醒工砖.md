@@ -4,8 +4,15 @@ title: Like a Wake-Up Call，犹如一板醒工砖
 author: Natt
 date: 2012-10-29T11:11:00+00:00
 aliases: ["/1174.html"]
-categories: ["生活"]
-tags: ["独立", "西安"]
+description: ""
+categories:
+  - "碎片与日常"
+tags:
+  - "看不上"
+  - "没有"
+  - "压力"
+  - "养活"
+
 ---
 
 

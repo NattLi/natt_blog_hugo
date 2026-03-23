@@ -3,6 +3,16 @@ layout:     post
 title:      青轴（草稿箱 书写中）
 date:       2025-12-06
 image:      /images/202512/blueswitch.jpg
+description: ""
+author: "Natt"
+categories:
+  - "技术与设计"
+tags:
+  - "优派"
+  - "像是"
+  - "声音"
+  - "没有"
+
 ---
 
 ### 整体结构

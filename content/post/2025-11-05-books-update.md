@@ -3,6 +3,16 @@ layout:     post
 title:      2025年读书情况更新[截止1105]
 date:       2025-11-05
 image: /images/202511/books.jpg
+description: ""
+author: "Natt"
+categories:
+  - "阅读与创作"
+tags:
+  - "三体"
+  - "世界"
+  - "聊聊"
+  - "后续"
+
 ---
 这两天受伤静养，接续7月的盘点，在家更新近期读过的书吧，2025还剩下2个月，也算是给后续竖些flags.
 

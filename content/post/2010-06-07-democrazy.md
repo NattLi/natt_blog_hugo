@@ -4,8 +4,15 @@ title: Democrazy
 author: Natt
 date: 2010-06-06T16:32:30+00:00
 aliases: ["/845.html"]
-categories: ["思考"]
-tags: ["Democrazy", "GNR", "guns n roses", "youtube", "枪花"]
+description: ""
+categories:
+  - "碎片与日常"
+tags:
+  - "打动"
+  - "同学"
+  - "评论"
+  - "转歌"
+
 ---
 
 

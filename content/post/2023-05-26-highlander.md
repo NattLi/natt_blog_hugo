@@ -2,6 +2,16 @@
 layout:     post
 title:      NZ旅游回顾·聊聊那辆汉兰达吧
 date:       2023-05-26
+description: ""
+author: "Natt"
+categories:
+  - "技术与设计"
+tags:
+  - "丰田"
+  - "租车"
+  - "信心"
+  - "租用"
+
 ---
 
 今天来回顾一下在NZ时候租用的那辆汉兰达。

@@ -5,8 +5,15 @@ author: Natt
 date: 2017-08-04T08:26:37+00:00
 aliases: ["/1355.html"]
 image: "/wp-content/uploads/2017/08/lp.jpg"
-categories: ["生活", "艺术"]
-tags: ["gunsnroses", "Linkinparl", "可能是摇滚", "自杀", "青春", "音乐"]
+description: ""
+categories:
+  - "技术与设计"
+tags:
+  - "主唱"
+  - "音响"
+  - "嗓音"
+  - "搜索"
+
 ---
 
 

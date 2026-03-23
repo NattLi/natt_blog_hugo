@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>版本 on Natt Blog</title>
+        <link>https://blognew.natt.cc/tags/%E7%89%88%E6%9C%AC/</link>
+        <description>Recent content in 版本 on Natt Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/%E7%89%88%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>装GitBook请用低版本Node.js</title>
+            <link>https://blognew.natt.cc/posts/2024-04-16-gitbook-node10/</link>
+            <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2024-04-16-gitbook-node10/</guid>
+            <description>&lt;img src=&#34;https://blognew.natt.cc/&#34; alt=&#34;Featured image of post 装GitBook请用低版本Node.js&#34; /&gt;&lt;p&gt;在本地部署GitBook, 结果安装时候出现cb.apply报错。&lt;/p&gt;&#xA;&lt;p&gt;查阅了一些资料，发现是 node 版本太高（我装的是18.x 的LTS），于是删了 node 18, 重新装了  node 10.x 后，gitbook 顺利安装。&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>MAC OS 我不冲动 II</title>
+            <link>https://blognew.natt.cc/posts/2009-03-14-mac-os-%E6%88%91%E4%B8%8D%E5%86%B2%E5%8A%A8-ii/</link>
+            <pubDate>Sat, 14 Mar 2009 13:46:49 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2009-03-14-mac-os-%E6%88%91%E4%B8%8D%E5%86%B2%E5%8A%A8-ii/</guid>
+            <description>&lt;p&gt;　　在昨天发了&lt;a title=&#34;Permanent Link to MAC OS 我不冲动&#34; rel=&#34;bookmark&#34; href=&#34;https://blog.natt.cc/index.php/archives/372&#34;&gt;MAC OS 我不冲动&lt;/a&gt;一文之后，在打算下载安装程序的时候发现巨大的数据量和纤弱的宿舍网络形成巨大的对比。于是打算去淘宝购买。 淘宝搜索一番之后才发现昨天打算现在的版本不支持我的显卡，并且10.5.x系列的MAC OS 已经很成熟。在于淘宝老板一番学习探讨之后，我拍下了MAC OSX 10.5.6 版本的碟子。&lt;/p&gt;&#xA;&lt;p&gt;　　另外感谢博客上  衣不如新  网友对我的帮助，“tboot一般在安装之前就要设置好,另外分区方法很多,不一定非要在c盘和d盘之间”。今天在网上有看了一番。对这个令人欢喜令人忧的MAC OSX 有了更进一步的认识。我的博客上面留下的那两个学习链接有一定的作用，但是那些教程已经非常老了，最新的东西还要自己从别人的路中间不断总结，还有就是敢于把自己的电脑做小白鼠。&lt;/p&gt;&#xA;&lt;p&gt;　　买的光盘在周一才能到，这几天要做的就是等待And不断加强理论知识。并且把重要资料予以备份。&lt;/p&gt;&#xA;&lt;p&gt;　　我写这个MAC OS 系列博文的目的也在于记录自己安装MAC OS的过程中遇到的问题和解决的办法，另外也希望能对和我一样的渴望在PC安装MAC OS的草根们有所帮助。&lt;/p&gt;&#xA;&lt;p&gt;　　下次更新这个主题的博文应该是在周一或周二，我拿到盘之后初试安装的体会。&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

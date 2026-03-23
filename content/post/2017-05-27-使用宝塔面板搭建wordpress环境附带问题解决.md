@@ -5,8 +5,15 @@ author: Natt
 date: 2017-05-27T03:26:53+00:00
 aliases: ["/1329.html"]
 image: "/wp-content/uploads/2017/05/wp.jpg"
-categories: ["建站日志", "网络"]
-tags: ["btcn", "Nginx404", "wordpress", "wordpress环境", "宝塔面板", "宝塔面板设置wordpress", "百度云服务器"]
+description: ""
+categories:
+  - "技术与设计"
+tags:
+  - "面板"
+  - "备份"
+  - "服务器"
+  - "设置"
+
 ---
 
 

@@ -2,6 +2,16 @@
 layout:     post
 title:      没有文化的人不伤心
 date:       2024-07-12
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "独唱"
+  - "杂志"
+  - "时候"
+  - "锤子"
+
 ---
 
 

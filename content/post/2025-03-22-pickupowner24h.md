@@ -3,6 +3,16 @@ layout:     post
 title:      拔草皮卡·其二  作为皮卡车主的24小时
 date:       2025-03-22
 image: /images/202503/pickuppov.jpg
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "顿挫"
+  - "皮卡车"
+  - "路肩"
+  - "皮卡"
+
 ---
 
 ### NZ的皮卡见闻

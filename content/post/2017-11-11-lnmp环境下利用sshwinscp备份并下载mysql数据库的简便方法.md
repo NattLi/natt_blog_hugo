@@ -5,8 +5,15 @@ author: Natt
 date: 2017-11-11T06:07:24+00:00
 aliases: ["/1465.html"]
 image: "/wp-content/uploads/2017/11/maxresdefault222.jpg"
-categories: ["建站日志", "网络"]
-tags: ["Linux数据库导出", "LNMP", "MySQL数据库", "SSH备份数据库", "宝塔面板", "数据库导出"]
+description: ""
+categories:
+  - "技术与设计"
+tags:
+  - "数据库"
+  - "密码"
+  - "用户名"
+  - "文件名"
+
 ---
 
 

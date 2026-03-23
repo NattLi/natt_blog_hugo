@@ -2,6 +2,16 @@
 layout:     post
 title:      两筐免费的水果，我竟然不知道怎么拿
 date:       2023-05-16
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "水果"
+  - "结账"
+  - "牌子"
+  - "超市"
+
 ---
 
 刚到NZ第三天，就去了COUNTDOWN超市买些补给，水果区面对主动线的位置有个小牌子，下方有两个木筐内有各种水果，牌子上写着：FREE FRUIT FOR CHILDREN，筐内放的就是正常售卖的水果：橘子香蕉苹果什么的.

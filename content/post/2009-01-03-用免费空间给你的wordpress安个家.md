@@ -4,8 +4,15 @@ title: 用免费空间给你的wordpress安个家
 author: Natt
 date: 2009-01-02T17:57:00+00:00
 aliases: ["/176.html"]
-categories: ["未分类"]
-tags: ["freehost", "freewebhost", "wordpress空间", "免费空间"]
+description: ""
+categories:
+  - "技术与设计"
+tags:
+  - "域名"
+  - "支持"
+  - "服务器"
+  - "空间"
+
 ---
 
 

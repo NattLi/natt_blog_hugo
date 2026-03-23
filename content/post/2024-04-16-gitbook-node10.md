@@ -3,6 +3,16 @@ layout:     post
 title:      装GitBook请用低版本Node.js
 date:       2024-04-16
 image: /images/202404/node.jpg
+description: ""
+author: "Natt"
+categories:
+  - "技术与设计"
+tags:
+  - "安装"
+  - "报错"
+  - "查阅"
+  - "版本"
+
 ---
 
 在本地部署GitBook, 结果安装时候出现cb.apply报错。

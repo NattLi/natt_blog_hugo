@@ -4,8 +4,15 @@ title: Better Man
 author: Natt
 date: 2010-04-11T16:00:54+00:00
 aliases: ["/830.html"]
-categories: ["生活"]
-tags: ["betterman"]
+description: ""
+categories:
+  - "碎片与日常"
+tags:
+  - "红灯区"
+  - "抽风"
+  - "不到"
+  - "嫖客"
+
 ---
 
 

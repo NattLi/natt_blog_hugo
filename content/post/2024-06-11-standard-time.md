@@ -3,6 +3,16 @@ layout:     post
 title:      很多直觉的事情，并非自然
 date:       2024-06-11
 image: /images/pic_holder.jpg
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "时间"
+  - "标准"
+  - "划分"
+  - "佛莱明"
+
 ---
 
 

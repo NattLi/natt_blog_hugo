@@ -5,8 +5,15 @@ author: Natt
 date: 2017-11-22T01:35:52+00:00
 aliases: ["/1471.html"]
 image: "/wp-content/uploads/2017/11/Snip20171122_2.png"
-categories: ["生活", "网络"]
-tags: ["AI", "Google", "人工智能", "备份", "服", "照片", "黑科技"]
+description: ""
+categories:
+  - "碎片与日常"
+tags:
+  - "照片"
+  - "翻墙"
+  - "识别"
+  - "智能"
+
 ---
 
 

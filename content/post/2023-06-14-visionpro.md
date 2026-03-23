@@ -3,6 +3,16 @@ layout:     post
 title:      苹果新品VisionPro有点无聊？别急，给新用户一点时间
 date:       2023-06-21
 image: /images/202306/vision-pro-header.jpg
+description: ""
+author: "Natt"
+categories:
+  - "技术与设计"
+tags:
+  - "用户"
+  - "产品"
+  - "交互"
+  - "创新"
+
 ---
 首先，大家都已经知道了，苹果在几天前发布了 Vision Pro, 不是AR，不是VR，而是空间计算设备。很多人看起来就会说，这不就是一个VR或者AR吗，什么空间计算，果子又在玩概念了？
 

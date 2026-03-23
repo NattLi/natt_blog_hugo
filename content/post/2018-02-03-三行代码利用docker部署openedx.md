@@ -5,8 +5,15 @@ author: Natt
 date: 2018-02-03T10:35:59+00:00
 aliases: ["/6046.html"]
 image: "/wp-content/uploads/2018/02/WX20180203-182848.png"
-categories: ["技术", "网络"]
-tags: ["docker", "LMS", "openedx", "技术"]
+description: ""
+categories:
+  - "技术与设计"
+tags:
+  - "代码"
+  - "拉取"
+  - "镜像"
+  - "参考"
+
 ---
 
 

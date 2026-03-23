@@ -2,6 +2,16 @@
 layout:     post
 title:      NZ旅游思考·不同社会各有各的病
 date:       2023-05-26
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "问题"
+  - "社会"
+  - "赘述"
+  - "外卖"
+
 ---
 本文写于0526，从NZ旅行返回后不到两周，算是一种考察报告吧。
 

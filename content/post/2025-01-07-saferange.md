@@ -3,6 +3,16 @@ layout:     post
 title:      东北行记 2 · 零熵中年
 date:       2025-01-07
 image: /images/202501/midagehotpot.jpg
+description: ""
+author: "Natt"
+categories:
+  - "碎片与日常"
+tags:
+  - "注定"
+  - "男人"
+  - "小料"
+  - "篮球"
+
 ---
 
 这篇行记，不聊行，聊聊人。

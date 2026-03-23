@@ -5,8 +5,15 @@ author: Natt
 date: 2018-01-15T14:45:42+00:00
 aliases: ["/6026.html"]
 image: "/wp-content/uploads/2018/01/deepin.png"
-categories: ["技术"]
-tags: ["DeepIn"]
+description: ""
+categories:
+  - "碎片与日常"
+tags:
+  - "安装"
+  - "将源"
+  - "带宽"
+  - "用到"
+
 ---
 
 
