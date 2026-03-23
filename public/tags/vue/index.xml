@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Vue on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/vue/</link>
-    <description>Recent content in Vue on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 03 Mar 2022 15:26:07 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/vue/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>npm install 权限问题解决方法</title>
-      <link>https://blognew.natt.cc/posts/2022-03-03-npm-%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</link>
-      <pubDate>Thu, 03 Mar 2022 15:26:07 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2022-03-03-npm-%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</guid>
-      <description>&lt;p&gt;近期学习 vue&lt;br&gt;&#xA;刚刚上手，npm install 命令时候就遭遇了：&lt;/p&gt;&#xA;&lt;p&gt;npm ERR! The operation was rejected by your operating system.&lt;br&gt;&#xA;npm ERR! It is likely you do not have the permissions to access this file as the current user&lt;/p&gt;&#xA;&lt;p&gt;查阅资料后，借助YouTube这个视频解决了问题：&lt;/p&gt;</description>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Vue on Natt Blog</title>
+        <link>https://blognew.natt.cc/tags/vue/</link>
+        <description>Recent content in Vue on Natt Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 03 Mar 2022 15:26:07 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/vue/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>npm install 权限问题解决方法</title>
+            <link>https://blognew.natt.cc/posts/2022-03-03-npm-%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</link>
+            <pubDate>Thu, 03 Mar 2022 15:26:07 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2022-03-03-npm-%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</guid>
+            <description>&lt;img src=&#34;https://blognew.natt.cc/&#34; alt=&#34;Featured image of post npm install 权限问题解决方法&#34; /&gt;&lt;p&gt;近期学习 vue&lt;br&gt;&#xA;刚刚上手，npm install 命令时候就遭遇了：&lt;/p&gt;&#xA;&lt;p&gt;npm ERR! The operation was rejected by your operating system.&lt;br&gt;&#xA;npm ERR! It is likely you do not have the permissions to access this file as the current user&lt;/p&gt;&#xA;&lt;p&gt;查阅资料后，借助YouTube这个视频解决了问题：&lt;/p&gt;&#xA;&lt;p&gt;命令1：&lt;br&gt;&#xA;&lt;code&gt;ls -l&lt;/code&gt;&lt;br&gt;&#xA;查看各个文件属性，其实报错中可以看到是哪个文件权限不对&lt;/p&gt;&#xA;&lt;p&gt;命令2：&lt;br&gt;&#xA;&lt;code&gt;whoami&lt;/code&gt;&lt;br&gt;&#xA;查看一下自己目前账号&lt;/p&gt;&#xA;&lt;p&gt;命令3：&lt;br&gt;&#xA;&lt;code&gt;sudu chown USER_NAME FILENAME.TYPE&lt;/code&gt;&lt;br&gt;&#xA;以此把这个文件的所有权抓到自己手里&lt;/p&gt;&#xA;&lt;p&gt;问题解决。&lt;/p&gt;&#xA;</description>
+        </item></channel>
 </rss>

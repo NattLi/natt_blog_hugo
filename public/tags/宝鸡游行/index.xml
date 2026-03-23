@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>宝鸡游行 on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/%E5%AE%9D%E9%B8%A1%E6%B8%B8%E8%A1%8C/</link>
-    <description>Recent content in 宝鸡游行 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 23 Oct 2010 16:50:00 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/%E5%AE%9D%E9%B8%A1%E6%B8%B8%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>记住这个日子</title>
-      <link>https://blognew.natt.cc/posts/2010-10-24-%E8%AE%B0%E4%BD%8F%E8%BF%99%E4%B8%AA%E6%97%A5%E5%AD%90/</link>
-      <pubDate>Sat, 23 Oct 2010 16:50:00 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2010-10-24-%E8%AE%B0%E4%BD%8F%E8%BF%99%E4%B8%AA%E6%97%A5%E5%AD%90/</guid>
-      <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;公元2010年10月24日 星期日&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;宝鸡初中，高中全部上课，大学封校。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;原因不言而喻。&lt;/p&gt;</description>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>宝鸡游行 on Natt Blog</title>
+        <link>https://blognew.natt.cc/tags/%E5%AE%9D%E9%B8%A1%E6%B8%B8%E8%A1%8C/</link>
+        <description>Recent content in 宝鸡游行 on Natt Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 23 Oct 2010 16:50:00 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/%E5%AE%9D%E9%B8%A1%E6%B8%B8%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>记住这个日子</title>
+            <link>https://blognew.natt.cc/posts/2010-10-24-%E8%AE%B0%E4%BD%8F%E8%BF%99%E4%B8%AA%E6%97%A5%E5%AD%90/</link>
+            <pubDate>Sat, 23 Oct 2010 16:50:00 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2010-10-24-%E8%AE%B0%E4%BD%8F%E8%BF%99%E4%B8%AA%E6%97%A5%E5%AD%90/</guid>
+            <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;公元2010年10月24日 星期日&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;宝鸡初中，高中全部上课，大学封校。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;原因不言而喻。&lt;/p&gt;&#xA;</description>
+        </item></channel>
 </rss>

@@ -1,3014 +1,865 @@
 <!DOCTYPE html>
-<html lang="en-us">
-<head>
-	<meta name="generator" content="Hugo 0.158.0">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en-us" dir="ltr">
+    <head>
+	<meta name="generator" content="Hugo 0.158.0"><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="A blog about design, life, and technology.">
+<title>Page 21 - Natt Blog</title>
 
-    
+
+<link rel="canonical" href="https://blognew.natt.cc/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/scss/style.min.389e156f5e9bb13df5a924cfa99dfb9c39f3e01e68d9e146cd65bdae963be145.css"><meta property='og:title' content="Natt Blog">
+<meta property='og:description' content="A blog about design, life, and technology.">
+<meta property='og:url' content='https://blognew.natt.cc/'>
+<meta property='og:site_name' content='Natt Blog'>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-12-06T00:00:00&#43;00:00 '/>
+<meta name="twitter:title" content="Natt Blog">
+<meta name="twitter:description" content="A blog about design, life, and technology."><link rel="alternate" type="application/rss&#43;xml" href="https://blognew.natt.cc/index.xml">
+    </head>
+    <body class="">
     <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
     (function() {
-        
-        
-        const autoTheme = false;
-        if (autoTheme) {
-            document.documentElement.setAttribute('data-auto-theme', 'true');
-        }
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
 
-        const theme = localStorage.getItem('cleanwhite-theme') ||
-                      (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-        document.documentElement.setAttribute('data-theme', theme);
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
     })();
-    </script>
-
-    
-    <meta property="og:site_name" content="Natt Blog">
-    <meta property="og:type" content="article">
-
-    
-    <meta property="og:image" content="https://blognew.natt.cc//img/home-bg-jeep.jpg">
-    <meta property="twitter:image" content="https://blognew.natt.cc//img/home-bg-jeep.jpg" />
-    
-
-    
-    <meta name="title" content="" />
-    <meta property="og:title" content="" />
-    <meta property="twitter:title" content="" />
-    
-
-    
-    <meta name="description" content="A blog about design, life, and technology.">
-    <meta property="og:description" content="A blog about design, life, and technology." />
-    <meta property="twitter:description" content="A blog about design, life, and technology." />
-    
-
-    <meta property="og:url" content="https://blognew.natt.cc/" />
-
-    
-    <meta property="twitter:card" content="summary" />
-    
-    
-
-    <meta name="keyword"  content="Natt, Blog, Design, Technology, Life">
-    <link rel="shortcut icon" href="/img/favicon.ico">
-
-    <title>Natt Blog | Natt Blog</title>
-
-    <link rel="canonical" href="/">
-
-    
-
-    
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-
-    
-    <link rel="stylesheet" href="/css/hugo-theme-cleanwhite.css">
-
-    
-    <link rel="stylesheet" href="/css/theme-variables.css">
-
-    
-    <link rel="stylesheet" href="/css/zanshang.min.css">
-
-    
-    <link rel="stylesheet" href="/css/font-awesome.all.min.css">
-
-    
-    
-    
-    
-
-    
-    <script src="/js/jquery.min.js"></script>
-
-    
-    <script src="/js/bootstrap.min.js"></script>
-
-    
-    <script src="/js/hux-blog.min.js"></script>
-
-    
-    <script src="/js/lazysizes.min.js"></script>
-
-    
-    
-
-</head>
-
-
-
-
-
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-
-    <div class="container-fluid">
-        
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/">Natt Blog</a>
-        </div>
-
-        
-        
-        <div id="huxblog_navbar">
-            <div class="navbar-collapse">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="/">All Posts</a>
-                    </li>
-                    
-                        
-                        <li>
-                            <a href="/categories/coding/">coding</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E5%88%9B%E4%B8%9A/">创业</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E5%8C%97%E6%BC%82/">北漂</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E5%B0%8A%E7%BB%B0/">尊绰</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97/">建站日志</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E6%80%9D%E8%80%83/">思考</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E6%8A%80%E6%9C%AF/">技术</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E6%91%84%E5%BD%B1/">摄影</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E6%97%85%E8%A1%8C/">旅行</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/">未分类</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E7%94%9F%E6%B4%BB/">生活</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E7%BD%91%E7%BB%9C/">网络</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E8%89%BA%E6%9C%AF/">艺术</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E8%A7%82%E5%AF%9F/">观察</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E8%AE%BE%E8%AE%A1/">设计</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">读书笔记</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E9%9F%B3%E4%B9%90/">音乐</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/%E9%A3%9F%E7%89%A9/">食物</a>
-                        </li>
-                        
-                    
-
-		    
-                        <li><a href="/archives//">Archives</a></li>
-                    
-                        <li><a href="/search//">Search</a></li>
-                    
-		            <li>
-                        <a href="/search"><i class="fa fa-search"></i></a>
-		           </li>
-                    
-		            <li>
-                        <a href="#" id="theme-toggle" title="Toggle dark mode" style="opacity: 0;">
-                            <i class="fa fa-moon"></i>
-                            <i class="fa fa-sun" style="display: none;"></i>
-                        </a>
-		           </li>
-                    <script>
-                    (function() {
-                        
-                        var theme = localStorage.getItem('cleanwhite-theme') ||
-                                      (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-                        var toggleBtn = document.getElementById('theme-toggle');
-                        if (toggleBtn) {
-                            var moonIcon = toggleBtn.querySelector('.fa-moon');
-                            var sunIcon = toggleBtn.querySelector('.fa-sun');
-
-                            if (theme === 'dark') {
-                                if (moonIcon) moonIcon.style.display = 'none';
-                                if (sunIcon) sunIcon.style.display = 'inline';
-                                toggleBtn.setAttribute('title', 'Switch to light mode');
-                            } else {
-                                if (moonIcon) moonIcon.style.display = 'inline';
-                                if (sunIcon) sunIcon.style.display = 'none';
-                                toggleBtn.setAttribute('title', 'Switch to dark mode');
-                            }
-
-                            
-                            requestAnimationFrame(function() {
-                                toggleBtn.style.transition = 'opacity 0.2s ease';
-                                toggleBtn.style.opacity = '1';
-                            });
-                        }
-                    })();
-                    </script>
-                    
-                </ul>
-            </div>
-        </div>
-        
-    </div>
-    
-</nav>
-<script>
-    
-    
-    
-    var $body   = document.body;
-    var $toggle = document.querySelector('.navbar-toggle');
-    var $navbar = document.querySelector('#huxblog_navbar');
-    var $collapse = document.querySelector('.navbar-collapse');
-
-    $toggle.addEventListener('click', handleMagic)
-    function handleMagic(e){
-        if ($navbar.className.indexOf('in') > 0) {
-        
-            $navbar.className = " ";
-            
-            setTimeout(function(){
-                
-                if($navbar.className.indexOf('in') < 0) {
-                    $collapse.style.height = "0px"
-                }
-            },400)
-        }else{
-        
-            $collapse.style.height = "auto"
-            $navbar.className += " in";
-        }
-    }
-
-    
-    document.addEventListener('DOMContentLoaded', function() {
-        var navLinks = document.querySelectorAll('.navbar-collapse a');
-        navLinks.forEach(function(link) {
-            link.addEventListener('click', function() {
-                if ($navbar.className.indexOf('in') > 0) {
-                    
-                    $navbar.className = " ";
-                    setTimeout(function(){
-                        if($navbar.className.indexOf('in') < 0) {
-                            $collapse.style.height = "0px"
-                        }
-                    },400)
-                }
-            });
-        });
-    });
 </script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Natt Blog</a></h1>
+            <h2 class="site-description">Designer &amp; Life Adventurer</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li  class='current'>
+            <a href='/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
 
 
 
-<header class="intro-header" style="background-image: url('/img/home-bg-jeep.jpg')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
-                <div class="site-heading">
-                    <h1>Natt Blog </h1>
-                    
-		    <span class="subheading">Designer &amp; Life Adventurer</span>
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                <form action="/search/" class="search-form widget" >
+        <p>
+            <label>Search</label>
+            <input name="keyword" required placeholder="Type something..." />
+        
+            <button title="Search">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+            </button>
+        </p>
+    </form>
+            
+        
+            
+                <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">
+            <a href="/archives/">
+                Archives
+            </a>
+        </h2>
+
+        
+        
+        
+        <div class="widget-archive--list">
+            <div class="archives-year">
+                    <a href="/archives/#2025">
+                        
+                            <span class="year">2025</span>
+                            <span class="count">22</span>
+                        
+                    </a> 
                 </div>
-            </div>
+            <div class="archives-year">
+                    <a href="/archives/#2024">
+                        
+                            <span class="year">2024</span>
+                            <span class="count">13</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2023">
+                        
+                            <span class="year">2023</span>
+                            <span class="count">45</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2022">
+                        
+                            <span class="year">2022</span>
+                            <span class="count">2</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2021">
+                        
+                            <span class="year">2021</span>
+                            <span class="count">11</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2020">
+                        
+                            <span class="year">More</span>
+                        
+                    </a> 
+                </div>
+            
         </div>
+    </section>
+            
+        
+            
+                
+<section class="widget tagCloud">
+    <div class="widget-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
     </div>
+    <h2 class="widget-title section-title">
+        
+            <a href="/categories/">
+                Categories
+            </a>
+        
+    </h2>
+
+    <div class="tagCloud-tags">
+        
+            <a href="/categories/%E7%94%9F%E6%B4%BB/">
+                生活
+            </a>
+        
+            <a href="/categories/%E6%80%9D%E8%80%83/">
+                思考
+            </a>
+        
+            <a href="/categories/%E7%BD%91%E7%BB%9C/">
+                网络
+            </a>
+        
+            <a href="/categories/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97/">
+                建站日志
+            </a>
+        
+            <a href="/categories/%E8%89%BA%E6%9C%AF/">
+                艺术
+            </a>
+        
+            <a href="/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/">
+                未分类
+            </a>
+        
+            <a href="/categories/%E6%97%85%E8%A1%8C/">
+                旅行
+            </a>
+        
+            <a href="/categories/%E5%8C%97%E6%BC%82/">
+                北漂
+            </a>
+        
+            <a href="/categories/%E6%91%84%E5%BD%B1/">
+                摄影
+            </a>
+        
+            <a href="/categories/%E5%88%9B%E4%B8%9A/">
+                创业
+            </a>
+        
+    </div>
+</section>
+
+            
+        
+            
+                
+<section class="widget tagCloud">
+    <div class="widget-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+    </div>
+    <h2 class="widget-title section-title">
+        
+            <a href="/tags/">
+                Tags
+            </a>
+        
+    </h2>
+
+    <div class="tagCloud-tags">
+        
+            <a href="/tags/momo/">
+                Momo
+            </a>
+        
+            <a href="/tags/%E5%8D%97%E5%AE%81/">
+                南宁
+            </a>
+        
+            <a href="/tags/%E7%94%9F%E6%B4%BB/">
+                生活
+            </a>
+        
+            <a href="/tags/%E5%8D%97%E4%BA%AC/">
+                南京
+            </a>
+        
+            <a href="/tags/%E6%80%9D%E8%80%83/">
+                思考
+            </a>
+        
+            <a href="/tags/google/">
+                Google
+            </a>
+        
+            <a href="/tags/%E6%9C%AA%E6%9D%A5/">
+                未来
+            </a>
+        
+            <a href="/tags/%E7%88%B7%E7%88%B7/">
+                爷爷
+            </a>
+        
+            <a href="/tags/%E8%AE%B8%E5%B7%8D/">
+                许巍
+            </a>
+        
+            <a href="/tags/%E8%AE%BE%E8%AE%A1/">
+                设计
+            </a>
+        
+    </div>
+</section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width"><section class="article-list">
+        
+            
+<article class="has-image">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/posts/2018-07-25-%E5%91%A8%E4%B8%80%E5%8A%9E%E4%BA%86%E4%B8%80%E4%BB%B6%E5%A4%A7%E4%BA%8B/">
+            <img alt="Featured image of post 周一办了一件大事" height="510" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/wp-content/uploads/2018/07/fang.jpg" width="800">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/categories/%E5%8C%97%E6%BC%82/" style="background-color: hsl(67, 60%, 84%); color: hsl(67, 60%, 15%);">
+                北漂
+            </a>
+        
+            
+            
+            
+            <a href="/categories/%E8%A7%82%E5%AF%9F/" style="background-color: hsl(351, 60%, 84%); color: hsl(351, 60%, 15%);">
+                观察
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/posts/2018-07-25-%E5%91%A8%E4%B8%80%E5%8A%9E%E4%BA%86%E4%B8%80%E4%BB%B6%E5%A4%A7%E4%BA%8B/">周一办了一件大事</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2018-07-25T13:44:36Z'>Wednesday, July 25, 2018</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
 </header>
-
-
-
-  
-<div data-pagefind-ignore="all" class="container">
-    <div class="row">
+</article>
         
-        
-   	    <div class="
-            col-lg-8 col-lg-offset-1
-            col-md-8 col-md-offset-1
-            col-sm-12
-            col-xs-12
-            post-container
-        ">
             
-<div data-pagefind-ignore="all">
-
-<div class="post-preview">
-    <a href="https://blognew.natt.cc/posts/2011-12-17-%E9%85%92/">
-        <h2 class="post-title">
-            酒
-        </h2>
-	
-        <div class="post-content-preview">
-	
-             很久没喝烈酒了。 今天成功冲破deadline，下午开心去超市买了瓶Dry gin，出来买酒就认识jack daniel，Vodka，还有几个在朋友家喝过的几种。 买酒纯属看着酒精度买，拉夫堡中国超市的二锅头19.25英镑一瓶，在国内都可以喝一瓶半海之蓝了。 
-       
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by Natt on Saturday, December 17, 2011
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="https://blognew.natt.cc/posts/2011-12-15-%E8%B4%B4%E5%9B%BE%E4%B8%80%E5%BC%A0/">
-        <h2 class="post-title">
-            贴图一张
-        </h2>
-	
-        <div class="post-content-preview">
-	
-             上周周四，Tutorial上软件崩溃无法打开模型带来一阵阴霾。 回家的路上路过必经的网球场，这一幕如同wake-up call 深深打动我。
-远处网球场上，某年轻的小哥坐在轮椅上练习网球。
-
-       
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by Natt on Thursday, December 15, 2011
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="https://blognew.natt.cc/posts/2011-12-13-deadline/">
-        <h2 class="post-title">
-            Deadline
-        </h2>
-	
-        <div class="post-content-preview">
-	
-            
-周五是个deadline，说着急也谈不上，说不忙好像天天也都在动着。 Deadline 是一个很贱的东西，又想让其到来，又怕他到来。 宅居家中每天的娱乐活动就是做饭给自己吃，更大的娱乐活动就是去超市买菜买鸡蛋牛奶买点心。
-
-       
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by Natt on Tuesday, December 13, 2011
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="https://blognew.natt.cc/posts/2011-12-04-%E4%BD%A0%E5%A5%BD%E7%AC%AC%E5%9B%9B%E5%B9%B4%E4%BA%86/">
-        <h2 class="post-title">
-            你好，第四年了
-        </h2>
-	
-        <div class="post-content-preview">
-	
-            刚才给域名又续费一年，自此，博客第四年开始了。
-微博盛行，博客开始每况愈下。
-但是我仍然相信每个人总需要一个地方来记录自己的历程，牛逼也好，傻逼也好。
-
-       
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by Natt on Sunday, December 4, 2011
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="https://blognew.natt.cc/posts/2011-11-27-%E6%88%90%E9%95%BF%E5%BF%85%E9%A1%BB%E7%BB%8F%E5%8E%86%E7%9A%84%E7%97%9B/">
-        <h2 class="post-title">
-            成长必须经历的痛
-        </h2>
-	
-        <div class="post-content-preview">
-	
-             今天是2011年11月26号。算是一七吧。
-死亡是什么。 静下来的时候，我偶尔会想，而这几天特别强烈，每个人活着的时候，都有一个“我”在支配着自己。 当我们有自己的主观意识的时候，或许已经降临世间好几年。乔布斯说自己亲生父母的时候，仅仅用“They were my sperm and egg bank （Steve Jobs， page5）”，Jobs 有自己说这话的背景，但是仔细想想，在我们身体之内而有凌驾于身体之上的这个“我”的概念是哪里来的呢？ 为什么每个人的每个“我”都只属于自己的身体，或者说每个人的每个身体都只有一个“我”？ 在一个生命年幼时，这个“我”的概念逐渐一点点形成，一点点开始支配自己的身体，而当身体慢慢退化之后，“我”却不会逐渐消逝，那么，在肉体最终停止工作之时，这个“我”的概念又去了哪儿，瞬间消散掉了吗？ 那么，当“我”不再受制于肉体却又瞬间消散掉之后，我之于这个世界又是什么关系呢？ “我”将不能再思考不能再控制肉体不能再看不能再听不能再说不能再碰触，“我”还存在吗？ 死亡的瞬间，“我”还能思考吗？ 跨过这个瞬间，“我”会是一种什么样的存在呢 ? “我”这个概念还会再重新产生吗？ 如果再次产生的“我”赋予另一个全新的肉体，那“我”还会是之前那个“我”吗？ 或者，现在存在于我肉体中的“我”是否来自某个我完全不知道的“我“？ 一切都是未知。
-死亡，在死亡的瞬间你才明白，但是跨过这个瞬间，刚刚明白的却又随着“我”这个概念一起消散，仍然还是未知。
-人并不恐惧死亡本身，而是恐惧对于死亡的未知。 亲人逝去时，你会伤心。 你为什么伤心呢，因为他不再存在了吗？ 还是因为你不知道他是否存在？ 亦或是你相信他依旧存在而你却不知在何处？ 无论怎样，这都是一种未知。
-之前遇到两个基督教的传教士，基督教认为人在来到世间之前和离开世间之后都是以“灵”的形式活在主的身边的。 我信吗？我不信。 但是我尊重那些相信他们的人，因为这种生死观可以完全消除他们对未知的恐惧。
-佛教认为，人只不过是六道轮回中的一个阶段。 我信吗？我也不信。 同样我尊重那些相信的人。
-那夜失眠，躺在床上我在怀念爷爷，可是怀念什么呢？怀念和爷爷喝浓茶的午后？ 怀念爷爷给我讲那些动乱时期的故事？
-
-       
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by Natt on Sunday, November 27, 2011
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-</div>
-
-            
-
-
-<ul class="pager" data-pagefind-ignore="all">
-    
-    <li class="previous">
-        <a href="/page/20/">&larr; Newer Posts</a>
-    </li>
-    
-    
-    <li class="next">
-        <a href="/page/22/">Older Posts &rarr;</a>
-    </li>
-    
-</ul>
-
-
-       	</div>
-        
-
-<div class="
-    col-lg-3 col-lg-offset-0
-    col-md-3 col-md-offset-0
-    col-sm-12
-    col-xs-12
-    sidebar-container
-">
-    
-	
-    <section class="visible-md visible-lg">
-	
-        <div class="short-about">
-            
-            
-                <p>Designer & Life Adventurer</p>
-            
-           
-           <ul class="list-inline">
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-                </ul>
-            </div>
-    </section>
-	
-    
-    
-    
-    
-    <section>
-        <hr class="hidden-sm hidden-xs">
-        <h5>FEATURED TAGS</h5>
-        <div class="tags">
-            
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/2010" title="2010">
-                        2010
-                    </a>
-               
-            
-               
-                    <a href="/tags/2011" title="2011">
-                        2011
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/2012" title="2012">
-                        2012
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/360" title="360">
-                        360
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/bohemian-rhapsody" title="bohemian rhapsody">
-                        bohemian rhapsody
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/deadline" title="deadline">
-                        deadline
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/github" title="github">
-                        github
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/google" title="google">
-                        google
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/guns-n-roses" title="guns n roses">
-                        guns n roses
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/ielts" title="ielts">
-                        ielts
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/ifleea" title="ifleea">
-                        ifleea
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/keso" title="keso">
-                        keso
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/mac" title="mac">
-                        mac
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/macos" title="macos">
-                        macos
-                    </a>
-               
-            
-               
-                    <a href="/tags/macosx" title="macosx">
-                        macosx
-                    </a>
-               
-            
-               
-                    <a href="/tags/momo" title="momo">
-                        momo
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/natt" title="natt">
-                        natt
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/nginx404" title="nginx404">
-                        nginx404
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/pc%E8%A3%85mac" title="pc装mac">
-                        pc装mac
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/queen" title="queen">
-                        queen
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/uk" title="uk">
-                        uk
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/wordpress" title="wordpress">
-                        wordpress
-                    </a>
-               
-            
-               
-                    <a href="/tags/wordpress2.7" title="wordpress2.7">
-                        wordpress2.7
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/zippo" title="zippo">
-                        zippo
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E4%B8%96%E7%95%8C%E6%9D%AF" title="世界杯">
-                        世界杯
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E4%B8%BB%E4%B9%89" title="主义">
-                        主义
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E4%BA%BA%E7%94%9F" title="人生">
-                        人生
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E4%BB%B7%E5%80%BC" title="价值">
-                        价值
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E4%BC%9A%E8%AE%AE" title="会议">
-                        会议
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E4%BD%93%E9%AA%8C" title="体验">
-                        体验
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E4%BF%A1%E4%BB%B0" title="信仰">
-                        信仰
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E4%BF%AF%E5%8D%A7%E6%92%91" title="俯卧撑">
-                        俯卧撑
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%82%BB%E9%80%BC" title="傻逼">
-                        傻逼
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%86%8D%E8%A7%81" title="再见">
-                        再见
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%88%9B%E4%B8%9A" title="创业">
-                        创业
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%8A%A0%E5%A1%9E%E7%8B%97" title="加塞狗">
-                        加塞狗
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%8C%97%E4%BA%AC" title="北京">
-                        北京
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%8C%97%E6%BC%82" title="北漂">
-                        北漂
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%8D%97%E4%BA%AC" title="南京">
-                        南京
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6" title="南京理工大学">
-                        南京理工大学
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E5%8D%97%E5%AE%81" title="南宁">
-                        南宁
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%8D%97%E5%AE%81%E5%8D%B0%E8%B1%A1" title="南宁印象">
-                        南宁印象
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E5%8D%97%E5%AE%81%E5%B0%8F%E5%90%83" title="南宁小吃">
-                        南宁小吃
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%8D%97%E5%AE%81%E9%A5%AE%E9%A3%9F" title="南宁饮食">
-                        南宁饮食
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E5%8D%97%E7%90%86%E5%B7%A5" title="南理工">
-                        南理工
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%8D%9A%E5%AE%A2" title="博客">
-                        博客
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6" title="博客搬家">
-                        博客搬家
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%8E%86%E5%8F%B2" title="历史">
-                        历史
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%8F%8D%E6%80%9D" title="反思">
-                        反思
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%92%8C%E8%B0%90" title="和谐">
-                        和谐
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%93%B2%E5%AD%A6" title="哲学">
-                        哲学
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%95%A4%E9%85%92" title="啤酒">
-                        啤酒
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%9B%9B%E5%B9%B4" title="四年">
-                        四年
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E5%9B%9E%E5%AE%B6" title="回家">
-                        回家
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E5%9B%9E%E5%BF%86" title="回忆">
-                        回忆
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%A0%B5%E8%BD%A6" title="堵车">
-                        堵车
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%A4%A7%E5%9B%9B%E6%AF%95%E4%B8%9A" title="大四毕业">
-                        大四毕业
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%A4%A7%E5%AD%A6" title="大学">
-                        大学
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%A5%8B%E6%96%97" title="奋斗">
-                        奋斗
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%A8%81%E5%B0%94%E5%A3%AB%E8%87%AA%E9%A9%BE%E6%B8%B8" title="威尔士自驾游">
-                        威尔士自驾游
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%AD%A6%E4%B9%A0" title="学习">
-                        学习
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF" title="宝塔面板">
-                        宝塔面板
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%AE%9D%E9%B8%A1" title="宝鸡">
-                        宝鸡
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%AE%9D%E9%B8%A1%E6%B6%89%E6%97%A5%E6%B8%B8%E8%A1%8C" title="宝鸡涉日游行">
-                        宝鸡涉日游行
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%B0%8F%E7%8E%8B" title="小王">
-                        小王
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93" title="年度总结">
-                        年度总结
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%B9%B4%E8%BD%BB" title="年轻">
-                        年轻
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6" title="广西大学">
-                        广西大学
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%BC%A0%E8%89%BA%E8%B0%8B" title="张艺谋">
-                        张艺谋
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E5%BD%B1%E8%AF%84" title="影评">
-                        影评
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%80%9D%E6%83%B3" title="思想">
-                        思想
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%80%9D%E8%80%83" title="思考">
-                        思考
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%82%B2%E5%89%A7" title="悲剧">
-                        悲剧
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%84%A4%E9%9D%92" title="愤青">
-                        愤青
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%88%90%E9%95%BF" title="成长">
-                        成长
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%88%91%E6%80%9D%E5%BF%B5%E7%9A%84%E5%9F%8E%E5%B8%82" title="我思念的城市">
-                        我思念的城市
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%88%BF%E4%BB%B7" title="房价">
-                        房价
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%89%93%E9%85%B1%E6%B2%B9" title="打酱油">
-                        打酱油
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%8B%BC%E6%90%8F" title="拼搏">
-                        拼搏
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%90%AC%E5%AE%B6" title="搬家">
-                        搬家
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%91%84%E5%BD%B1" title="摄影">
-                        摄影
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%94%BF%E6%B2%BB" title="政治">
-                        政治
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%97%85%E8%A1%8C" title="旅行">
-                        旅行
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%9C%AA%E6%9D%A5" title="未来">
-                        未来
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%A2%A6%E6%83%B3" title="梦想">
-                        梦想
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%AE%B5%E5%AD%90" title="段子">
-                        段子
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%AF%95%E4%B8%9A" title="毕业">
-                        毕业
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%B4%BB%E7%9D%80" title="活着">
-                        活着
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E6%BF%80%E6%83%85" title="激情">
-                        激情
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E7%85%A7%E7%89%87" title="照片">
-                        照片
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E7%88%B1" title="爱">
-                        爱
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E7%88%B1%E5%9B%BD" title="爱国">
-                        爱国
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E7%88%B1%E6%83%85" title="爱情">
-                        爱情
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E7%88%B1%E7%9A%84%E7%A5%A8%E6%A0%B9" title="爱的票根">
-                        爱的票根
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E7%88%B7%E7%88%B7" title="爷爷">
-                        爷爷
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E7%8F%AD%E9%95%BF" title="班长">
-                        班长
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E7%90%83%E9%98%9F" title="球队">
-                        球队
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E7%90%86%E6%83%B3" title="理想">
-                        理想
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E7%94%9F%E6%97%A5" title="生日">
-                        生日
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E7%94%9F%E6%B4%BB" title="生活">
-                        生活
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E7%A6%8F%E8%B4%B5" title="福贵">
-                        福贵
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E7%AB%A5%E5%B9%B4" title="童年">
-                        童年
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E7%BB%B0%E7%BB%B0" title="绰绰">
-                        绰绰
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E7%BD%91%E7%BB%9C" title="网络">
-                        网络
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E7%BD%97%E6%B0%B8%E6%B5%A9" title="罗永浩">
-                        罗永浩
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E8%87%AA%E9%A9%BE%E6%B8%B8" title="自驾游">
-                        自驾游
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E8%88%AA%E8%88%AA" title="航航">
-                        航航
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E8%A0%A2%E8%B4%A7" title="蠢货">
-                        蠢货
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E8%AE%B8%E5%B7%8D" title="许巍">
-                        许巍
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E8%AE%BE%E8%AE%A1" title="设计">
-                        设计
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E8%B0%B7%E6%AD%8C" title="谷歌">
-                        谷歌
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E8%B6%B3%E7%90%83" title="足球">
-                        足球
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E8%BA%B2%E7%8C%AB%E7%8C%AB" title="躲猫猫">
-                        躲猫猫
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E8%BF%BD%E6%B1%82" title="追求">
-                        追求
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%80%BB%E8%BE%91" title="逻辑">
-                        逻辑
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%85%92" title="酒">
-                        酒
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%95%87%E6%B1%9F" title="镇江">
-                        镇江
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E9%95%87%E6%B1%9F%E4%B8%80%E6%97%A5%E6%B8%B8" title="镇江一日游">
-                        镇江一日游
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%9B%85%E6%80%9D" title="雅思">
-                        雅思
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%9B%85%E6%80%9D%E5%A4%8D%E4%B9%A0" title="雅思复习">
-                        雅思复习
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%9D%92%E5%B9%B4" title="青年">
-                        青年
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%9D%92%E6%98%A5" title="青春">
-                        青春
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%9F%B3%E4%B9%90" title="音乐">
-                        音乐
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%A5%AD%E5%90%A6" title="饭否">
-                        饭否
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E9%A5%AD%E5%90%A6gfw" title="饭否gfw">
-                        饭否gfw
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%AB%98%E4%B8%89" title="高三">
-                        高三
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E9%AB%98%E4%B8%AD" title="高中">
-                        高中
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/%E9%AB%98%E8%80%83" title="高考">
-                        高考
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-               
-            
-        </div>
-    </section>
-    
-
-    
-    
-    
-    
-    <section>
-        <hr class="hidden-sm hidden-xs">
-        <h5>LAST POSTS</h5>
-        <ul>
-        
-            <li><a href="/posts/2023-05-20-%E6%96%B0%E8%A5%BF%E5%85%B0%E6%97%85%E6%B8%B8%E9%9A%8F%E8%AE%B0day0/">新西兰旅游随记Day0</a></li>
-        
-            <li><a href="/posts/2023-01-11-%E9%A1%BA%E6%89%8B%E7%BB%99blog%E7%9A%84vps%E8%A3%85%E4%B8%AAssr/">顺手给blog的VPS装个SSR</a></li>
-        
-            <li><a href="/posts/2022-03-17-%E7%AB%A0%E5%8C%97%E6%B5%B7-%E6%B2%A1%E5%85%B3%E7%B3%BB%E7%9A%84-%E9%83%BD%E4%B8%80%E6%A0%B7/">章北海 “没关系的 都一样”</a></li>
-        
-            <li><a href="/posts/2022-03-03-npm-%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/">npm install 权限问题解决方法</a></li>
-        
-            <li><a href="/posts/2021-12-17-%E9%AB%98way%E4%B8%8E%E6%AF%9B%E6%98%9F%E4%BA%91/">高Way与毛星云</a></li>
-        
-        </ul>
-    </section>
-    
-</div>
-
-	</div>
-</div>
-
-
-
-
-
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <ul class="list-inline text-center">
-                    
-                    
-                    
-                    
-                    
-
-		            
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-            
-            
-            
-           
-             </ul>
-		<p class="copyright text-muted">
-                    Copyright &copy; Natt Blog 2026
-                    
-                </p>
-            </div>
-        </div>
+<article class="has-image">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/posts/2018-07-18-%E8%8C%81%E5%A3%AE%E7%9A%84%E9%9F%AD%E8%8F%9C/">
+            <img alt="Featured image of post 茁壮的韭菜" height="388" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/wp-content/uploads/2018/07/13970126668486.jpg" width="620">
+        </a>
     </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/" style="background-color: hsl(9, 60%, 84%); color: hsl(9, 60%, 15%);">
+                未分类
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/posts/2018-07-18-%E8%8C%81%E5%A3%AE%E7%9A%84%E9%9F%AD%E8%8F%9C/">茁壮的韭菜</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2018-07-18T09:12:29Z'>Wednesday, July 18, 2018</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+</article>
+        
+            
+<article class="has-image">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/posts/2018-06-18-%E8%B8%A2%E7%90%83%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/">
+            <img alt="Featured image of post 踢球这件事" height="450" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/wp-content/uploads/2018/06/russia2018football1-1.jpg" width="800">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/categories/%E7%94%9F%E6%B4%BB/" style="background-color: hsl(142, 60%, 84%); color: hsl(142, 60%, 15%);">
+                生活
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/posts/2018-06-18-%E8%B8%A2%E7%90%83%E8%BF%99%E4%B8%80%E4%BB%B6%E4%BA%8B/">踢球这件事</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2018-06-18T03:46:39Z'>Monday, June 18, 2018</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+</article>
+        
+            
+<article class="has-image">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/posts/2018-05-30-%E5%85%85%E5%AE%9E%E5%91%A8%E6%9C%AB%E7%9A%84%E4%B8%80%E4%B8%AA%E6%B5%81%E6%B0%B4%E8%B4%A6/">
+            <img alt="Featured image of post 充实周末的一个流水账" height="337" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/wp-content/uploads/2018/05/weekend.jpg" width="700">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/categories/%E7%94%9F%E6%B4%BB/" style="background-color: hsl(142, 60%, 84%); color: hsl(142, 60%, 15%);">
+                生活
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/posts/2018-05-30-%E5%85%85%E5%AE%9E%E5%91%A8%E6%9C%AB%E7%9A%84%E4%B8%80%E4%B8%AA%E6%B5%81%E6%B0%B4%E8%B4%A6/">充实周末的一个流水账</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2018-05-30T04:30:29Z'>Wednesday, May 30, 2018</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+</article>
+        
+            
+<article class="has-image">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/posts/2018-05-17-%E4%B8%80%E4%B8%AA%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%9C%BC%E4%B8%AD%E7%9A%84%E9%94%A4%E5%AD%90%E6%96%B0%E5%93%81-tnt-%E4%B8%8E-%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%85%B6%E4%BA%BA/">
+            <img alt="Featured image of post 一个设计师眼中的锤子新品 TNT 与 罗永浩其人" height="506" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/wp-content/uploads/2018/05/WX20180517-180244.png" srcset="/wp-content/uploads/2018/05/WX20180517-180244_hu_aecb5ab5df09ffd4.png 800w, /wp-content/uploads/2018/05/WX20180517-180244.png 1025w" width="1025">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/categories/%E8%A7%82%E5%AF%9F/" style="background-color: hsl(351, 60%, 84%); color: hsl(351, 60%, 15%);">
+                观察
+            </a>
+        
+            
+            
+            
+            <a href="/categories/%E8%AE%BE%E8%AE%A1/" style="background-color: hsl(312, 60%, 84%); color: hsl(312, 60%, 15%);">
+                设计
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/posts/2018-05-17-%E4%B8%80%E4%B8%AA%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%9C%BC%E4%B8%AD%E7%9A%84%E9%94%A4%E5%AD%90%E6%96%B0%E5%93%81-tnt-%E4%B8%8E-%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%85%B6%E4%BA%BA/">一个设计师眼中的锤子新品 TNT 与 罗永浩其人</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2018-05-17T10:22:10Z'>Thursday, May 17, 2018</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        5 minutes read
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+</article>
+        
+    </section><nav class="pagination" role="navigation" aria-label="pagination"><a class="page-link "href="/page/20/"aria-label="Previous page">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-chevron-left"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M15 6l-6 6l6 6" /></svg>
+    </a><a class="page-link " aria-label="Page 1"href="/">
+        1
+    </a><span class="page-link pagination-link">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-dots"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M19 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /></svg>
+    </span><a class="page-link "href="/page/17/"
+                aria-label="Page 17">
+                17
+            </a><a class="page-link "href="/page/18/"
+                aria-label="Page 18">
+                18
+            </a><a class="page-link "href="/page/19/"
+                aria-label="Page 19">
+                19
+            </a><a class="page-link "href="/page/20/"
+                aria-label="Page 20">
+                20
+            </a><a class="page-link current"aria-current="page"href="/page/21/"
+                aria-label="Page 21">
+                21
+            </a><a class="page-link "href="/page/22/"
+                aria-label="Page 22">
+                22
+            </a><a class="page-link "href="/page/23/"
+                aria-label="Page 23">
+                23
+            </a><a class="page-link "href="/page/24/"
+                aria-label="Page 24">
+                24
+            </a><a class="page-link "href="/page/25/"
+                aria-label="Page 25">
+                25
+            </a><span class="page-link pagination-link">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-dots"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M19 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /></svg>
+    </span><a class="page-link "href="/page/74/"aria-label="Page 74">
+        74
+    </a><a class="page-link "href="/page/22/"aria-label="Next page">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-chevron-right"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 6l6 6l-6 6" /></svg>
+    </a>
+</nav><footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 Natt Blog
+    </section>
+    
+    <section class="powerby">
+        
+            Stay hungry, stay foolish. <br/>
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
 </footer>
 
-
-
-
-<script>
-    function loadAsync(u, c) {
-      var d = document, t = 'script',
-          o = d.createElement(t),
-          s = d.getElementsByTagName(t)[0];
-      o.src = u;
-      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
-      s.parentNode.insertBefore(o, s);
-    }
-</script>
-
-
-
-
-
-
-<script>
-    
-    if($('#tag_cloud').length !== 0){
-        loadAsync("/js/jquery.tagcloud.js",function(){
-            $.fn.tagcloud.defaults = {
-                
-                color: {start: '#bbbbee', end: '#0085a1'},
-            };
-            $('#tag_cloud a').tagcloud();
-        })
-    }
-</script>
-
-
-<script>
-    (function() {
-        function updateTagcloudColors() {
-            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-            const startColor = isDark ? '#808080' : '#bbbbee';
-            if($('#tag_cloud').length !== 0 && $.fn.tagcloud) {
-                $.fn.tagcloud.defaults = {
-                    color: {start: startColor, end: '#0085a1'},
-                };
-                $('#tag_cloud a').tagcloud();
-            }
-        }
-
+            </main>
+        </div>
         
-        $(document).ready(function() {
-            updateTagcloudColors();
-        });
-
-        
-        const observer = new MutationObserver(function(mutations) {
-            mutations.forEach(function(mutation) {
-                if (mutation.attributeName === 'data-theme') {
-                    updateTagcloudColors();
-                }
-            });
-        });
-
-        observer.observe(document.documentElement, {
-            attributes: true,
-            attributeFilter: ['data-theme']
-        });
-    })();
-</script>
+<script type="text/javascript" src="/ts/main.acaf849f2b273f6a8368a58b001f336738d0c948d92e79b116467d0c7515f932.js" defer></script>
 
 
-<script>
-    loadAsync("https://cdn.jsdelivr.net/npm/fastclick@1.0.6/lib/fastclick.min.js", function(){
-        var $nav = document.querySelector("nav");
-        if($nav) FastClick.attach($nav);
-    })
-</script>
-
-
-<script src="/js/theme-toggle.js"></script>
-
-
-
-
-
-
-<script type="text/javascript">
-    function generateCatalog(selector) {
-
-        
-        
-        
-        
-            _containerSelector = 'div.post-container'
-        
-
-        
-        var P = $(_containerSelector), a, n, t, l, i, c;
-        a = P.find('h1,h2,h3,h4,h5,h6');
-
-        
-        $(selector).html('')
-
-        
-        a.each(function () {
-            n = $(this).prop('tagName').toLowerCase();
-            i = "#" + $(this).prop('id');
-            t = $(this).text();
-            c = $('<a href="' + i + '" rel="nofollow" title="' + t + '">' + t + '</a>');
-            l = $('<li class="' + n + '_nav"></li>').append(c);
-            $(selector).append(l);
-        });
-        return true;
-    }
-
-    generateCatalog(".catalog-body");
-
-    
-    $(".catalog-toggle").click((function (e) {
-        e.preventDefault();
-        $('.side-catalog').toggleClass("fold")
-    }))
-
-    
-
-
-    loadAsync("\/js\/jquery.nav.js", function () {
-        $('.catalog-body').onePageNav({
-            currentClass: "active",
-            changeHash: !1,
-            easing: "swing",
-            filter: "",
-            scrollSpeed: 700,
-            scrollOffset: 0,
-            scrollThreshold: .2,
-            begin: null,
-            end: null,
-            scrollChange: null,
-            padding: 80
-        });
-    });
-</script>
-
-
-
-
-
-
-
-</body>
+    </body>
 </html>

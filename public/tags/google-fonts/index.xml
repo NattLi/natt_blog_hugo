@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Google Fonts on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/google-fonts/</link>
-    <description>Recent content in Google Fonts on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2015 15:34:48 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/google-fonts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>转载-用360CDN公共库扶起Google被阉割后的雄风</title>
-      <link>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</link>
-      <pubDate>Thu, 16 Apr 2015 15:34:48 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</guid>
-      <description>&lt;p&gt;前因后果就不详述了，简单说就是Google的互联网字体服务被凌迟阉割，而360终于干了一会好事，把Google的字体库CDN缓存到了国内。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;—-以下是引用部分，以备以后自己查阅—–&lt;/p&gt;</description>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Google Fonts on Natt Blog</title>
+        <link>https://blognew.natt.cc/tags/google-fonts/</link>
+        <description>Recent content in Google Fonts on Natt Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 16 Apr 2015 15:34:48 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/google-fonts/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>转载-用360CDN公共库扶起Google被阉割后的雄风</title>
+            <link>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</link>
+            <pubDate>Thu, 16 Apr 2015 15:34:48 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2015-04-16-%E8%BD%AC%E8%BD%BD-%E7%94%A8360cdn%E5%85%AC%E5%85%B1%E5%BA%93%E6%89%B6%E8%B5%B7google%E8%A2%AB%E9%98%89%E5%89%B2%E5%90%8E%E7%9A%84%E9%9B%84%E9%A3%8E/</guid>
+            <description>&lt;p&gt;前因后果就不详述了，简单说就是Google的互联网字体服务被凌迟阉割，而360终于干了一会好事，把Google的字体库CDN缓存到了国内。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;—-以下是引用部分，以备以后自己查阅—–&lt;/p&gt;&#xA;&lt;p&gt;下面直接说&lt;strong&gt;360网站卫士的解决方案：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;打开wordpress代码中的文件wp-includes文件夹中的&lt;code&gt;script-loader.php&lt;/code&gt;文件，搜索：&lt;code&gt;fonts.googleapis.com&lt;/code&gt;找到这行代码：&lt;/p&gt;&#xA;&lt;pre&gt;&lt;ol&gt;&#xA;  &lt;li&gt;&#xA;    $open_sans_font_url = &#34;//fonts.googleapis.com/css?family1=Open+Sans:300italic,400italic,600italic,300,400,600&amp;subset=$subsets&#34;;&#xA;  &lt;/li&gt;&#xA;&lt;/ol&gt;&lt;/pre&gt;&#xA;&lt;p&gt;把&lt;code&gt;fonts.googleapis.com&lt;/code&gt;替换为&lt;code&gt;fonts.useso.com&lt;/code&gt;，修改保存即可解决。几乎瞬间就可以拿到Google字体了。&lt;/p&gt;&#xA;&lt;p&gt;原因就是本来需要从美国服务器才能拿到的google字体，现在已经遍布托管在360众多的全国CDN节点上，覆盖电信、联通、移动等主流运营商线路全国的机房了。&lt;/p&gt;&#xA;&lt;p&gt;—-以上是引用部分，以备以后自己查阅—–&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;哎，中国网民苦，中国站长和技术更TM苦。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;引用部分转载自：&lt;a class=&#34;link&#34; href=&#34;http://yusi123.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;欲思博客&lt;/a&gt; » &lt;a class=&#34;link&#34; href=&#34;http://yusi123.com/3062.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;WordPress利用360CDN公共库解决Google Open Sans字体无法加载&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+        </item></channel>
 </rss>

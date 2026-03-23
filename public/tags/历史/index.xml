@@ -1,26 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>历史 on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/%E5%8E%86%E5%8F%B2/</link>
-    <description>Recent content in 历史 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2009 16:44:22 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/%E5%8E%86%E5%8F%B2/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>奇妙的春游</title>
-      <link>https://blognew.natt.cc/posts/2009-04-19-%E5%A5%87%E5%A6%99%E7%9A%84%E6%98%A5%E6%B8%B8/</link>
-      <pubDate>Sat, 18 Apr 2009 16:44:22 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2009-04-19-%E5%A5%87%E5%A6%99%E7%9A%84%E6%98%A5%E6%B8%B8/</guid>
-      <description>&lt;p&gt;&lt;a rel=&#34;attachment wp-att-490&#34; href=&#34;https://blog.natt.cc/489.html/p_large_z6u2_84542c206110&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-490&#34; title=&#34;知青&#34; src=&#34;https://blognew.natt.cc/wp-content/uploads/2009/04/p_large_z6u2_84542c206110.jpg&#34; alt=&#34;知青&#34; width=&#34;466&#34; height=&#34;349&#34; srcset=&#34;https://blognew.natt.cc/wp-content/uploads/2009/04/p_large_z6u2_84542c206110.jpg 600w, https://blognew.natt.cc/wp-content/uploads/2009/04/p_large_z6u2_84542c206110-300x225.jpg 300w&#34; sizes=&#34;auto, (max-width: 466px) 100vw, 466px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;今天班上去春游，南京将军山。&lt;/p&gt;&#xA;&lt;p&gt;很累很开心。大家气氛很好。&lt;/p&gt;&#xA;&lt;p&gt;这个“知青故居”是我最喜欢的风格。爷爷过去没有多说毛主席的历史，只说了说过去的生活，在政治高压下受到的欺辱。爸爸倒是对着我的碟包上面的毛主席说，这个包不好。后来我明白了爸爸说的含义。我们这一代人和毛主席已经远离，但是毛主席的影响没有消失。对于这种红色经典的文化，我觉得我没有体会吸收的意愿，而更多的是一种类似波普艺术的调侃和一笑，毕竟毛主席是过去的神，而我们不信奉神。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>没有真相就没有和解，没有宽恕就没有未来</title>
-      <link>https://blognew.natt.cc/posts/2008-12-13-%E6%B2%A1%E6%9C%89%E7%9C%9F%E7%9B%B8%E5%B0%B1%E6%B2%A1%E6%9C%89%E5%92%8C%E8%A7%A3%E6%B2%A1%E6%9C%89%E5%AE%BD%E6%81%95%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%9C%AA%E6%9D%A5/</link>
-      <pubDate>Sat, 13 Dec 2008 06:09:27 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2008-12-13-%E6%B2%A1%E6%9C%89%E7%9C%9F%E7%9B%B8%E5%B0%B1%E6%B2%A1%E6%9C%89%E5%92%8C%E8%A7%A3%E6%B2%A1%E6%9C%89%E5%AE%BD%E6%81%95%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%9C%AA%E6%9D%A5/</guid>
-      <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;南京大屠杀71周年，只希望大家铭记历史。&lt;/p&gt;&#xA;&lt;p&gt;我们没有仇恨，我们只希望每一个中国人不要忘记。&lt;/p&gt;&#xA;&lt;p&gt;我只希望这个悲剧不要再次上演，不管是在世界的哪个角落。&lt;/p&gt;&#xA;&lt;p&gt;但很久以前从 王EASON 那里得到一个很经典的想法&lt;/p&gt;</description>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>历史 on Natt Blog</title>
+        <link>https://blognew.natt.cc/tags/%E5%8E%86%E5%8F%B2/</link>
+        <description>Recent content in 历史 on Natt Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 18 Apr 2009 16:44:22 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/%E5%8E%86%E5%8F%B2/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>奇妙的春游</title>
+            <link>https://blognew.natt.cc/posts/2009-04-19-%E5%A5%87%E5%A6%99%E7%9A%84%E6%98%A5%E6%B8%B8/</link>
+            <pubDate>Sat, 18 Apr 2009 16:44:22 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2009-04-19-%E5%A5%87%E5%A6%99%E7%9A%84%E6%98%A5%E6%B8%B8/</guid>
+            <description>&lt;p&gt;&lt;a rel=&#34;attachment wp-att-490&#34; href=&#34;https://blog.natt.cc/489.html/p_large_z6u2_84542c206110&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34;alignnone size-full wp-image-490&#34; title=&#34;知青&#34; src=&#34;https://blognew.natt.cc/wp-content/uploads/2009/04/p_large_z6u2_84542c206110.jpg&#34; alt=&#34;知青&#34; width=&#34;466&#34; height=&#34;349&#34; srcset=&#34;https://blognew.natt.cc/wp-content/uploads/2009/04/p_large_z6u2_84542c206110.jpg 600w, https://blognew.natt.cc/wp-content/uploads/2009/04/p_large_z6u2_84542c206110-300x225.jpg 300w&#34; sizes=&#34;auto, (max-width: 466px) 100vw, 466px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;今天班上去春游，南京将军山。&lt;/p&gt;&#xA;&lt;p&gt;很累很开心。大家气氛很好。&lt;/p&gt;&#xA;&lt;p&gt;这个“知青故居”是我最喜欢的风格。爷爷过去没有多说毛主席的历史，只说了说过去的生活，在政治高压下受到的欺辱。爸爸倒是对着我的碟包上面的毛主席说，这个包不好。后来我明白了爸爸说的含义。我们这一代人和毛主席已经远离，但是毛主席的影响没有消失。对于这种红色经典的文化，我觉得我没有体会吸收的意愿，而更多的是一种类似波普艺术的调侃和一笑，毕竟毛主席是过去的神，而我们不信奉神。&lt;/p&gt;&#xA;&lt;p&gt;看到这个小院子，我想起了爷爷，在我懂事之后我才明白爷爷除了知识以外的智慧。他懂得将自己的锋芒隐藏起来，将自己的想法隐藏起来，自己是一个有思想有勇气的人，但是甘于做一个农民。爷爷没有出过远门，但是我能够看到爷爷深邃的眼光。我喜欢爷爷温和的性格和处事的态度，我永远的典范。爸爸教会我感情和事业的平衡。我感激生命中遇到这些“哲人”，也感激遇到momo. 我们都已经长大，我们都是有故事的人。&lt;/p&gt;&#xA;&lt;p&gt;最后祝爷爷健康。&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>没有真相就没有和解，没有宽恕就没有未来</title>
+            <link>https://blognew.natt.cc/posts/2008-12-13-%E6%B2%A1%E6%9C%89%E7%9C%9F%E7%9B%B8%E5%B0%B1%E6%B2%A1%E6%9C%89%E5%92%8C%E8%A7%A3%E6%B2%A1%E6%9C%89%E5%AE%BD%E6%81%95%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%9C%AA%E6%9D%A5/</link>
+            <pubDate>Sat, 13 Dec 2008 06:09:27 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2008-12-13-%E6%B2%A1%E6%9C%89%E7%9C%9F%E7%9B%B8%E5%B0%B1%E6%B2%A1%E6%9C%89%E5%92%8C%E8%A7%A3%E6%B2%A1%E6%9C%89%E5%AE%BD%E6%81%95%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%9C%AA%E6%9D%A5/</guid>
+            <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;南京大屠杀71周年，只希望大家铭记历史。&lt;/p&gt;&#xA;&lt;p&gt;我们没有仇恨，我们只希望每一个中国人不要忘记。&lt;/p&gt;&#xA;&lt;p&gt;我只希望这个悲剧不要再次上演，不管是在世界的哪个角落。&lt;/p&gt;&#xA;&lt;p&gt;但很久以前从 王EASON 那里得到一个很经典的想法&lt;/p&gt;&#xA;&lt;p&gt;这个世界没有和平，军队和和平本是对立的，一手拎着军队一手说着和平都是假象。&lt;/p&gt;&#xA;&lt;p&gt;我们的力量是微弱的，只能祈求和平。&lt;/p&gt;&#xA;&lt;p&gt;在GoogleReader 里面一个订阅看到一句话：&lt;/p&gt;&#xA;&lt;p&gt;没有真相就没有和解，没有宽恕就没有未来&lt;/p&gt;&#xA;&lt;p&gt;记住就好。&lt;/p&gt;&#xA;</description>
+        </item></channel>
 </rss>

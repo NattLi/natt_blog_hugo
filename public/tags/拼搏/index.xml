@@ -1,26 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>拼搏 on Natt Blog</title>
-    <link>https://blognew.natt.cc/tags/%E6%8B%BC%E6%90%8F/</link>
-    <description>Recent content in 拼搏 on Natt Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2007 10:45:54 +0000</lastBuildDate>
-    <atom:link href="https://blognew.natt.cc/tags/%E6%8B%BC%E6%90%8F/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>最后100天 拼了！</title>
-      <link>https://blognew.natt.cc/posts/2007-02-22-%E6%9C%80%E5%90%8E100%E5%A4%A9-%E6%8B%BC%E4%BA%86/</link>
-      <pubDate>Thu, 22 Feb 2007 10:45:54 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2007-02-22-%E6%9C%80%E5%90%8E100%E5%A4%A9-%E6%8B%BC%E4%BA%86/</guid>
-      <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;倒计时100天了！&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;拼了！！&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;我会是高考的胜利者！！！！&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;100天后见！！！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>写于高考倒计时200天</title>
-      <link>https://blognew.natt.cc/posts/2006-11-19-%E5%86%99%E4%BA%8E%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6200%E5%A4%A9/</link>
-      <pubDate>Sun, 19 Nov 2006 09:56:15 +0000</pubDate>
-      <guid>https://blognew.natt.cc/posts/2006-11-19-%E5%86%99%E4%BA%8E%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6200%E5%A4%A9/</guid>
-      <description>&lt;p&gt;昨天距离2007年高考还有200天，今天就只有199了，想想真是可怕！&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;期中考试结束了，我考得真是不好，从10名到了30，我知道其中的原因。。  过去了，也不想再多说什么了，我需要一个考试来证明自己不是现在的样子！&lt;/p&gt;</description>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>拼搏 on Natt Blog</title>
+        <link>https://blognew.natt.cc/tags/%E6%8B%BC%E6%90%8F/</link>
+        <description>Recent content in 拼搏 on Natt Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 22 Feb 2007 10:45:54 +0000</lastBuildDate><atom:link href="https://blognew.natt.cc/tags/%E6%8B%BC%E6%90%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>最后100天 拼了！</title>
+            <link>https://blognew.natt.cc/posts/2007-02-22-%E6%9C%80%E5%90%8E100%E5%A4%A9-%E6%8B%BC%E4%BA%86/</link>
+            <pubDate>Thu, 22 Feb 2007 10:45:54 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2007-02-22-%E6%9C%80%E5%90%8E100%E5%A4%A9-%E6%8B%BC%E4%BA%86/</guid>
+            <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;倒计时100天了！&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;拼了！！&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;我会是高考的胜利者！！！！&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;100天后见！！！&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>写于高考倒计时200天</title>
+            <link>https://blognew.natt.cc/posts/2006-11-19-%E5%86%99%E4%BA%8E%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6200%E5%A4%A9/</link>
+            <pubDate>Sun, 19 Nov 2006 09:56:15 +0000</pubDate>
+            <guid>https://blognew.natt.cc/posts/2006-11-19-%E5%86%99%E4%BA%8E%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6200%E5%A4%A9/</guid>
+            <description>&lt;p&gt;昨天距离2007年高考还有200天，今天就只有199了，想想真是可怕！&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;期中考试结束了，我考得真是不好，从10名到了30，我知道其中的原因。。  过去了，也不想再多说什么了，我需要一个考试来证明自己不是现在的样子！&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;忙得没有时间来维护博客，昨天登上来都560的访问量了，吓我一跳。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;自己在学校总是有很多的想法，想写在博客上，回家又忘记了，我的好记性啊。。。。。。&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;不说什么了，自己加油吧！&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;同学们共勉！&lt;/p&gt;&#xA;</description>
+        </item></channel>
 </rss>
