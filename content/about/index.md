@@ -8,7 +8,7 @@ comments: false
 > 这里是Natt用来打字的地方，托管在github，部署在CloudFlare 并进行CDN.
 
 
-![LOGO](/static/images/eimi-nattblog-full.jpg)  
+![LOGO](/images/eimi-nattblog-full.jpg)  
 ↑图片AI生成，Eimi举着啤酒杯  
 
 ---
@@ -19,7 +19,7 @@ comments: false
 于是，2023-2026是 markdown Jekyll Blog 与 WP blog共存的时期，2026接触到Hugo框架后，就脱离Jekyll与WP共存状态，进入了Hugo，就有了这个地方。
 
 
-![联系我](/static/images/gmail2.png)  
+![联系我](/images/gmail2.png)  
 
 ### 感谢
 
