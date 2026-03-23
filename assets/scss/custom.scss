@@ -1,0 +1,12 @@
+:root {
+    /* Article image height variables override */
+    --article-image-height: 220px;
+
+    @include respond(md) {
+        --article-image-height: 300px;
+    }
+
+    @include respond(xl) {
+        --article-image-height: 380px;
+    }
+}
