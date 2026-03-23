@@ -2,9 +2,8 @@
 layout:     post
 title:      SOP懂吗？
 date:       2024-01-30
+image: /images/202401/renri.jpg
 ---
-![peoplefuck](/images/202401/renri.jpg)
-
 #### 一个个伟大的个体
 
 人日里天天都是感人的事例。今天是市场监督怒喝市场小贩以维护旅游形象，明天是叔叔机智如他给老人家里转账0.01元获得联系。

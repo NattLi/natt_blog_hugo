@@ -2,9 +2,8 @@
 layout:     post
 title:      拔草皮卡·其二  作为皮卡车主的24小时
 date:       2025-03-22
+image: /images/202503/pickuppov.jpg
 ---
-![中毒皮卡](/images/202503/pickuppov.jpg)
-
 
 ### NZ的皮卡见闻
 

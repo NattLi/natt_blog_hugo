@@ -2,9 +2,8 @@
 layout:     post
 title:      Defeating Art, Perhaps Only Art Itself Can Achieve That
 date:       2024-02-01
+image: /images/202402/eng-defeat-art.jpg
 ---
-![defeat art](/images/202402/eng-defeat-art.jpg)
-
 Let's discuss an incident that occurred yesterday. Yesterday at the Louvre, the Mona Lisa was splashed with pumpkin soup by two protesters. Subsequently, they spoke in front of the artwork, posing the question: What is more important - art or the right to access healthy and sustainable food? This incident intrigued me, making me feel that these protesters are truly masters of art because their method of protesting against art is, ironically, an artistic expression itself.
 
 To delve into this further, let's start by examining the image of two women splashing pumpkin soup. This image immediately reminded me of Marcel Duchamp's L.H.O.O.Q from a century ago, which shares a similar spirit. Additionally, a few years prior to LHOOQ, there was the world-shaking Fountain - a urinal with the signature R.MUTT thrown into the art scene. Such art form is known as Readymades, using ready-made object as the media of the artwork.

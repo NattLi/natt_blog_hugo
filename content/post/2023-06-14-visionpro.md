@@ -2,10 +2,8 @@
 layout:     post
 title:      苹果新品VisionPro有点无聊？别急，给新用户一点时间
 date:       2023-06-21
+image: /images/202306/vision-pro-header.jpg
 ---
-
-![苹果新品VisionPro有点无聊？别急，给新用户一点时间](/images/202306/vision-pro-header.jpg)
-
 首先，大家都已经知道了，苹果在几天前发布了 Vision Pro, 不是AR，不是VR，而是空间计算设备。很多人看起来就会说，这不就是一个VR或者AR吗，什么空间计算，果子又在玩概念了？
 
 但，其实从产品层面来说，它能够空手无感操作，事实上把交互拉到了一个新的载体上，算是一个基础设施级别的设计创新，但为什么看起来不让人兴奋呢？
