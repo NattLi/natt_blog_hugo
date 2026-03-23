@@ -14,9 +14,9 @@ comments: false
 ---
 
 
-从2011到2026，Blog一直基于WordPress并游荡在世界各地的VPS上，但一不小心接触markdown语法后，就被其简单好用逻辑清晰所打动，并且，打开 editor 在markdown 下写一些略微有那么点尺度的东西 commit push 到github上，远比在石墨文档上敲下生死未卜的文字更好。
+从2011到2023，Blog一直基于WordPress并游荡在世界各地的VPS上，但一不小心接触markdown语法后，就被其简单好用逻辑清晰所打动，并且，打开 editor 在markdown 下写一些略微有那么点尺度的东西 commit push 到github上，远比在石墨文档上敲下生死未卜的文字更好。
 
-于是，blog就脱离了WP进入了Hugo，就有了这个地方。
+于是，2023-2026是 markdown Jekyll Blog 与 WP blog共存的时期，2026接触到Hugo框架后，就脱离Jekyll与WP共存状态，进入了Hugo，就有了这个地方。
 
 
 ![联系我](/static/images/gmail2.png)  
