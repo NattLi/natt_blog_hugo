@@ -1,4 +1,4 @@
-baseurl = "https://blognew.natt.cc/"
+baseurl = "https://blog.natt.cc/"
 title = "Natt Blog"
 theme = "hugo-theme-stack"
 languageCode = "en-us"
@@ -23,11 +23,11 @@ hasCJKLanguage = true
 [params]
     mainSections = ["post"]
     rssFullContent = true
-    description = "A blog about design, life, and technology."
+    description = "Natt's Blog."
     
     [params.sidebar]
         avatar = ""
-        subtitle = "Designer & Life Adventurer"
+        subtitle = "个人随笔 防止自己痴呆忘记了年轻时的蠢事"
         emoji = "🎨"
 
     [params.article]
@@ -44,8 +44,8 @@ hasCJKLanguage = true
         page = [{ type = "toc" }]
 
     [params.footer]
-        since = 2026
-        customText = "Stay hungry, stay foolish."
+        since = 2007
+        customText = "不管怎样，脑子还有输入输出的话，就随便记两笔"
 
 [menu]
     [[menu.main]]
