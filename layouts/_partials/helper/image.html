@@ -68,6 +68,13 @@
                 "Width" nil
             }}
         {{ end }}
+    {{ else }}
+        {{ $result = dict
+            "Resource" nil
+            "Permalink" $permalink
+            "Height" nil
+            "Width" nil
+        }}
     {{ end }}
 {{ end }}
 
