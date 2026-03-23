@@ -5,17 +5,24 @@ description: "个人简介与愿景"
 comments: false
 ---
 
-> 这是一个为你预留的自我介绍页面，请在此自由挥洒你的才华与故事！
+> 这里是Natt用来打字的地方，托管在github，部署在CloudFlare 并进行CDN.
 
-### 我是谁？
-这里可以写一段简单的自我介绍，你做了什么行业，喜欢什么... 比如："我是一名 Designer & Life Adventurer..."
 
-### 我的折腾记录
-- 折腾过什么电子产品、摄影、或者博客技术...
-- 爱看什么书或者什么电影...
-
-### 我的脚印
-这里可以展示你的一张精美照片或者一段能代表你生活态度的名言警句。
+![LOGO](/static/images/eimi-nattblog-full.jpg)  
+↑图片AI生成，Eimi举着啤酒杯  
 
 ---
-*（提示：此页面位于 `content/about/index.md`，你可以随时用任何文本编辑器或 VS Code 打开它自由修改，然后 Commit 推送即可。）*
+
+
+从2011到2026，Blog一直基于WordPress并游荡在世界各地的VPS上，但一不小心接触markdown语法后，就被其简单好用逻辑清晰所打动，并且，打开 editor 在markdown 下写一些略微有那么点尺度的东西 commit push 到github上，远比在石墨文档上敲下生死未卜的文字更好。
+
+于是，blog就脱离了WP进入了Hugo，就有了这个地方。
+
+
+![联系我](/static/images/gmail2.png)  
+
+### 感谢
+
+作为一个误入github的设计师，深受github开源文化的震撼
+
+开源万岁
