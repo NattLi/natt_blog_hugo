@@ -28,7 +28,6 @@ hasCJKLanguage = true
     [params.sidebar]
         avatar = "images/eimi-nattblog-full.jpg"
         subtitle = "个人随笔 防止自己痴呆忘记了年轻时的蠢事"
-        emoji = "🎨"
 
     [params.article]
         toc = true

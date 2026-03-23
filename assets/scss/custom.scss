@@ -10,3 +10,9 @@
         --article-image-height: 380px;
     }
 }
+
+.sidebar-header .sidebar-avatar img, 
+.site-avatar img, 
+.avatar img {
+    object-fit: cover !important;
+}
