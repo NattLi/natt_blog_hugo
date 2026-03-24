@@ -6,7 +6,7 @@ date: 2012-10-29T11:11:00+00:00
 aliases: ["/1174.html"]
 description: ""
 categories:
-  - "碎片与日常"
+  - "观点思考"
 tags:
   - "看不上"
   - "没有"

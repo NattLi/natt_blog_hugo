@@ -7,7 +7,7 @@ aliases: ["/1465.html"]
 image: "/wp-content/uploads/2017/11/maxresdefault222.jpg"
 description: ""
 categories:
-  - "技术与设计"
+  - "技术"
 tags:
   - "数据库"
   - "密码"

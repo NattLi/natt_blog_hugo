@@ -5,7 +5,7 @@ date:       2023-03-03
 description: ""
 author: "Natt"
 categories:
-  - "技术与设计"
+  - "艺术设计"
 tags:
   - "抗解"
   - "问题"

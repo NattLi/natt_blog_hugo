@@ -6,7 +6,7 @@ date: 2010-12-31T04:45:00+00:00
 aliases: ["/968.html"]
 description: ""
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "放弃"
   - "回顾"

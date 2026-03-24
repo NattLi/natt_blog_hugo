@@ -6,7 +6,7 @@ image: /images/202308/foundation-book.jpg
 description: ""
 author: "Natt"
 categories:
-  - "阅读与创作"
+  - "读书随笔"
 tags:
   - "地球"
   - "价值观"

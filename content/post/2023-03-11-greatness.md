@@ -5,7 +5,7 @@ date:       2023-03-11
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "怀疑"
   - "意识"

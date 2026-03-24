@@ -6,7 +6,7 @@ date: 2012-01-30T03:09:00+00:00
 aliases: ["/1087.html"]
 description: ""
 categories:
-  - "碎片与日常"
+  - "影音娱乐"
 tags:
   - "内心"
   - "挣扎"

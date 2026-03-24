@@ -6,7 +6,7 @@ date: 2010-06-11T03:29:00+00:00
 aliases: ["/850.html"]
 description: ""
 categories:
-  - "碎片与日常"
+  - "观点思考"
 tags:
   - "小哥"
   - "可爱"

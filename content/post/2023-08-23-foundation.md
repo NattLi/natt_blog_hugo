@@ -6,7 +6,7 @@ image: /images/202308/space.jpg
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "读书随笔"
 tags:
   - "三体"
   - "时间"

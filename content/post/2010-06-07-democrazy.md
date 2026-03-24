@@ -6,7 +6,7 @@ date: 2010-06-06T16:32:30+00:00
 aliases: ["/845.html"]
 description: ""
 categories:
-  - "碎片与日常"
+  - "影音娱乐"
 tags:
   - "打动"
   - "同学"

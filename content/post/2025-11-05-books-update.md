@@ -6,7 +6,7 @@ image: /images/202511/books.jpg
 description: ""
 author: "Natt"
 categories:
-  - "阅读与创作"
+  - "读书随笔"
 tags:
   - "三体"
   - "世界"

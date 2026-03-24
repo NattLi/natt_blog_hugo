@@ -6,7 +6,7 @@ image: /images/202404/node.jpg
 description: ""
 author: "Natt"
 categories:
-  - "技术与设计"
+  - "技术"
 tags:
   - "安装"
   - "报错"

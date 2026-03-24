@@ -5,7 +5,7 @@ date:       2023-05-26
 description: ""
 author: "Natt"
 categories:
-  - "技术与设计"
+  - "旅行摄影"
 tags:
   - "丰田"
   - "租车"

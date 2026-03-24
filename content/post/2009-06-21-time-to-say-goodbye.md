@@ -6,7 +6,7 @@ date: 2009-06-20T18:23:00+00:00
 aliases: ["/526.html"]
 description: ""
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "球队"
   - "时候"

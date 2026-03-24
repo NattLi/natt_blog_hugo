@@ -7,7 +7,7 @@ aliases: ["/1355.html"]
 image: "/wp-content/uploads/2017/08/lp.jpg"
 description: ""
 categories:
-  - "技术与设计"
+  - "影音娱乐"
 tags:
   - "主唱"
   - "音响"

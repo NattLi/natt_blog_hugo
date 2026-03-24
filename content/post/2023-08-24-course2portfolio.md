@@ -6,7 +6,7 @@ image: /images/202308/keshe-header.jpg
 description: ""
 author: "Natt"
 categories:
-  - "技术与设计"
+  - "创作记录"
 tags:
   - "作品集"
   - "项目"

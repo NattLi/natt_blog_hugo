@@ -6,7 +6,7 @@ date: 2010-10-21T15:27:00+00:00
 aliases: ["/912.html"]
 description: ""
 categories:
-  - "技术与设计"
+  - "艺术设计"
 tags:
   - "平板"
   - "交互"

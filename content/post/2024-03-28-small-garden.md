@@ -6,7 +6,7 @@ image: /images/202403/xiaoyang.jpg
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "地坛"
   - "公园"

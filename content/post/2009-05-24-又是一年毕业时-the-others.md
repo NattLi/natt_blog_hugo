@@ -6,7 +6,7 @@ date: 2009-05-23T17:22:34+00:00
 aliases: ["/518.html"]
 description: ""
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "饭否"
   - "毕业"

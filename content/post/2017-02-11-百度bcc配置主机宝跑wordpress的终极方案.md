@@ -6,7 +6,7 @@ date: 2017-02-11T13:32:30+00:00
 aliases: ["/1295.html"]
 description: ""
 categories:
-  - "技术与设计"
+  - "技术"
 tags:
   - "数据库"
   - "解决"

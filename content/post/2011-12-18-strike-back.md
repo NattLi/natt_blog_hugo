@@ -6,7 +6,7 @@ date: 2011-12-18T21:22:00+00:00
 aliases: ["/1071.html"]
 description: ""
 categories:
-  - "阅读与创作"
+  - "旅行摄影"
 tags:
   - "无敌"
   - "英音"

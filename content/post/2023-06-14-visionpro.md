@@ -6,7 +6,7 @@ image: /images/202306/vision-pro-header.jpg
 description: ""
 author: "Natt"
 categories:
-  - "技术与设计"
+  - "艺术设计"
 tags:
   - "用户"
   - "产品"

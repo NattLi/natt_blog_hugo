@@ -7,7 +7,7 @@ aliases: ["/6553.html"]
 image: "/wp-content/uploads/2023/01/20230111154148.jpg"
 description: ""
 categories:
-  - "技术与设计"
+  - "艺术设计"
 tags:
   - "机场"
   - "小鸡"

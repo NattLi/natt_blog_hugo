@@ -6,7 +6,7 @@ date: 2010-12-17T14:38:00+00:00
 aliases: ["/963.html"]
 description: ""
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "页面"
   - "输入"

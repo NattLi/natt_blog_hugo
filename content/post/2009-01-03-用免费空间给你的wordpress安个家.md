@@ -6,7 +6,7 @@ date: 2009-01-02T17:57:00+00:00
 aliases: ["/176.html"]
 description: ""
 categories:
-  - "技术与设计"
+  - "技术"
 tags:
   - "域名"
   - "支持"

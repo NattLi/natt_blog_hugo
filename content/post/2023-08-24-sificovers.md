@@ -6,7 +6,7 @@ image: /images/pic_holder.jpg
 description: ""
 author: "Natt"
 categories:
-  - "技术与设计"
+  - "技术"
 tags:
   - "神们"
   - "刻板"

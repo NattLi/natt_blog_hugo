@@ -6,7 +6,7 @@ image: /images/202503/pickuppov.jpg
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "顿挫"
   - "皮卡车"

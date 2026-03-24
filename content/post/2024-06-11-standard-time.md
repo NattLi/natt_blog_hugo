@@ -6,7 +6,7 @@ image: /images/pic_holder.jpg
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "时间"
   - "标准"

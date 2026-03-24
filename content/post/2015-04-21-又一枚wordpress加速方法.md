@@ -6,7 +6,7 @@ date: 2015-04-21T15:22:00+00:00
 aliases: ["/1259.html"]
 description: ""
 categories:
-  - "技术与设计"
+  - "技术"
 tags:
   - "加速"
   - "插件"

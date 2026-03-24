@@ -6,7 +6,7 @@ image: /images/202402/2023.jpg
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "展望"
   - "振兴"

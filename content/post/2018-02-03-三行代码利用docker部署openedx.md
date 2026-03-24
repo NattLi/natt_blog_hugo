@@ -7,7 +7,7 @@ aliases: ["/6046.html"]
 image: "/wp-content/uploads/2018/02/WX20180203-182848.png"
 description: ""
 categories:
-  - "技术与设计"
+  - "技术"
 tags:
   - "代码"
   - "拉取"

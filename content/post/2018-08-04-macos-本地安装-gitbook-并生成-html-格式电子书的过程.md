@@ -7,7 +7,7 @@ aliases: ["/6166.html"]
 image: "/wp-content/uploads/2018/08/gitbook.png"
 description: ""
 categories:
-  - "技术与设计"
+  - "技术"
 tags:
   - "文件夹"
   - "安装"

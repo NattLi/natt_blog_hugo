@@ -6,7 +6,7 @@ image: /images/202505/kanyuzhou.jpg
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "读书随笔"
 tags:
   - "宇宙"
   - "反思"

@@ -6,7 +6,7 @@ image: /images/202505/beer-liufang.jpg
 description: ""
 author: "Natt"
 categories:
-  - "阅读与创作"
+  - "读书随笔"
 tags:
   - "流放地"
   - "隐喻"

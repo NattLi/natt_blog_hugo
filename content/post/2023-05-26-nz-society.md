@@ -5,7 +5,7 @@ date:       2023-05-26
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "观点思考"
 tags:
   - "问题"
   - "社会"

@@ -7,7 +7,7 @@ aliases: ["/1471.html"]
 image: "/wp-content/uploads/2017/11/Snip20171122_2.png"
 description: ""
 categories:
-  - "碎片与日常"
+  - "旅行摄影"
 tags:
   - "照片"
   - "翻墙"

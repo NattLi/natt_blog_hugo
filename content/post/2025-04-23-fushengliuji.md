@@ -6,7 +6,7 @@ image: /images/202504/fusheng.jpg
 description: ""
 author: "Natt"
 categories:
-  - "阅读与创作"
+  - "生活"
 tags:
   - "记趣"
   - "闲情"

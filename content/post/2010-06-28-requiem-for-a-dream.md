@@ -6,7 +6,7 @@ date: 2010-06-28T09:57:00+00:00
 aliases: ["/857.html"]
 description: ""
 categories:
-  - "碎片与日常"
+  - "艺术设计"
 tags:
   - "肉体"
   - "电影"

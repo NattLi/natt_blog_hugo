@@ -6,7 +6,7 @@ image: /images/202501/midagehotpot.jpg
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "注定"
   - "男人"

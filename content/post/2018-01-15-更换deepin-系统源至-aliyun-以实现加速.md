@@ -7,7 +7,7 @@ aliases: ["/6026.html"]
 image: "/wp-content/uploads/2018/01/deepin.png"
 description: ""
 categories:
-  - "碎片与日常"
+  - "技术"
 tags:
   - "安装"
   - "将源"

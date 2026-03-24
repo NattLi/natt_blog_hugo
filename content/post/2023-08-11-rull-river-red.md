@@ -6,7 +6,7 @@ image: /images/202308/river-red.jpeg
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "技术"
 tags:
   - "传颂"
   - "能够"

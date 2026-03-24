@@ -6,7 +6,7 @@ image: /images/202401/renri.jpg
 description: ""
 author: "Natt"
 categories:
-  - "技术与设计"
+  - "生活"
 tags:
   - "个体"
   - "人日"

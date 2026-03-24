@@ -6,7 +6,7 @@ image: /images/202504/shenxinjiankang.jpg
 description: ""
 author: "Natt"
 categories:
-  - "阅读与创作"
+  - "创作记录"
 tags:
   - "世界"
   - "三体"

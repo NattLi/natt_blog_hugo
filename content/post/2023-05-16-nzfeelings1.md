@@ -5,7 +5,7 @@ date:       2023-05-16
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "水果"
   - "结账"

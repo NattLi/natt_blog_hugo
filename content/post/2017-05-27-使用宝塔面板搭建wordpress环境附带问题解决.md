@@ -7,7 +7,7 @@ aliases: ["/1329.html"]
 image: "/wp-content/uploads/2017/05/wp.jpg"
 description: ""
 categories:
-  - "技术与设计"
+  - "技术"
 tags:
   - "面板"
   - "备份"

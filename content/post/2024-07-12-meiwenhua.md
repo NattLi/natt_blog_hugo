@@ -5,7 +5,7 @@ date:       2024-07-12
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "影音娱乐"
 tags:
   - "独唱"
   - "杂志"

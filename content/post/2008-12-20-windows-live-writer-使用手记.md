@@ -6,7 +6,7 @@ date: 2008-12-19T16:31:07+00:00
 aliases: ["/120.html"]
 description: ""
 categories:
-  - "技术与设计"
+  - "影音娱乐"
 tags:
   - "预览"
   - "测试"

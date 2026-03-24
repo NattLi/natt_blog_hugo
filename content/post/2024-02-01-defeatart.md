@@ -6,7 +6,7 @@ image: /images/202402/eng-defeat-art.jpg
 description: ""
 author: "Natt"
 categories:
-  - "技术与设计"
+  - "艺术设计"
 tags:
   - "随笔"
 

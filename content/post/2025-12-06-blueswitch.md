@@ -6,7 +6,7 @@ image:      /images/202512/blueswitch.jpg
 description: ""
 author: "Natt"
 categories:
-  - "技术与设计"
+  - "观点思考"
 tags:
   - "优派"
   - "像是"

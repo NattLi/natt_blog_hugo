@@ -6,7 +6,7 @@ image: /images/202511/oortcloud.jpg
 description: ""
 author: "Natt"
 categories:
-  - "碎片与日常"
+  - "生活"
 tags:
   - "彗星"
   - "天体"
