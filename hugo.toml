@@ -4,6 +4,7 @@ theme = "hugo-theme-stack"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 hasCJKLanguage = true
+enableRobotsTXT = true
 
 [pagination]
     pagerSize = 5
