@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      清迈躺平之旅流水账day0
-date:       2026-05-29
+date:       2026-05-21
 image: /images/202605/day0.jpg
 description: ""
 author: "Natt"
