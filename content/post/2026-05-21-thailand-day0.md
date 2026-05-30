@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      丝滑入境·清迈游记day0
+title:      丝滑入境·清迈游记 Day0
 date:       2026-05-21
 image: /images/202605/day0.jpg
 description: ""

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      古城漫步·清迈游记day1
+title:      古城漫步·清迈游记 Day1
 date:       2026-05-22
 image: /images/202605/day1.png
 description: ""
