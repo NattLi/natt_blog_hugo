@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      清迈躺平之旅流水账day1
+title:      古城漫步·清迈躺平之旅流水账day1
 date:       2026-05-22
 image: /images/202605/day1.png
 description: ""
