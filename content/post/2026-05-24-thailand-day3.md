@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      今日开车 去瀑布 吃当地餐·清迈游记 Day3
-date:       2026-05-23
+date:       2026-05-24
 image: /images/202605/day3.jpg
 description: ""
 author: "Natt"
