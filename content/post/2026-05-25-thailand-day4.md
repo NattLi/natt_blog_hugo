@@ -2,7 +2,7 @@
 layout:     post
 title:      享受酒店 步入秘境 本地食物·清迈游记 Day4
 date:       2026-05-25
-image: /images/202605/day4-dinner2.jpg
+image: /images/202605/day4-garden6.jpg
 description: ""
 author: "Natt"
 categories:
