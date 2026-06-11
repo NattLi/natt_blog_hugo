@@ -50,11 +50,11 @@ tags:
 
 Horizon Resort 是和当地的植物园在一起的，甚至，可以说它就是 Bionical Garden 的一部分。所以，下午我上课期间，靠酒店的免费 Tram 带他们去溜了溜。似乎有的意思，但中午太热，草草走马观花了一圈，3点多点就回房间吹空调了。
 
-![清迈](/images/202605/day4-garden2.jpg) 
+![清迈](/images/202605/day4-garden3.jpg) 
 
 4点钟，我下课后，本着继续放松休闲的目的，在Google Map 上随手找了个山里的咖啡，叫 take a walk. 彻底震惊。
 
-![清迈](/images/202605/day4-garden3.jpg) 
+![清迈](/images/202605/day4-garden2.jpg) 
 导航到停车点后，这个 take a walk 简直就是跟着指示牌的定向徒步。非常有趣。
 
 ![清迈](/images/202605/day4-garden4.jpg) 
