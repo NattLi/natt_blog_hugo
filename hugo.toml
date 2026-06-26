@@ -21,6 +21,22 @@ enableRobotsTXT = true
     baseName = "index"
     mediaType = "application/json"
 
+[related]
+    includeNewer = true
+    threshold = 80
+
+    [[related.indices]]
+        name = "keywords"
+        weight = 100
+
+    [[related.indices]]
+        name = "date"
+        weight = 10
+
+    [[related.indices]]
+        name = "tags"
+        weight = 80
+
 [params]
     mainSections = ["post"]
     rssFullContent = true

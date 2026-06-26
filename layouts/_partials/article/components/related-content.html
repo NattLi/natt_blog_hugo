@@ -1,0 +1,25 @@
+{{ $current := . }}
+{{ $weighted := slice }}
+
+{{ range .Site.RegularPages.Related . }}
+    {{ $distance := sub .Date.Unix $current.Date.Unix }}
+    {{ if lt $distance 0 }}
+        {{ $distance = mul $distance -1 }}
+    {{ end }}
+
+    {{ $weighted = $weighted | append (dict "Page" . "Distance" $distance) }}
+{{ end }}
+
+{{ $related := sort $weighted "Distance" "asc" | first 5 }}
+{{ with $related }}
+<aside>
+    <h2 class="section-title">{{ T "article.relatedContent" }}</h2>
+    <div class="subsection-list">
+        <div class="article-list--tile">
+            {{ range . }}
+                {{ partial "article-list/tile" .Page }}
+            {{ end }}
+        </div>
+    </div>
+</aside>
+{{ end }}
